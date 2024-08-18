@@ -1,0 +1,1105 @@
+[
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Led Zeppelin"
+  },
+  {
+    "command": "addAlbum",
+    "username": "Led Zeppelin",
+    "timestamp": 1,
+    "name": "Led Zeppelin IV (Deluxe Edition)",
+    "songs": [
+      {
+        "name": "Black Dog",
+        "duration": 294,
+        "album": "Led Zeppelin IV (Deluxe Edition)",
+        "tags": [
+          "70s",
+          "classic rock",
+          "rock",
+          "hard rock",
+          "blues rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "70s",
+        "releaseYear": 2022,
+        "artist": "Led Zeppelin"
+      },
+      {
+        "name": "Rock and Roll",
+        "duration": 220,
+        "album": "Led Zeppelin IV (Deluxe Edition)",
+        "tags": [
+          "70s",
+          "classic rock",
+          "rock",
+          "hard rock",
+          "blues rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "70s",
+        "releaseYear": 2022,
+        "artist": "Led Zeppelin"
+      },
+      {
+        "name": "The Battle of Evermore",
+        "duration": 330,
+        "album": "Led Zeppelin IV (Deluxe Edition)",
+        "tags": [
+          "70s",
+          "classic rock",
+          "rock",
+          "hard rock",
+          "blues rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "70s",
+        "releaseYear": 2022,
+        "artist": "Led Zeppelin"
+      },
+      {
+        "name": "Stairway to Heaven",
+        "duration": 662,
+        "album": "Led Zeppelin IV (Deluxe Edition)",
+        "tags": [
+          "70s",
+          "classic rock",
+          "rock",
+          "hard rock",
+          "blues rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "70s",
+        "releaseYear": 2022,
+        "artist": "Led Zeppelin"
+      },
+      {
+        "name": "Misty Mountain Hop",
+        "duration": 279,
+        "album": "Led Zeppelin IV (Deluxe Edition)",
+        "tags": [
+          "70s",
+          "classic rock",
+          "rock",
+          "hard rock",
+          "blues rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "70s",
+        "releaseYear": 2022,
+        "artist": "Led Zeppelin"
+      },
+      {
+        "name": "Four Sticks",
+        "duration": 69,
+        "album": "Led Zeppelin IV (Deluxe Edition)",
+        "tags": [
+          "70s",
+          "classic rock",
+          "rock",
+          "hard rock",
+          "blues rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "70s",
+        "releaseYear": 2022,
+        "artist": "Led Zeppelin"
+      },
+      {
+        "name": "Going to California",
+        "duration": 329,
+        "album": "Led Zeppelin IV (Deluxe Edition)",
+        "tags": [
+          "70s",
+          "classic rock",
+          "rock",
+          "hard rock",
+          "blues rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "70s",
+        "releaseYear": 2022,
+        "artist": "Led Zeppelin"
+      },
+      {
+        "name": "When the Levee Breaks",
+        "duration": 428,
+        "album": "Led Zeppelin IV (Deluxe Edition)",
+        "tags": [
+          "70s",
+          "classic rock",
+          "rock",
+          "hard rock",
+          "blues rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "70s",
+        "releaseYear": 2022,
+        "artist": "Led Zeppelin"
+      },
+      {
+        "name": "Black Dog - Basic Track With Guitar Overdubs",
+        "duration": 275,
+        "album": "Led Zeppelin IV (Deluxe Edition)",
+        "tags": [
+          "70s",
+          "classic rock",
+          "rock",
+          "hard rock",
+          "blues rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "70s",
+        "releaseYear": 2022,
+        "artist": "Led Zeppelin"
+      },
+      {
+        "name": "Rock And Roll - Alternate Mix",
+        "duration": 220,
+        "album": "Led Zeppelin IV (Deluxe Edition)",
+        "tags": [
+          "70s",
+          "classic rock",
+          "rock",
+          "hard rock",
+          "blues rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "70s",
+        "releaseYear": 2022,
+        "artist": "Led Zeppelin"
+      },
+      {
+        "name": "The Battle Of Evermore - Mandolin / Guitar Mix From Headley Grange",
+        "duration": 253,
+        "album": "Led Zeppelin IV (Deluxe Edition)",
+        "tags": [
+          "70s",
+          "classic rock",
+          "rock",
+          "hard rock",
+          "blues rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "70s",
+        "releaseYear": 2022,
+        "artist": "Led Zeppelin"
+      },
+      {
+        "name": "Stairway To Heaven - Sunset Sound Mix",
+        "duration": 484,
+        "album": "Led Zeppelin IV (Deluxe Edition)",
+        "tags": [
+          "70s",
+          "classic rock",
+          "rock",
+          "hard rock",
+          "blues rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "70s",
+        "releaseYear": 2022,
+        "artist": "Led Zeppelin"
+      },
+      {
+        "name": "Misty Mountain Hop - Alternate Mix",
+        "duration": 285,
+        "album": "Led Zeppelin IV (Deluxe Edition)",
+        "tags": [
+          "70s",
+          "classic rock",
+          "rock",
+          "hard rock",
+          "blues rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "70s",
+        "releaseYear": 2022,
+        "artist": "Led Zeppelin"
+      },
+      {
+        "name": "Four Sticks - Alternate Mix",
+        "duration": 273,
+        "album": "Led Zeppelin IV (Deluxe Edition)",
+        "tags": [
+          "70s",
+          "classic rock",
+          "rock",
+          "hard rock",
+          "blues rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "70s",
+        "releaseYear": 2022,
+        "artist": "Led Zeppelin"
+      },
+      {
+        "name": "Going To California - Mandolin / Guitar Mix",
+        "duration": 214,
+        "album": "Led Zeppelin IV (Deluxe Edition)",
+        "tags": [
+          "70s",
+          "classic rock",
+          "rock",
+          "hard rock",
+          "blues rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "70s",
+        "releaseYear": 2022,
+        "artist": "Led Zeppelin"
+      },
+      {
+        "name": "When The Levee Breaks - Alternate UK Mix In Progress",
+        "duration": 429,
+        "album": "Led Zeppelin IV (Deluxe Edition)",
+        "tags": [
+          "70s",
+          "classic rock",
+          "rock",
+          "hard rock",
+          "blues rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "70s",
+        "releaseYear": 2022,
+        "artist": "Led Zeppelin"
+      }
+    ],
+    "description": "\"Led Zeppelin IV\" is the common, but unofficial name of the untitled fourth album of English rock band Led Zeppelin. It was released on November 8, 1971. It has no official title printed anywhere on the album, but is generally called \"Led Zeppelin IV\" after the band's previous three numbered albums. Atlantic Records catalogs have used the names \"Four Symbols\" and \"The Fourth Album\"; it has also been referred to as Zoso, which the first symbol appears to spell. Led Zeppelin guitarist Jimmy Page frequently refers to the album in interviews as \"the fourth album\" and \"Led Zeppelin IV\", while <a href=\"https://www.last.fm/music/Led+Zeppelin/Led+Zeppelin+IV+(Deluxe+Edition)\">Read more on Last.fm</a>.",
+    "releaseYear": 2022
+  },
+  {
+    "command": "search",
+    "username": "alice22",
+    "timestamp": 10,
+    "type": "song",
+    "filters": {
+      "name": "Sta"
+    }
+  },
+  {
+    "command": "select",
+    "username": "alice22",
+    "timestamp": 15,
+    "itemNumber": 1
+  },
+  {
+    "command": "status",
+    "username": "alice22",
+    "timestamp": 30
+  },
+  {
+    "timestamp": 35,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Nothing But Thieves"
+  },
+  {
+    "command": "addAlbum",
+    "username": "Nothing But Thieves",
+    "timestamp": 40,
+    "name": "Broken Machine (Deluxe)",
+    "songs": [
+      {
+        "name": "I Was Just a Kid",
+        "duration": 271,
+        "album": "Broken Machine (Deluxe)",
+        "tags": [
+          "alternative rock",
+          "2017",
+          "rock",
+          "alternative",
+          "indie rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative rock",
+        "releaseYear": 1970,
+        "artist": "Nothing But Thieves"
+      },
+      {
+        "name": "Amsterdam",
+        "duration": 272,
+        "album": "Broken Machine (Deluxe)",
+        "tags": [
+          "alternative rock",
+          "2017",
+          "rock",
+          "alternative",
+          "indie rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative rock",
+        "releaseYear": 1970,
+        "artist": "Nothing But Thieves"
+      },
+      {
+        "name": "Sorry",
+        "duration": 215,
+        "album": "Broken Machine (Deluxe)",
+        "tags": [
+          "alternative rock",
+          "2017",
+          "rock",
+          "alternative",
+          "indie rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative rock",
+        "releaseYear": 1970,
+        "artist": "Nothing But Thieves"
+      },
+      {
+        "name": "Broken Machine",
+        "duration": 234,
+        "album": "Broken Machine (Deluxe)",
+        "tags": [
+          "alternative rock",
+          "2017",
+          "rock",
+          "alternative",
+          "indie rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative rock",
+        "releaseYear": 1970,
+        "artist": "Nothing But Thieves"
+      },
+      {
+        "name": "Live Like Animals",
+        "duration": 250,
+        "album": "Broken Machine (Deluxe)",
+        "tags": [
+          "alternative rock",
+          "2017",
+          "rock",
+          "alternative",
+          "indie rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative rock",
+        "releaseYear": 1970,
+        "artist": "Nothing But Thieves"
+      },
+      {
+        "name": "Soda",
+        "duration": 236,
+        "album": "Broken Machine (Deluxe)",
+        "tags": [
+          "alternative rock",
+          "2017",
+          "rock",
+          "alternative",
+          "indie rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative rock",
+        "releaseYear": 1970,
+        "artist": "Nothing But Thieves"
+      },
+      {
+        "name": "I'm Not Made by Design",
+        "duration": 232,
+        "album": "Broken Machine (Deluxe)",
+        "tags": [
+          "alternative rock",
+          "2017",
+          "rock",
+          "alternative",
+          "indie rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative rock",
+        "releaseYear": 1970,
+        "artist": "Nothing But Thieves"
+      },
+      {
+        "name": "Particles",
+        "duration": 235,
+        "album": "Broken Machine (Deluxe)",
+        "tags": [
+          "alternative rock",
+          "2017",
+          "rock",
+          "alternative",
+          "indie rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative rock",
+        "releaseYear": 1970,
+        "artist": "Nothing But Thieves"
+      },
+      {
+        "name": "Get Better",
+        "duration": 199,
+        "album": "Broken Machine (Deluxe)",
+        "tags": [
+          "alternative rock",
+          "2017",
+          "rock",
+          "alternative",
+          "indie rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative rock",
+        "releaseYear": 1970,
+        "artist": "Nothing But Thieves"
+      },
+      {
+        "name": "Hell, Yeah",
+        "duration": 186,
+        "album": "Broken Machine (Deluxe)",
+        "tags": [
+          "alternative rock",
+          "2017",
+          "rock",
+          "alternative",
+          "indie rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative rock",
+        "releaseYear": 1970,
+        "artist": "Nothing But Thieves"
+      },
+      {
+        "name": "Afterlife",
+        "duration": 283,
+        "album": "Broken Machine (Deluxe)",
+        "tags": [
+          "alternative rock",
+          "2017",
+          "rock",
+          "alternative",
+          "indie rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative rock",
+        "releaseYear": 1970,
+        "artist": "Nothing But Thieves"
+      },
+      {
+        "name": "Reset Me",
+        "duration": 211,
+        "album": "Broken Machine (Deluxe)",
+        "tags": [
+          "alternative rock",
+          "2017",
+          "rock",
+          "alternative",
+          "indie rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative rock",
+        "releaseYear": 1970,
+        "artist": "Nothing But Thieves"
+      },
+      {
+        "name": "Number 13",
+        "duration": 177,
+        "album": "Broken Machine (Deluxe)",
+        "tags": [
+          "alternative rock",
+          "2017",
+          "rock",
+          "alternative",
+          "indie rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative rock",
+        "releaseYear": 1970,
+        "artist": "Nothing But Thieves"
+      },
+      {
+        "name": "Sorry - Acoustic",
+        "duration": 214,
+        "album": "Broken Machine (Deluxe)",
+        "tags": [
+          "alternative rock",
+          "2017",
+          "rock",
+          "alternative",
+          "indie rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative rock",
+        "releaseYear": 1970,
+        "artist": "Nothing But Thieves"
+      },
+      {
+        "name": "Particles - Piano Version",
+        "duration": 220,
+        "album": "Broken Machine (Deluxe)",
+        "tags": [
+          "alternative rock",
+          "2017",
+          "rock",
+          "alternative",
+          "indie rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative rock",
+        "releaseYear": 1970,
+        "artist": "Nothing But Thieves"
+      }
+    ],
+    "description": "No description",
+    "releaseYear": 1970
+  },
+  {
+    "command": "search",
+    "username": "alice22",
+    "timestamp": 60,
+    "type": "song",
+    "filters": {
+      "name": "A",
+      "genre": "alternative rock"
+    }
+  },
+  {
+    "command": "select",
+    "username": "alice22",
+    "timestamp": 65,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "alice22",
+    "timestamp": 75
+  },
+  {
+    "command": "status",
+    "username": "alice22",
+    "timestamp": 90
+  },
+  {
+    "command": "like",
+    "username": "alice22",
+    "timestamp": 130
+  },
+  {
+    "command": "updateRecommendations",
+    "username": "alice22",
+    "timestamp": 135,
+    "recommendationType": "random_song"
+  },
+  {
+    "command": "printCurrentPage",
+    "username": "alice22",
+    "timestamp": 150
+  },
+  {
+    "command": "updateRecommendations",
+    "username": "alice22",
+    "timestamp": 165,
+    "recommendationType": "random_playlist"
+  },
+  {
+    "command": "addUser",
+    "timestamp": 170,
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Michael Jackson"
+  },
+  {
+    "command": "addAlbum",
+    "username": "Michael Jackson",
+    "timestamp": 175,
+    "name": "Thriller 25 Super Deluxe Edition",
+    "songs": [
+      {
+        "name": "Wanna Be Startin' Somethin'",
+        "duration": 362,
+        "album": "Thriller 25 Super Deluxe Edition",
+        "tags": [
+          "pop",
+          "80s",
+          "michael jackson",
+          "dance",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "pop",
+        "releaseYear": 2019,
+        "artist": "Michael Jackson"
+      },
+      {
+        "name": "Baby Be Mine",
+        "duration": 239,
+        "album": "Thriller 25 Super Deluxe Edition",
+        "tags": [
+          "pop",
+          "80s",
+          "michael jackson",
+          "dance",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "pop",
+        "releaseYear": 2019,
+        "artist": "Michael Jackson"
+      },
+      {
+        "name": "The Girl Is Mine",
+        "duration": 222,
+        "album": "Thriller 25 Super Deluxe Edition",
+        "tags": [
+          "pop",
+          "80s",
+          "michael jackson",
+          "dance",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "pop",
+        "releaseYear": 2019,
+        "artist": "Michael Jackson"
+      },
+      {
+        "name": "Thriller",
+        "duration": 358,
+        "album": "Thriller 25 Super Deluxe Edition",
+        "tags": [
+          "pop",
+          "80s",
+          "michael jackson",
+          "dance",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "pop",
+        "releaseYear": 2019,
+        "artist": "Michael Jackson"
+      },
+      {
+        "name": "Beat It - Single Version",
+        "duration": 258,
+        "album": "Thriller 25 Super Deluxe Edition",
+        "tags": [
+          "pop",
+          "80s",
+          "michael jackson",
+          "dance",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "pop",
+        "releaseYear": 2019,
+        "artist": "Michael Jackson"
+      },
+      {
+        "name": "Billie Jean",
+        "duration": 294,
+        "album": "Thriller 25 Super Deluxe Edition",
+        "tags": [
+          "pop",
+          "80s",
+          "michael jackson",
+          "dance",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "pop",
+        "releaseYear": 2019,
+        "artist": "Michael Jackson"
+      },
+      {
+        "name": "Human Nature",
+        "duration": 245,
+        "album": "Thriller 25 Super Deluxe Edition",
+        "tags": [
+          "pop",
+          "80s",
+          "michael jackson",
+          "dance",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "pop",
+        "releaseYear": 2019,
+        "artist": "Michael Jackson"
+      },
+      {
+        "name": "P.Y.T. (Pretty Young Thing)",
+        "duration": 239,
+        "album": "Thriller 25 Super Deluxe Edition",
+        "tags": [
+          "pop",
+          "80s",
+          "michael jackson",
+          "dance",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "pop",
+        "releaseYear": 2019,
+        "artist": "Michael Jackson"
+      },
+      {
+        "name": "The Lady in My Life",
+        "duration": 298,
+        "album": "Thriller 25 Super Deluxe Edition",
+        "tags": [
+          "pop",
+          "80s",
+          "michael jackson",
+          "dance",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "pop",
+        "releaseYear": 2019,
+        "artist": "Michael Jackson"
+      },
+      {
+        "name": "Vincent Price Excerpt From \"Thriller\" Voice-Over Session - Thriller 25th Anniversary Voice-Over Session",
+        "duration": 24,
+        "album": "Thriller 25 Super Deluxe Edition",
+        "tags": [
+          "pop",
+          "80s",
+          "michael jackson",
+          "dance",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "pop",
+        "releaseYear": 2019,
+        "artist": "Michael Jackson"
+      },
+      {
+        "name": "The Girl Is Mine 2008 with will.i.am - Thriller 25th Anniversary Remix",
+        "duration": 190,
+        "album": "Thriller 25 Super Deluxe Edition",
+        "tags": [
+          "pop",
+          "80s",
+          "michael jackson",
+          "dance",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "pop",
+        "releaseYear": 2019,
+        "artist": "Michael Jackson"
+      },
+      {
+        "name": "P.Y.T. (Pretty Young Thing) 2008 with will.i.am - Thriller 25th Anniversary Remix feat. willi.i.am",
+        "duration": 261,
+        "album": "Thriller 25 Super Deluxe Edition",
+        "tags": [
+          "pop",
+          "80s",
+          "michael jackson",
+          "dance",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "pop",
+        "releaseYear": 2019,
+        "artist": "Michael Jackson"
+      },
+      {
+        "name": "Wanna Be Startin' Somethin' 2008 with Akon - Thriller 25th Anniversary Remix",
+        "duration": 254,
+        "album": "Thriller 25 Super Deluxe Edition",
+        "tags": [
+          "pop",
+          "80s",
+          "michael jackson",
+          "dance",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "pop",
+        "releaseYear": 2019,
+        "artist": "Michael Jackson"
+      },
+      {
+        "name": "Beat It 2008 - Thriller 25th Anniversary Remix feat. Fergie",
+        "duration": 251,
+        "album": "Thriller 25 Super Deluxe Edition",
+        "tags": [
+          "pop",
+          "80s",
+          "michael jackson",
+          "dance",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "pop",
+        "releaseYear": 2019,
+        "artist": "Michael Jackson"
+      },
+      {
+        "name": "Billie Jean 2008 Kanye West Mix - Thriller 25th Anniversary Remix",
+        "duration": 275,
+        "album": "Thriller 25 Super Deluxe Edition",
+        "tags": [
+          "pop",
+          "80s",
+          "michael jackson",
+          "dance",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "pop",
+        "releaseYear": 2019,
+        "artist": "Michael Jackson"
+      },
+      {
+        "name": "For All Time",
+        "duration": 243,
+        "album": "Thriller 25 Super Deluxe Edition",
+        "tags": [
+          "pop",
+          "80s",
+          "michael jackson",
+          "dance",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "pop",
+        "releaseYear": 2019,
+        "artist": "Michael Jackson"
+      },
+      {
+        "name": "Voice-Over Intro Quincy Jones Interview #1 / Quincy Jones Interview #1",
+        "duration": 137,
+        "album": "Thriller 25 Super Deluxe Edition",
+        "tags": [
+          "pop",
+          "80s",
+          "michael jackson",
+          "dance",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "pop",
+        "releaseYear": 2019,
+        "artist": "Michael Jackson"
+      },
+      {
+        "name": "Someone in the Dark",
+        "duration": 69,
+        "album": "Thriller 25 Super Deluxe Edition",
+        "tags": [
+          "pop",
+          "80s",
+          "michael jackson",
+          "dance",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "pop",
+        "releaseYear": 2019,
+        "artist": "Michael Jackson"
+      },
+      {
+        "name": "Voice-Over Intro Quincy Jones Interview #2/Quincy Jones Interview #2/Voice-Over Intro Billie Jean (Demo)",
+        "duration": 124,
+        "album": "Thriller 25 Super Deluxe Edition",
+        "tags": [
+          "pop",
+          "80s",
+          "michael jackson",
+          "dance",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "pop",
+        "releaseYear": 2019,
+        "artist": "Michael Jackson"
+      },
+      {
+        "name": "Billie Jean (Home Demo From 1981)",
+        "duration": 140,
+        "album": "Thriller 25 Super Deluxe Edition",
+        "tags": [
+          "pop",
+          "80s",
+          "michael jackson",
+          "dance",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "pop",
+        "releaseYear": 2019,
+        "artist": "Michael Jackson"
+      },
+      {
+        "name": "Quincy Jones Interview #3",
+        "duration": 190,
+        "album": "Thriller 25 Super Deluxe Edition",
+        "tags": [
+          "pop",
+          "80s",
+          "michael jackson",
+          "dance",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "pop",
+        "releaseYear": 2019,
+        "artist": "Michael Jackson"
+      },
+      {
+        "name": "Voice-Over Intro Rod Temperton Interview #1 / Rod Temperton Interview #1",
+        "duration": 242,
+        "album": "Thriller 25 Super Deluxe Edition",
+        "tags": [
+          "pop",
+          "80s",
+          "michael jackson",
+          "dance",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "pop",
+        "releaseYear": 2019,
+        "artist": "Michael Jackson"
+      },
+      {
+        "name": "Quincy Jones Interview #4",
+        "duration": 92,
+        "album": "Thriller 25 Super Deluxe Edition",
+        "tags": [
+          "pop",
+          "80s",
+          "michael jackson",
+          "dance",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "pop",
+        "releaseYear": 2019,
+        "artist": "Michael Jackson"
+      },
+      {
+        "name": "Voice-Over Intro / Voice-Over Session From Thriller",
+        "duration": 172,
+        "album": "Thriller 25 Super Deluxe Edition",
+        "tags": [
+          "pop",
+          "80s",
+          "michael jackson",
+          "dance",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "pop",
+        "releaseYear": 2019,
+        "artist": "Michael Jackson"
+      },
+      {
+        "name": "Voice-Over Intro Rod Temperton Interview #2 / Rod Temperton Interview #2",
+        "duration": 116,
+        "album": "Thriller 25 Super Deluxe Edition",
+        "tags": [
+          "pop",
+          "80s",
+          "michael jackson",
+          "dance",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "pop",
+        "releaseYear": 2019,
+        "artist": "Michael Jackson"
+      },
+      {
+        "name": "Quincy Jones Interview #5",
+        "duration": 121,
+        "album": "Thriller 25 Super Deluxe Edition",
+        "tags": [
+          "pop",
+          "80s",
+          "michael jackson",
+          "dance",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "pop",
+        "releaseYear": 2019,
+        "artist": "Michael Jackson"
+      },
+      {
+        "name": "Carousel",
+        "duration": 220,
+        "album": "Thriller 25 Super Deluxe Edition",
+        "tags": [
+          "pop",
+          "80s",
+          "michael jackson",
+          "dance",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "pop",
+        "releaseYear": 2019,
+        "artist": "Michael Jackson"
+      },
+      {
+        "name": "Voice-Over Intro Quincy Jones Interview #6 / Quincy Jones Interview #6",
+        "duration": 77,
+        "album": "Thriller 25 Super Deluxe Edition",
+        "tags": [
+          "pop",
+          "80s",
+          "michael jackson",
+          "dance",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "pop",
+        "releaseYear": 2019,
+        "artist": "Michael Jackson"
+      },
+      {
+        "name": "Billie Jean - Underground Mix",
+        "duration": 400,
+        "album": "Thriller 25 Super Deluxe Edition",
+        "tags": [
+          "pop",
+          "80s",
+          "michael jackson",
+          "dance",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "pop",
+        "releaseYear": 2019,
+        "artist": "Michael Jackson"
+      },
+      {
+        "name": "Thriller - Instrumental",
+        "duration": 356,
+        "album": "Thriller 25 Super Deluxe Edition",
+        "tags": [
+          "pop",
+          "80s",
+          "michael jackson",
+          "dance",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "pop",
+        "releaseYear": 2019,
+        "artist": "Michael Jackson"
+      }
+    ],
+    "description": "Thriller 25 is the 25th anniversary edition reissue of American recording artist Michael Jackson's sixth studio album Thriller. The original album sold between 65 and 100 million copies worldwide, making it the world's best selling album of all time. The prospect of a \"second chapter\" to Thriller was first publicly discussed on Access Hollywood in late 2006. Jackson said he would discuss the idea with collaborator will.i.am. It was released in Australia on February 8, 2008, internationally on February 11, 2008, and in the United States on February 12, 2008 by Epic Records, Legacy Recordings and MJJ Productions. Thriller 25 <a href=\"https://www.last.fm/music/Michael+Jackson/Thriller+25+Super+Deluxe+Edition\">Read more on Last.fm</a>.",
+    "releaseYear": 2019
+  },
+  {
+    "command": "printCurrentPage",
+    "username": "alice22",
+    "timestamp": 190
+  }
+]

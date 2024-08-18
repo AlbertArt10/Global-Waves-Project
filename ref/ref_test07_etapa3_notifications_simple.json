@@ -1,0 +1,419 @@
+[ {
+  "command" : "addUser",
+  "user" : "The Beatles",
+  "timestamp" : 1,
+  "message" : "The username The Beatles has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Michael Jackson",
+  "timestamp" : 1,
+  "message" : "The username Michael Jackson has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Nothing But Thieves",
+  "timestamp" : 1,
+  "message" : "The username Nothing But Thieves has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Bob Dylan",
+  "timestamp" : 1,
+  "message" : "The username Bob Dylan has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Madonna",
+  "timestamp" : 1,
+  "message" : "The username Madonna has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Queen",
+  "timestamp" : 1,
+  "message" : "The username Queen has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "The Rolling Stones",
+  "timestamp" : 1,
+  "message" : "The username The Rolling Stones has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "David Bowie",
+  "timestamp" : 1,
+  "message" : "The username David Bowie has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Prince",
+  "timestamp" : 1,
+  "message" : "The username Prince has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Whitney Houston",
+  "timestamp" : 1,
+  "message" : "The username Whitney Houston has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Elton John",
+  "timestamp" : 1,
+  "message" : "The username Elton John has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Led Zeppelin",
+  "timestamp" : 1,
+  "message" : "The username Led Zeppelin has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Stevie Wonder",
+  "timestamp" : 1,
+  "message" : "The username Stevie Wonder has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "BeyoncÃ©",
+  "timestamp" : 1,
+  "message" : "The username BeyoncÃ© has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Pink Floyd",
+  "timestamp" : 1,
+  "message" : "The username Pink Floyd has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "U2",
+  "timestamp" : 1,
+  "message" : "The username U2 has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "The Beach Boys",
+  "timestamp" : 1,
+  "message" : "The username The Beach Boys has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Frank Sinatra",
+  "timestamp" : 1,
+  "message" : "The username Frank Sinatra has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Johnny Cash",
+  "timestamp" : 1,
+  "message" : "The username Johnny Cash has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Adele",
+  "timestamp" : 1,
+  "message" : "The username Adele has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Bruce Springsteen",
+  "timestamp" : 1,
+  "message" : "The username Bruce Springsteen has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Jimi Hendrix",
+  "timestamp" : 1,
+  "message" : "The username Jimi Hendrix has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Nirvana",
+  "timestamp" : 1,
+  "message" : "The username Nirvana has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Dire Straits",
+  "timestamp" : 1,
+  "message" : "The username Dire Straits has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Imagine Dragons",
+  "timestamp" : 1,
+  "message" : "The username Imagine Dragons has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Eminem",
+  "timestamp" : 1,
+  "message" : "The username Eminem has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "ABBA",
+  "timestamp" : 1,
+  "message" : "The username ABBA has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Ray Charles",
+  "timestamp" : 1,
+  "message" : "The username Ray Charles has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "The Eagles",
+  "timestamp" : 1,
+  "message" : "The username The Eagles has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Bob Marley",
+  "timestamp" : 1,
+  "message" : "The username Bob Marley has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Taylor Swift",
+  "timestamp" : 1,
+  "message" : "The username Taylor Swift has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Aretha Franklin",
+  "timestamp" : 1,
+  "message" : "The username Aretha Franklin has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "The Who",
+  "timestamp" : 1,
+  "message" : "The username The Who has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Rihanna",
+  "timestamp" : 1,
+  "message" : "The username Rihanna has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Marvin Gaye",
+  "timestamp" : 1,
+  "message" : "The username Marvin Gaye has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Fleetwood Mac",
+  "timestamp" : 1,
+  "message" : "The username Fleetwood Mac has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "James Brown",
+  "timestamp" : 1,
+  "message" : "The username James Brown has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Radiohead",
+  "timestamp" : 1,
+  "message" : "The username Radiohead has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "The Doors",
+  "timestamp" : 1,
+  "message" : "The username The Doors has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Jay-Z",
+  "timestamp" : 1,
+  "message" : "The username Jay-Z has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Eric Clapton",
+  "timestamp" : 1,
+  "message" : "The username Eric Clapton has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Joni Mitchell",
+  "timestamp" : 1,
+  "message" : "The username Joni Mitchell has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Chuck Berry",
+  "timestamp" : 1,
+  "message" : "The username Chuck Berry has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "The Police",
+  "timestamp" : 1,
+  "message" : "The username The Police has been added successfully."
+}, {
+  "command" : "search",
+  "user" : "david27",
+  "timestamp" : 10,
+  "message" : "Search returned 1 results",
+  "results" : [ "Chuck Berry" ]
+}, {
+  "command" : "select",
+  "user" : "david27",
+  "timestamp" : 10,
+  "message" : "Successfully selected Chuck Berry's page."
+}, {
+  "command" : "subscribe",
+  "user" : "david27",
+  "timestamp" : 10,
+  "message" : "david27 subscribed to Chuck Berry successfully."
+}, {
+  "command" : "search",
+  "user" : "david27",
+  "timestamp" : 22,
+  "message" : "Search returned 1 results",
+  "results" : [ "Elton John" ]
+}, {
+  "command" : "select",
+  "user" : "david27",
+  "timestamp" : 22,
+  "message" : "Successfully selected Elton John's page."
+}, {
+  "command" : "subscribe",
+  "user" : "david27",
+  "timestamp" : 22,
+  "message" : "david27 subscribed to Elton John successfully."
+}, {
+  "command" : "search",
+  "user" : "david27",
+  "timestamp" : 92,
+  "message" : "Search returned 1 results",
+  "results" : [ "Fleetwood Mac" ]
+}, {
+  "command" : "select",
+  "user" : "david27",
+  "timestamp" : 92,
+  "message" : "Successfully selected Fleetwood Mac's page."
+}, {
+  "command" : "subscribe",
+  "user" : "david27",
+  "timestamp" : 92,
+  "message" : "david27 subscribed to Fleetwood Mac successfully."
+}, {
+  "command" : "search",
+  "user" : "david27",
+  "timestamp" : 115,
+  "message" : "Search returned 1 results",
+  "results" : [ "Fleetwood Mac" ]
+}, {
+  "command" : "select",
+  "user" : "david27",
+  "timestamp" : 115,
+  "message" : "Successfully selected Fleetwood Mac's page."
+}, {
+  "command" : "subscribe",
+  "user" : "david27",
+  "timestamp" : 115,
+  "message" : "david27 unsubscribed from Fleetwood Mac successfully."
+}, {
+  "command" : "search",
+  "user" : "david27",
+  "timestamp" : 144,
+  "message" : "Search returned 1 results",
+  "results" : [ "David Bowie" ]
+}, {
+  "command" : "select",
+  "user" : "david27",
+  "timestamp" : 144,
+  "message" : "Successfully selected David Bowie's page."
+}, {
+  "command" : "subscribe",
+  "user" : "david27",
+  "timestamp" : 144,
+  "message" : "david27 subscribed to David Bowie successfully."
+}, {
+  "command" : "removeAlbum",
+  "user" : "Fleetwood Mac",
+  "timestamp" : 913,
+  "message" : "Fleetwood Mac doesn't have an album with the given name."
+}, {
+  "command" : "addAlbum",
+  "user" : "Fleetwood Mac",
+  "timestamp" : 1063,
+  "message" : "Fleetwood Mac has added new album successfully."
+}, {
+  "command" : "removeAlbum",
+  "user" : "Fleetwood Mac",
+  "timestamp" : 1318,
+  "message" : "Fleetwood Mac doesn't have an album with the given name."
+}, {
+  "command" : "addAlbum",
+  "user" : "Fleetwood Mac",
+  "timestamp" : 1468,
+  "message" : "Fleetwood Mac has added new album successfully."
+}, {
+  "command" : "addMerch",
+  "user" : "Fleetwood Mac",
+  "timestamp" : 1533,
+  "message" : "Fleetwood Mac has added new merchandise successfully."
+}, {
+  "command" : "getNotifications",
+  "user" : "david27",
+  "timestamp" : 2778,
+  "notifications" : [ ]
+}, {
+  "command" : "removeAlbum",
+  "user" : "Chuck Berry",
+  "timestamp" : 2910,
+  "message" : "Chuck Berry doesn't have an album with the given name."
+}, {
+  "command" : "addAlbum",
+  "user" : "Chuck Berry",
+  "timestamp" : 3060,
+  "message" : "Chuck Berry has added new album successfully."
+}, {
+  "command" : "removeAlbum",
+  "user" : "Fleetwood Mac",
+  "timestamp" : 3530,
+  "message" : "Fleetwood Mac deleted the album successfully."
+}, {
+  "command" : "getNotifications",
+  "user" : "david27",
+  "timestamp" : 3629,
+  "notifications" : [ {
+    "name" : "New Album",
+    "description" : "New Album from Chuck Berry."
+  } ]
+}, {
+  "command" : "addAlbum",
+  "user" : "Fleetwood Mac",
+  "timestamp" : 3680,
+  "message" : "Fleetwood Mac has added new album successfully."
+}, {
+  "command" : "removeAlbum",
+  "user" : "Chuck Berry",
+  "timestamp" : 4771,
+  "message" : "Chuck Berry doesn't have an album with the given name."
+}, {
+  "command" : "addAlbum",
+  "user" : "Chuck Berry",
+  "timestamp" : 4921,
+  "message" : "Chuck Berry has added new album successfully."
+}, {
+  "command" : "addMerch",
+  "user" : "Elton John",
+  "timestamp" : 5148,
+  "message" : "Elton John has added new merchandise successfully."
+}, {
+  "command" : "removeAlbum",
+  "user" : "David Bowie",
+  "timestamp" : 5444,
+  "message" : "David Bowie doesn't have an album with the given name."
+}, {
+  "command" : "addAlbum",
+  "user" : "David Bowie",
+  "timestamp" : 5594,
+  "message" : "David Bowie has added new album successfully."
+}, {
+  "command" : "removeAlbum",
+  "user" : "David Bowie",
+  "timestamp" : 7348,
+  "message" : "David Bowie doesn't have an album with the given name."
+}, {
+  "command" : "addAlbum",
+  "user" : "David Bowie",
+  "timestamp" : 7498,
+  "message" : "David Bowie has added new album successfully."
+}, {
+  "command" : "addMerch",
+  "user" : "Fleetwood Mac",
+  "timestamp" : 8078,
+  "message" : "Fleetwood Mac has added new merchandise successfully."
+}, {
+  "command" : "getNotifications",
+  "user" : "david27",
+  "timestamp" : 8095,
+  "notifications" : [ {
+    "name" : "New Album",
+    "description" : "New Album from Chuck Berry."
+  }, {
+    "name" : "New Merchandise",
+    "description" : "New Merchandise from Elton John."
+  }, {
+    "name" : "New Album",
+    "description" : "New Album from David Bowie."
+  }, {
+    "name" : "New Album",
+    "description" : "New Album from David Bowie."
+  } ]
+}, {
+  "command" : "endProgram",
+  "result" : { }
+} ]

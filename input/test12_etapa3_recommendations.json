@@ -1,0 +1,347 @@
+[
+  {
+    "timestamp": 10,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Whitney Houston"
+  },
+  {
+    "command": "addAlbum",
+    "username": "Whitney Houston",
+    "timestamp": 15,
+    "name": "Whitney Houston",
+    "songs": [
+      {
+        "name": "Someone for Me",
+        "duration": 69,
+        "album": "Whitney Houston",
+        "tags": [
+          "80s",
+          "pop",
+          "whitney houston",
+          "soul",
+          "female vocalists"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2018,
+        "artist": "Whitney Houston"
+      },
+      {
+        "name": "Nobody Loves Me Like You Do",
+        "duration": 226,
+        "album": "Whitney Houston",
+        "tags": [
+          "80s",
+          "pop",
+          "whitney houston",
+          "soul",
+          "female vocalists"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2018,
+        "artist": "Whitney Houston"
+      },
+      {
+        "name": "Take Good Care Of My Heart",
+        "duration": 253,
+        "album": "Whitney Houston",
+        "tags": [
+          "80s",
+          "pop",
+          "whitney houston",
+          "soul",
+          "female vocalists"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2018,
+        "artist": "Whitney Houston"
+      },
+      {
+        "name": "Thinking About You",
+        "duration": 69,
+        "album": "Whitney Houston",
+        "tags": [
+          "80s",
+          "pop",
+          "whitney houston",
+          "soul",
+          "female vocalists"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2018,
+        "artist": "Whitney Houston"
+      },
+      {
+        "name": "You Give Good Love",
+        "duration": 270,
+        "album": "Whitney Houston",
+        "tags": [
+          "80s",
+          "pop",
+          "whitney houston",
+          "soul",
+          "female vocalists"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2018,
+        "artist": "Whitney Houston"
+      },
+      {
+        "name": "Hold Me",
+        "duration": 361,
+        "album": "Whitney Houston",
+        "tags": [
+          "80s",
+          "pop",
+          "whitney houston",
+          "soul",
+          "female vocalists"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2018,
+        "artist": "Whitney Houston"
+      },
+      {
+        "name": "Saving All My Love for You",
+        "duration": 230,
+        "album": "Whitney Houston",
+        "tags": [
+          "80s",
+          "pop",
+          "whitney houston",
+          "soul",
+          "female vocalists"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2018,
+        "artist": "Whitney Houston"
+      },
+      {
+        "name": "All at Once",
+        "duration": 265,
+        "album": "Whitney Houston",
+        "tags": [
+          "80s",
+          "pop",
+          "whitney houston",
+          "soul",
+          "female vocalists"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2018,
+        "artist": "Whitney Houston"
+      },
+      {
+        "name": "Greatest Love of All",
+        "duration": 294,
+        "album": "Whitney Houston",
+        "tags": [
+          "80s",
+          "pop",
+          "whitney houston",
+          "soul",
+          "female vocalists"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2018,
+        "artist": "Whitney Houston"
+      },
+      {
+        "name": "How Will I Know",
+        "duration": 265,
+        "album": "Whitney Houston",
+        "tags": [
+          "80s",
+          "pop",
+          "whitney houston",
+          "soul",
+          "female vocalists"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2018,
+        "artist": "Whitney Houston"
+      }
+    ],
+    "description": "Whitney Houston is the debut studio album by American contemporary R&B and pop singer Whitney Houston. It was released on February 14, 1985, by Arista Records. The album initially had a slow commercial response, but began getting more popular in the summer of 1985. It eventually topped the Billboard 200 for 14 weeks in 1986, generating three number-one singles \u2014 \"Saving All My Love for You\", \"How Will I Know\" and \"Greatest Love of All\" (a cover of \"The Greatest Love of All\", originally recorded in 1977 by George Benson) \u2014 on the Billboard Hot 100 chart, which made it <a href=\"https://www.last.fm/music/Whitney+Houston/Whitney+Houston\">Read more on Last.fm</a>.",
+    "releaseYear": 2018
+  },
+  {
+    "timestamp": 20,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Prince"
+  },
+  {
+    "command": "addAlbum",
+    "username": "Prince",
+    "timestamp": 25,
+    "name": "Purple Rain",
+    "songs": [
+      {
+        "name": "Purple Rain",
+        "duration": 318,
+        "album": "Purple Rain",
+        "tags": [
+          "80s",
+          "pop",
+          "funk",
+          "rock",
+          "1984"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2012,
+        "artist": "Prince"
+      },
+      {
+        "name": "God - Love Theme From Purple Rain 12\" Instrumental Version",
+        "duration": 471,
+        "album": "Purple Rain",
+        "tags": [
+          "80s",
+          "pop",
+          "funk",
+          "rock",
+          "1984"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2012,
+        "artist": "Prince"
+      },
+      {
+        "name": "God - Vocal Version",
+        "duration": 243,
+        "album": "Purple Rain",
+        "tags": [
+          "80s",
+          "pop",
+          "funk",
+          "rock",
+          "1984"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2012,
+        "artist": "Prince"
+      }
+    ],
+    "description": "Purple Rain is an album by Prince and The Revolution, the soundtrack to the film of the same name. It was released on June 25, 1984 by Warner Bros. Records. Purple Rain regularly is ranked among the best albums in rock music history. Time magazine in 1993 ranked it the 15th greatest album of all time, and it placed 18th on VH1's The Greatest Rock n Roll Albums of All Time. Rolling Stone magazine ranked it 72nd greatest album of all time and Zounds magazine 18th greatest album of all time. The album was 4th in Pl\u00e1sticos y Decibelios list <a href=\"https://www.last.fm/music/Prince/Purple+Rain\">Read more on Last.fm</a>.",
+    "releaseYear": 2012
+  },
+  {
+    "command": "addUser",
+    "timestamp": 35,
+    "type": "user",
+    "username": "morningstar",
+    "age": 39,
+    "city": "Bucuresti"
+  },
+  {
+    "command": "addUser",
+    "timestamp": 45,
+    "type": "user",
+    "username": "joe27",
+    "age": 27,
+    "city": "Buzau"
+  },
+  {
+    "command": "search",
+    "username": "morningstar",
+    "timestamp": 55,
+    "type": "song",
+    "filters": {
+      "name": "Nobody Loves",
+      "owner": "Whitney Houston"
+    }
+  },
+  {
+    "command": "select",
+    "username": "morningstar",
+    "timestamp": 60,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "morningstar",
+    "timestamp": 65
+  },
+  {
+    "command": "status",
+    "username": "morningstar",
+    "timestamp": 70
+  },
+  {
+    "command": "createPlaylist",
+    "username": "morningstar",
+    "timestamp": 75,
+    "playlistName": "playlist1"
+  },
+  {
+    "command": "addRemoveInPlaylist",
+    "username": "morningstar",
+    "timestamp": 85,
+    "playlistId": 1
+  },
+  {
+    "command": "showPlaylists",
+    "username": "morningstar",
+    "timestamp": 90
+  },
+  {
+    "command": "updateRecommendations",
+    "username": "morningstar",
+    "timestamp": 95,
+    "recommendationType": "random_song"
+  },
+  {
+    "command": "search",
+    "username": "morningstar",
+    "timestamp": 105,
+    "type": "song",
+    "filters": {
+      "name": "Purple"
+    }
+  },
+  {
+    "command": "select",
+    "username": "morningstar",
+    "timestamp": 110,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "morningstar",
+    "timestamp": 115
+  },
+  {
+    "command": "like",
+    "username": "morningstar",
+    "timestamp": 120
+  },
+  {
+    "command": "updateRecommendations",
+    "username": "morningstar",
+    "timestamp": 125,
+    "recommendationType": "random_playlist"
+  },
+  {
+    "command": "printCurrentPage",
+    "username": "morningstar",
+    "timestamp": 135
+  }
+]

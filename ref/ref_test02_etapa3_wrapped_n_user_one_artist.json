@@ -1,0 +1,614 @@
+[ {
+  "command" : "addUser",
+  "user" : "The Beatles",
+  "timestamp" : 1,
+  "message" : "The username The Beatles has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Michael Jackson",
+  "timestamp" : 1,
+  "message" : "The username Michael Jackson has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Nothing But Thieves",
+  "timestamp" : 1,
+  "message" : "The username Nothing But Thieves has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Bob Dylan",
+  "timestamp" : 1,
+  "message" : "The username Bob Dylan has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Madonna",
+  "timestamp" : 1,
+  "message" : "The username Madonna has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Queen",
+  "timestamp" : 1,
+  "message" : "The username Queen has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "The Rolling Stones",
+  "timestamp" : 1,
+  "message" : "The username The Rolling Stones has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "David Bowie",
+  "timestamp" : 1,
+  "message" : "The username David Bowie has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Prince",
+  "timestamp" : 1,
+  "message" : "The username Prince has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Whitney Houston",
+  "timestamp" : 1,
+  "message" : "The username Whitney Houston has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Elton John",
+  "timestamp" : 1,
+  "message" : "The username Elton John has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Led Zeppelin",
+  "timestamp" : 1,
+  "message" : "The username Led Zeppelin has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Stevie Wonder",
+  "timestamp" : 1,
+  "message" : "The username Stevie Wonder has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "BeyoncÃ©",
+  "timestamp" : 1,
+  "message" : "The username BeyoncÃ© has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Pink Floyd",
+  "timestamp" : 1,
+  "message" : "The username Pink Floyd has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "U2",
+  "timestamp" : 1,
+  "message" : "The username U2 has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "The Beach Boys",
+  "timestamp" : 1,
+  "message" : "The username The Beach Boys has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Frank Sinatra",
+  "timestamp" : 1,
+  "message" : "The username Frank Sinatra has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Johnny Cash",
+  "timestamp" : 1,
+  "message" : "The username Johnny Cash has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Adele",
+  "timestamp" : 1,
+  "message" : "The username Adele has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Bruce Springsteen",
+  "timestamp" : 1,
+  "message" : "The username Bruce Springsteen has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Jimi Hendrix",
+  "timestamp" : 1,
+  "message" : "The username Jimi Hendrix has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Nirvana",
+  "timestamp" : 1,
+  "message" : "The username Nirvana has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Dire Straits",
+  "timestamp" : 1,
+  "message" : "The username Dire Straits has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Imagine Dragons",
+  "timestamp" : 1,
+  "message" : "The username Imagine Dragons has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Eminem",
+  "timestamp" : 1,
+  "message" : "The username Eminem has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "ABBA",
+  "timestamp" : 1,
+  "message" : "The username ABBA has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Ray Charles",
+  "timestamp" : 1,
+  "message" : "The username Ray Charles has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "The Eagles",
+  "timestamp" : 1,
+  "message" : "The username The Eagles has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Bob Marley",
+  "timestamp" : 1,
+  "message" : "The username Bob Marley has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Taylor Swift",
+  "timestamp" : 1,
+  "message" : "The username Taylor Swift has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Aretha Franklin",
+  "timestamp" : 1,
+  "message" : "The username Aretha Franklin has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "The Who",
+  "timestamp" : 1,
+  "message" : "The username The Who has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Rihanna",
+  "timestamp" : 1,
+  "message" : "The username Rihanna has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Marvin Gaye",
+  "timestamp" : 1,
+  "message" : "The username Marvin Gaye has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Fleetwood Mac",
+  "timestamp" : 1,
+  "message" : "The username Fleetwood Mac has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "James Brown",
+  "timestamp" : 1,
+  "message" : "The username James Brown has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Radiohead",
+  "timestamp" : 1,
+  "message" : "The username Radiohead has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "The Doors",
+  "timestamp" : 1,
+  "message" : "The username The Doors has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Jay-Z",
+  "timestamp" : 1,
+  "message" : "The username Jay-Z has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Eric Clapton",
+  "timestamp" : 1,
+  "message" : "The username Eric Clapton has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Joni Mitchell",
+  "timestamp" : 1,
+  "message" : "The username Joni Mitchell has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Chuck Berry",
+  "timestamp" : 1,
+  "message" : "The username Chuck Berry has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "The Police",
+  "timestamp" : 1,
+  "message" : "The username The Police has been added successfully."
+}, {
+  "command" : "addAlbum",
+  "user" : "Radiohead",
+  "timestamp" : 1,
+  "message" : "Radiohead has added new album successfully."
+}, {
+  "command" : "addAlbum",
+  "user" : "Radiohead",
+  "timestamp" : 1,
+  "message" : "Radiohead has added new album successfully."
+}, {
+  "command" : "addAlbum",
+  "user" : "Radiohead",
+  "timestamp" : 1,
+  "message" : "Radiohead has added new album successfully."
+}, {
+  "command" : "addAlbum",
+  "user" : "Radiohead",
+  "timestamp" : 1,
+  "message" : "Radiohead has added new album successfully."
+}, {
+  "command" : "search",
+  "user" : "alice22",
+  "timestamp" : 10,
+  "message" : "Search returned 1 results",
+  "results" : [ "The Bends" ]
+}, {
+  "command" : "select",
+  "user" : "alice22",
+  "timestamp" : 10,
+  "message" : "Successfully selected The Bends."
+}, {
+  "command" : "load",
+  "user" : "alice22",
+  "timestamp" : 10,
+  "message" : "Playback loaded successfully."
+}, {
+  "command" : "search",
+  "user" : "jack29",
+  "timestamp" : 10,
+  "message" : "Search returned 1 results",
+  "results" : [ "OK Computer" ]
+}, {
+  "command" : "select",
+  "user" : "jack29",
+  "timestamp" : 10,
+  "message" : "Successfully selected OK Computer."
+}, {
+  "command" : "load",
+  "user" : "jack29",
+  "timestamp" : 10,
+  "message" : "Playback loaded successfully."
+}, {
+  "command" : "search",
+  "user" : "david27",
+  "timestamp" : 10,
+  "message" : "Search returned 1 results",
+  "results" : [ "Pablo Honey" ]
+}, {
+  "command" : "select",
+  "user" : "david27",
+  "timestamp" : 10,
+  "message" : "Successfully selected Pablo Honey."
+}, {
+  "command" : "load",
+  "user" : "david27",
+  "timestamp" : 10,
+  "message" : "Playback loaded successfully."
+}, {
+  "command" : "search",
+  "user" : "henry26",
+  "timestamp" : 10,
+  "message" : "Search returned 1 results",
+  "results" : [ "Reckoner" ]
+}, {
+  "command" : "select",
+  "user" : "henry26",
+  "timestamp" : 10,
+  "message" : "Successfully selected Reckoner."
+}, {
+  "command" : "load",
+  "user" : "henry26",
+  "timestamp" : 10,
+  "message" : "Playback loaded successfully."
+}, {
+  "command" : "search",
+  "user" : "irene33",
+  "timestamp" : 10,
+  "message" : "Search returned 1 results",
+  "results" : [ "Just" ]
+}, {
+  "command" : "select",
+  "user" : "irene33",
+  "timestamp" : 10,
+  "message" : "Successfully selected Just."
+}, {
+  "command" : "load",
+  "user" : "irene33",
+  "timestamp" : 10,
+  "message" : "Playback loaded successfully."
+}, {
+  "command" : "search",
+  "user" : "emily30",
+  "timestamp" : 10,
+  "message" : "Search returned 1 results",
+  "results" : [ "Exit Music (for a Film)" ]
+}, {
+  "command" : "select",
+  "user" : "emily30",
+  "timestamp" : 10,
+  "message" : "Successfully selected Exit Music (for a Film)."
+}, {
+  "command" : "load",
+  "user" : "emily30",
+  "timestamp" : 10,
+  "message" : "Playback loaded successfully."
+}, {
+  "command" : "search",
+  "user" : "grace25",
+  "timestamp" : 10,
+  "message" : "Search returned 1 results",
+  "results" : [ "Exit Music (for a Film)" ]
+}, {
+  "command" : "select",
+  "user" : "grace25",
+  "timestamp" : 10,
+  "message" : "Successfully selected Exit Music (for a Film)."
+}, {
+  "command" : "load",
+  "user" : "grace25",
+  "timestamp" : 10,
+  "message" : "Playback loaded successfully."
+}, {
+  "command" : "wrapped",
+  "user" : "carol19",
+  "timestamp" : 110,
+  "message" : "No data to show for user carol19."
+}, {
+  "command" : "wrapped",
+  "user" : "bob35",
+  "timestamp" : 110,
+  "message" : "No data to show for user bob35."
+}, {
+  "command" : "wrapped",
+  "user" : "frank21",
+  "timestamp" : 110,
+  "message" : "No data to show for user frank21."
+}, {
+  "command" : "wrapped",
+  "user" : "irene33",
+  "timestamp" : 227,
+  "result" : {
+    "topArtists" : {
+      "Radiohead" : 1
+    },
+    "topGenres" : {
+      "alternative" : 1
+    },
+    "topSongs" : {
+      "Just" : 1
+    },
+    "topAlbums" : {
+      "The Bends" : 1
+    },
+    "topEpisodes" : { }
+  }
+}, {
+  "command" : "wrapped",
+  "user" : "emily30",
+  "timestamp" : 242,
+  "result" : {
+    "topArtists" : {
+      "Radiohead" : 1
+    },
+    "topGenres" : {
+      "alternative" : 1
+    },
+    "topSongs" : {
+      "Exit Music (for a Film)" : 1
+    },
+    "topAlbums" : {
+      "OK Computer" : 1
+    },
+    "topEpisodes" : { }
+  }
+}, {
+  "command" : "wrapped",
+  "user" : "grace25",
+  "timestamp" : 242,
+  "result" : {
+    "topArtists" : {
+      "Radiohead" : 1
+    },
+    "topGenres" : {
+      "alternative" : 1
+    },
+    "topSongs" : {
+      "Exit Music (for a Film)" : 1
+    },
+    "topAlbums" : {
+      "OK Computer" : 1
+    },
+    "topEpisodes" : { }
+  }
+}, {
+  "command" : "search",
+  "user" : "henry26",
+  "timestamp" : 319,
+  "message" : "Search returned 1 results",
+  "results" : [ "Subterranean Homesick Alien" ]
+}, {
+  "command" : "select",
+  "user" : "henry26",
+  "timestamp" : 319,
+  "message" : "Successfully selected Subterranean Homesick Alien."
+}, {
+  "command" : "load",
+  "user" : "henry26",
+  "timestamp" : 319,
+  "message" : "Playback loaded successfully."
+}, {
+  "command" : "wrapped",
+  "user" : "henry26",
+  "timestamp" : 564,
+  "result" : {
+    "topArtists" : {
+      "Radiohead" : 2
+    },
+    "topGenres" : {
+      "alternative" : 2
+    },
+    "topSongs" : {
+      "Reckoner" : 1,
+      "Subterranean Homesick Alien" : 1
+    },
+    "topAlbums" : {
+      "In Rainbows" : 1,
+      "OK Computer" : 1
+    },
+    "topEpisodes" : { }
+  }
+}, {
+  "command" : "search",
+  "user" : "david27",
+  "timestamp" : 1380,
+  "message" : "Search returned 1 results",
+  "results" : [ "Weird Fishes/Arpeggi" ]
+}, {
+  "command" : "select",
+  "user" : "david27",
+  "timestamp" : 1380,
+  "message" : "Successfully selected Weird Fishes/Arpeggi."
+}, {
+  "command" : "load",
+  "user" : "david27",
+  "timestamp" : 1380,
+  "message" : "Playback loaded successfully."
+}, {
+  "command" : "wrapped",
+  "user" : "alice22",
+  "timestamp" : 1590,
+  "result" : {
+    "topArtists" : {
+      "Radiohead" : 7
+    },
+    "topGenres" : {
+      "alternative" : 7
+    },
+    "topSongs" : {
+      "(Nice Dream)" : 1,
+      "Bones" : 1,
+      "Fake Plastic Trees" : 1,
+      "High and Dry" : 1,
+      "Just" : 1
+    },
+    "topAlbums" : {
+      "The Bends" : 7
+    },
+    "topEpisodes" : { }
+  }
+}, {
+  "command" : "search",
+  "user" : "jack29",
+  "timestamp" : 1624,
+  "message" : "Search returned 1 results",
+  "results" : [ "In Rainbows" ]
+}, {
+  "command" : "select",
+  "user" : "jack29",
+  "timestamp" : 1624,
+  "message" : "Successfully selected In Rainbows."
+}, {
+  "command" : "load",
+  "user" : "jack29",
+  "timestamp" : 1624,
+  "message" : "Playback loaded successfully."
+}, {
+  "command" : "wrapped",
+  "user" : "david27",
+  "timestamp" : 1647,
+  "result" : {
+    "topArtists" : {
+      "Radiohead" : 7
+    },
+    "topGenres" : {
+      "alternative rock" : 6,
+      "alternative" : 1
+    },
+    "topSongs" : {
+      "Anyone Can Play Guitar" : 1,
+      "Creep" : 1,
+      "How Do You?" : 1,
+      "Stop Whispering" : 1,
+      "Thinking About You" : 1
+    },
+    "topAlbums" : {
+      "Pablo Honey" : 6,
+      "In Rainbows" : 1
+    },
+    "topEpisodes" : { }
+  }
+}, {
+  "command" : "search",
+  "user" : "jack29",
+  "timestamp" : 2995,
+  "message" : "Search returned 1 results",
+  "results" : [ "(Nice Dream)" ]
+}, {
+  "command" : "select",
+  "user" : "jack29",
+  "timestamp" : 2995,
+  "message" : "Successfully selected (Nice Dream)."
+}, {
+  "command" : "load",
+  "user" : "jack29",
+  "timestamp" : 2995,
+  "message" : "Playback loaded successfully."
+}, {
+  "command" : "wrapped",
+  "user" : "Radiohead",
+  "timestamp" : 3111,
+  "result" : {
+    "topAlbums" : {
+      "The Bends" : 14,
+      "OK Computer" : 9,
+      "In Rainbows" : 7,
+      "Pablo Honey" : 6
+    },
+    "topSongs" : {
+      "Exit Music (for a Film)" : 3,
+      "(Nice Dream)" : 2,
+      "Just" : 2,
+      "Subterranean Homesick Alien" : 2,
+      "Weird Fishes/Arpeggi" : 2
+    },
+    "topFans" : [ "alice22", "jack29", "david27", "henry26", "emily30" ],
+    "listeners" : 7
+  }
+}, {
+  "command" : "wrapped",
+  "user" : "jack29",
+  "timestamp" : 3211,
+  "result" : {
+    "topArtists" : {
+      "Radiohead" : 12
+    },
+    "topGenres" : {
+      "alternative" : 12
+    },
+    "topSongs" : {
+      "(Nice Dream)" : 1,
+      "15 Step" : 1,
+      "Airbag" : 1,
+      "All I Need" : 1,
+      "Bodysnatchers" : 1
+    },
+    "topAlbums" : {
+      "OK Computer" : 6,
+      "In Rainbows" : 5,
+      "The Bends" : 1
+    },
+    "topEpisodes" : { }
+  }
+}, {
+  "command" : "endProgram",
+  "result" : {
+    "Radiohead" : {
+      "merchRevenue" : 0.0,
+      "songRevenue" : 0.0,
+      "ranking" : 1,
+      "mostProfitableSong" : "N/A"
+    }
+  }
+} ]

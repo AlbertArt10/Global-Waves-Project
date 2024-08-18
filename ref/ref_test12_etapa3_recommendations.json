@@ -1,0 +1,130 @@
+[ {
+  "command" : "addUser",
+  "user" : "Whitney Houston",
+  "timestamp" : 10,
+  "message" : "The username Whitney Houston has been added successfully."
+}, {
+  "command" : "addAlbum",
+  "user" : "Whitney Houston",
+  "timestamp" : 15,
+  "message" : "Whitney Houston has added new album successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Prince",
+  "timestamp" : 20,
+  "message" : "The username Prince has been added successfully."
+}, {
+  "command" : "addAlbum",
+  "user" : "Prince",
+  "timestamp" : 25,
+  "message" : "Prince has added new album successfully."
+}, {
+  "command" : "addUser",
+  "user" : "morningstar",
+  "timestamp" : 35,
+  "message" : "The username morningstar has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "joe27",
+  "timestamp" : 45,
+  "message" : "The username joe27 has been added successfully."
+}, {
+  "command" : "search",
+  "user" : "morningstar",
+  "timestamp" : 55,
+  "message" : "Search returned 1 results",
+  "results" : [ "Nobody Loves Me Like You Do" ]
+}, {
+  "command" : "select",
+  "user" : "morningstar",
+  "timestamp" : 60,
+  "message" : "Successfully selected Nobody Loves Me Like You Do."
+}, {
+  "command" : "load",
+  "user" : "morningstar",
+  "timestamp" : 65,
+  "message" : "Playback loaded successfully."
+}, {
+  "command" : "status",
+  "user" : "morningstar",
+  "timestamp" : 70,
+  "stats" : {
+    "name" : "Nobody Loves Me Like You Do",
+    "remainedTime" : 221,
+    "repeat" : "No Repeat",
+    "shuffle" : false,
+    "paused" : false
+  }
+}, {
+  "command" : "createPlaylist",
+  "user" : "morningstar",
+  "timestamp" : 75,
+  "message" : "Playlist created successfully."
+}, {
+  "command" : "addRemoveInPlaylist",
+  "user" : "morningstar",
+  "timestamp" : 85,
+  "message" : "Successfully added to playlist."
+}, {
+  "command" : "showPlaylists",
+  "user" : "morningstar",
+  "timestamp" : 90,
+  "result" : [ {
+    "name" : "playlist1",
+    "songs" : [ "Nobody Loves Me Like You Do" ],
+    "visibility" : "public",
+    "followers" : 0
+  } ]
+}, {
+  "command" : "updateRecommendations",
+  "user" : "morningstar",
+  "timestamp" : 95,
+  "message" : "The recommendations for user morningstar have been updated successfully."
+}, {
+  "command" : "search",
+  "user" : "morningstar",
+  "timestamp" : 105,
+  "message" : "Search returned 1 results",
+  "results" : [ "Purple Rain" ]
+}, {
+  "command" : "select",
+  "user" : "morningstar",
+  "timestamp" : 110,
+  "message" : "Successfully selected Purple Rain."
+}, {
+  "command" : "load",
+  "user" : "morningstar",
+  "timestamp" : 115,
+  "message" : "Playback loaded successfully."
+}, {
+  "command" : "like",
+  "user" : "morningstar",
+  "timestamp" : 120,
+  "message" : "Like registered successfully."
+}, {
+  "command" : "updateRecommendations",
+  "user" : "morningstar",
+  "timestamp" : 125,
+  "message" : "The recommendations for user morningstar have been updated successfully."
+}, {
+  "user" : "morningstar",
+  "command" : "printCurrentPage",
+  "timestamp" : 135,
+  "message" : "Liked songs:\n\t[Purple Rain]\n\nFollowed playlists:\n\t[]\n\nSong recommendations:\n\t[All at Once]\n\nPlaylists recommendations:\n\t[morningstar's recommendations]"
+}, {
+  "command" : "endProgram",
+  "result" : {
+    "Prince" : {
+      "merchRevenue" : 0.0,
+      "songRevenue" : 0.0,
+      "ranking" : 1,
+      "mostProfitableSong" : "N/A"
+    },
+    "Whitney Houston" : {
+      "merchRevenue" : 0.0,
+      "songRevenue" : 0.0,
+      "ranking" : 2,
+      "mostProfitableSong" : "N/A"
+    }
+  }
+} ]

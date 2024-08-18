@@ -1,0 +1,305 @@
+[
+  {
+    "timestamp": 15,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Elton John"
+  },
+  {
+    "command": "addAlbum",
+    "username": "Elton John",
+    "timestamp": 20,
+    "name": "Greatest Hits",
+    "songs": [
+      {
+        "name": "Your Song",
+        "duration": 243,
+        "album": "Greatest Hits",
+        "tags": [
+          "classic rock",
+          "pop",
+          "70s",
+          "elton john",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2023,
+        "artist": "Elton John"
+      },
+      {
+        "name": "Daniel",
+        "duration": 231,
+        "album": "Greatest Hits",
+        "tags": [
+          "classic rock",
+          "pop",
+          "70s",
+          "elton john",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2023,
+        "artist": "Elton John"
+      },
+      {
+        "name": "Honky Cat",
+        "duration": 312,
+        "album": "Greatest Hits",
+        "tags": [
+          "classic rock",
+          "pop",
+          "70s",
+          "elton john",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2023,
+        "artist": "Elton John"
+      },
+      {
+        "name": "Goodbye Yellow Brick Road",
+        "duration": 199,
+        "album": "Greatest Hits",
+        "tags": [
+          "classic rock",
+          "pop",
+          "70s",
+          "elton john",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2023,
+        "artist": "Elton John"
+      },
+      {
+        "name": "Saturday Night's Alright For Fighting",
+        "duration": 337,
+        "album": "Greatest Hits",
+        "tags": [
+          "classic rock",
+          "pop",
+          "70s",
+          "elton john",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2023,
+        "artist": "Elton John"
+      },
+      {
+        "name": "Rocket Man",
+        "duration": 343,
+        "album": "Greatest Hits",
+        "tags": [
+          "classic rock",
+          "pop",
+          "70s",
+          "elton john",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2023,
+        "artist": "Elton John"
+      },
+      {
+        "name": "Candle in the Wind",
+        "duration": 225,
+        "album": "Greatest Hits",
+        "tags": [
+          "classic rock",
+          "pop",
+          "70s",
+          "elton john",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2023,
+        "artist": "Elton John"
+      },
+      {
+        "name": "Don't Let the Sun Go Down on Me",
+        "duration": 359,
+        "album": "Greatest Hits",
+        "tags": [
+          "classic rock",
+          "pop",
+          "70s",
+          "elton john",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2023,
+        "artist": "Elton John"
+      },
+      {
+        "name": "Border Song",
+        "duration": 216,
+        "album": "Greatest Hits",
+        "tags": [
+          "classic rock",
+          "pop",
+          "70s",
+          "elton john",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2023,
+        "artist": "Elton John"
+      },
+      {
+        "name": "Crocodile Rock",
+        "duration": 253,
+        "album": "Greatest Hits",
+        "tags": [
+          "classic rock",
+          "pop",
+          "70s",
+          "elton john",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2023,
+        "artist": "Elton John"
+      }
+    ],
+    "description": "This is Elton John's first Greatest Hits LP, released in 1974. It has since sold over 17 million copies in the United States, and over 24 million worldwide. This makes it one of the best selling albums of all time. This album is currently out of print, having been followed up by many newer greatest hits collections, most notably \"Diamonds.' <a href=\"https://www.last.fm/music/Elton+John/Greatest+Hits\">Read more on Last.fm</a>.",
+    "releaseYear": 2023
+  },
+  {
+    "command": "addUser",
+    "timestamp": 35,
+    "type": "user",
+    "username": "david101",
+    "age": 39,
+    "city": "Iasi"
+  },
+  {
+    "command": "addUser",
+    "timestamp": 45,
+    "type": "user",
+    "username": "carmenzz",
+    "age": 27,
+    "city": "Constanta"
+  },
+  {
+    "command": "search",
+    "username": "david101",
+    "timestamp": 55,
+    "type": "song",
+    "filters": {
+      "name": "Goodbye"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david101",
+    "timestamp": 60,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david101",
+    "timestamp": 65
+  },
+  {
+    "command": "like",
+    "username": "david101",
+    "timestamp": 75
+  },
+  {
+    "command": "search",
+    "username": "carmenzz",
+    "timestamp": 90,
+    "type": "song",
+    "filters": {
+      "name": "Rocket"
+    }
+  },
+  {
+    "command": "select",
+    "username": "carmenzz",
+    "timestamp": 95,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "carmenzz",
+    "timestamp": 100
+  },
+  {
+    "command": "like",
+    "username": "carmenzz",
+    "timestamp": 110
+  },
+  {
+    "command": "search",
+    "username": "carmenzz",
+    "timestamp": 115,
+    "type": "song",
+    "filters": {
+      "name": "Your",
+      "artist": "Elton John"
+    }
+  },
+  {
+    "command": "select",
+    "username": "carmenzz",
+    "timestamp": 120,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "carmenzz",
+    "timestamp": 130
+  },
+  {
+    "command": "like",
+    "username": "carmenzz",
+    "timestamp": 135
+  },
+  {
+    "command": "updateRecommendations",
+    "username": "carmenzz",
+    "timestamp": 145,
+    "recommendationType": "fans_playlist"
+  },
+  {
+    "command": "printCurrentPage",
+    "username": "carmenzz",
+    "timestamp": 155
+  },
+  {
+    "command": "changePage",
+    "username": "carmenzz",
+    "timestamp": 165,
+    "nextPage": "LikedContent"
+  },
+  {
+    "command": "changePage",
+    "username": "carmenzz",
+    "timestamp": 175,
+    "nextPage": "Artist"
+  },
+  {
+    "command": "previousPage",
+    "username": "carmenzz",
+    "timestamp": 180
+  },
+  {
+    "command": "printCurrentPage",
+    "username": "carmenzz",
+    "timestamp": 185
+  }
+]

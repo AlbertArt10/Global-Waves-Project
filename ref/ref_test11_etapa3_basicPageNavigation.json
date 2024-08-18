@@ -1,0 +1,124 @@
+[ {
+  "command" : "addUser",
+  "user" : "Elton John",
+  "timestamp" : 15,
+  "message" : "The username Elton John has been added successfully."
+}, {
+  "command" : "addAlbum",
+  "user" : "Elton John",
+  "timestamp" : 20,
+  "message" : "Elton John has added new album successfully."
+}, {
+  "command" : "addUser",
+  "user" : "david101",
+  "timestamp" : 35,
+  "message" : "The username david101 has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "carmenzz",
+  "timestamp" : 45,
+  "message" : "The username carmenzz has been added successfully."
+}, {
+  "command" : "search",
+  "user" : "david101",
+  "timestamp" : 55,
+  "message" : "Search returned 1 results",
+  "results" : [ "Goodbye Yellow Brick Road" ]
+}, {
+  "command" : "select",
+  "user" : "david101",
+  "timestamp" : 60,
+  "message" : "Successfully selected Goodbye Yellow Brick Road."
+}, {
+  "command" : "load",
+  "user" : "david101",
+  "timestamp" : 65,
+  "message" : "Playback loaded successfully."
+}, {
+  "command" : "like",
+  "user" : "david101",
+  "timestamp" : 75,
+  "message" : "Like registered successfully."
+}, {
+  "command" : "search",
+  "user" : "carmenzz",
+  "timestamp" : 90,
+  "message" : "Search returned 1 results",
+  "results" : [ "Rocket Man" ]
+}, {
+  "command" : "select",
+  "user" : "carmenzz",
+  "timestamp" : 95,
+  "message" : "Successfully selected Rocket Man."
+}, {
+  "command" : "load",
+  "user" : "carmenzz",
+  "timestamp" : 100,
+  "message" : "Playback loaded successfully."
+}, {
+  "command" : "like",
+  "user" : "carmenzz",
+  "timestamp" : 110,
+  "message" : "Like registered successfully."
+}, {
+  "command" : "search",
+  "user" : "carmenzz",
+  "timestamp" : 115,
+  "message" : "Search returned 1 results",
+  "results" : [ "Your Song" ]
+}, {
+  "command" : "select",
+  "user" : "carmenzz",
+  "timestamp" : 120,
+  "message" : "Successfully selected Your Song."
+}, {
+  "command" : "load",
+  "user" : "carmenzz",
+  "timestamp" : 130,
+  "message" : "Playback loaded successfully."
+}, {
+  "command" : "like",
+  "user" : "carmenzz",
+  "timestamp" : 135,
+  "message" : "Like registered successfully."
+}, {
+  "command" : "updateRecommendations",
+  "user" : "carmenzz",
+  "timestamp" : 145,
+  "message" : "The recommendations for user carmenzz have been updated successfully."
+}, {
+  "user" : "carmenzz",
+  "command" : "printCurrentPage",
+  "timestamp" : 155,
+  "message" : "Liked songs:\n\t[Rocket Man, Your Song]\n\nFollowed playlists:\n\t[]\n\nSong recommendations:\n\t[]\n\nPlaylists recommendations:\n\t[Elton John Fan Club recommendations]"
+}, {
+  "command" : "changePage",
+  "user" : "carmenzz",
+  "timestamp" : 165,
+  "message" : "carmenzz accessed LikedContent successfully."
+}, {
+  "command" : "changePage",
+  "user" : "carmenzz",
+  "timestamp" : 175,
+  "message" : "carmenzz accessed Artist successfully."
+}, {
+  "command" : "previousPage",
+  "user" : "carmenzz",
+  "timestamp" : 180,
+  "message" : "The user carmenzz has navigated successfully to the previous page."
+}, {
+  "user" : "carmenzz",
+  "command" : "printCurrentPage",
+  "timestamp" : 185,
+  "message" : "Liked songs:\n\t[Rocket Man - Elton John, Your Song - Elton John]\n\nFollowed playlists:\n\t[]"
+}, {
+  "command" : "endProgram",
+  "result" : {
+    "Elton John" : {
+      "merchRevenue" : 0.0,
+      "songRevenue" : 0.0,
+      "ranking" : 1,
+      "mostProfitableSong" : "N/A"
+    }
+  }
+} ]

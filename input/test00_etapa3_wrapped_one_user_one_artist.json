@@ -1,0 +1,1476 @@
+[
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Beatles"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Michael Jackson"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Nothing But Thieves"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Bob Dylan"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Madonna"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Queen"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Rolling Stones"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "David Bowie"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Prince"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Whitney Houston"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Elton John"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Led Zeppelin"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Stevie Wonder"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Beyonc\u00c3\u00a9"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Pink Floyd"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "U2"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Beach Boys"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Frank Sinatra"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Johnny Cash"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Adele"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Bruce Springsteen"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Jimi Hendrix"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Nirvana"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Dire Straits"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Imagine Dragons"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Eminem"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "ABBA"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Ray Charles"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Eagles"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Bob Marley"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Taylor Swift"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Aretha Franklin"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Who"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Rihanna"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Marvin Gaye"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Fleetwood Mac"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "James Brown"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Radiohead"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Doors"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Jay-Z"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Eric Clapton"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Joni Mitchell"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Chuck Berry"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Police"
+  },
+  {
+    "command": "addAlbum",
+    "username": "Pink Floyd",
+    "timestamp": 1,
+    "name": "Wish You Were Here",
+    "songs": [
+      {
+        "name": "Shine on You Crazy Diamond",
+        "duration": 640,
+        "album": "Wish You Were Here",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2016,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Welcome to the Machine",
+        "duration": 492,
+        "album": "Wish You Were Here",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2016,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Have a Cigar",
+        "duration": 327,
+        "album": "Wish You Were Here",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2016,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Wish You Were Here",
+        "duration": 289,
+        "album": "Wish You Were Here",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2016,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Shine On You Crazy Diamond (Part Two)",
+        "duration": 742,
+        "album": "Wish You Were Here",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2016,
+        "artist": "Pink Floyd"
+      }
+    ],
+    "description": "The band entered Abbey Road Studios during the first week of 1975 to begin recording on their follow-up to Dark Side of the Moon. In the previous year, they introduced three new pieces to European audiences during the first sets of each show. Two of them, \"Raving and Drooling\" & \"You Gotta Be Crazy\", were ultimately not recorded for Wish You Were Here, but re-shaped and recorded in 1976 for the Animals album as respectively \"Sheep\" and \"Dogs\". The third would take shape as the album's centerpiece, \"Shine on You Crazy Diamond\". During tour rehearsals for the previous year's French <a href=\"https://www.last.fm/music/Pink+Floyd/Wish+You+Were+Here\">Read more on Last.fm</a>.",
+    "releaseYear": 2016
+  },
+  {
+    "command": "addAlbum",
+    "username": "Pink Floyd",
+    "timestamp": 1,
+    "name": "The Wall",
+    "songs": [
+      {
+        "name": "In the Flesh?",
+        "duration": 236,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "The Thin Ice",
+        "duration": 193,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Another Brick in the Wall Part 1",
+        "duration": 69,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "The Happiest Days of Our Lives",
+        "duration": 126,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Another Brick in the Wall Part 2",
+        "duration": 228,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Mother",
+        "duration": 439,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Goodbye Blue Sky",
+        "duration": 212,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Empty Spaces",
+        "duration": 192,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Young Lust",
+        "duration": 188,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "One of My Turns",
+        "duration": 289,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Don't Leave Me Now",
+        "duration": 186,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Another Brick in the Wall Part 3",
+        "duration": 69,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Goodbye Cruel World",
+        "duration": 63,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Hey You",
+        "duration": 285,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Is There Anybody Out There?",
+        "duration": 226,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Nobody Home",
+        "duration": 290,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Vera",
+        "duration": 121,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Bring the Boys Back Home",
+        "duration": 91,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Comfortably Numb",
+        "duration": 383,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "The Show Must Go On",
+        "duration": 97,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "In the Flesh",
+        "duration": 236,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Run Like Hell",
+        "duration": 365,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Waiting for the Worms",
+        "duration": 146,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Stop",
+        "duration": 158,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "The Trial",
+        "duration": 401,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Outside the Wall",
+        "duration": 262,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      }
+    ],
+    "description": "The Wall is a rock opera presented as a double album by the English progressive rock band Pink Floyd, released on November 30, 1979. It was subsequently performed live, with elaborate theatrical effects, and made into a film. Following in the footsteps of their previous albums, The Wall is a concept album \u2014 specifically, it deals largely with the theme of isolation from one's peers. The concept was largely inspired by the band's 1977 tour promoting the album Animals, with regards to an incident where Roger Waters' frustration with the audience reached a point where Waters spat in the face <a href=\"https://www.last.fm/music/Pink+Floyd/The+Wall\">Read more on Last.fm</a>.",
+    "releaseYear": 2022
+  },
+  {
+    "command": "addAlbum",
+    "username": "Pink Floyd",
+    "timestamp": 1,
+    "name": "The Dark Side of the Moon",
+    "songs": [
+      {
+        "name": "Speak to Me",
+        "duration": 165,
+        "album": "The Dark Side of the Moon",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2023,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Breathe (In the Air)",
+        "duration": 170,
+        "album": "The Dark Side of the Moon",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2023,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "On the Run",
+        "duration": 308,
+        "album": "The Dark Side of the Moon",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2023,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Time",
+        "duration": 391,
+        "album": "The Dark Side of the Moon",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2023,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "The Great Gig in the Sky",
+        "duration": 410,
+        "album": "The Dark Side of the Moon",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2023,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Money",
+        "duration": 521,
+        "album": "The Dark Side of the Moon",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2023,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Us and Them",
+        "duration": 489,
+        "album": "The Dark Side of the Moon",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2023,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Any Colour You Like",
+        "duration": 490,
+        "album": "The Dark Side of the Moon",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2023,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Brain Damage",
+        "duration": 223,
+        "album": "The Dark Side of the Moon",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2023,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Eclipse",
+        "duration": 139,
+        "album": "The Dark Side of the Moon",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2023,
+        "artist": "Pink Floyd"
+      }
+    ],
+    "description": "The Dark Side of the Moon is the eighth studio album by English rock band Pink Floyd, released on 1 March 1973 by Harvest Records. The album built on ideas explored in earlier recordings and live shows, but lacks the extended instrumental excursions that characterized their earlier work. Its themes explore conflict, greed, the passage of time, and mental illness, the latter partly inspired by the deteriorating mental state of founding member and principal contributor, Syd Barrett. Developed during live performances, an early version was premiered several months before recording began; the new material was recorded in two sessions in <a href=\"https://www.last.fm/music/Pink+Floyd/The+Dark+Side+of+the+Moon\">Read more on Last.fm</a>.",
+    "releaseYear": 2023
+  },
+  {
+    "command": "addAlbum",
+    "username": "Pink Floyd",
+    "timestamp": 1,
+    "name": "The Division Bell",
+    "songs": [
+      {
+        "name": "Cluster One",
+        "duration": 445,
+        "album": "The Division Bell",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "instrumental"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2014,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "What Do You Want From Me",
+        "duration": 437,
+        "album": "The Division Bell",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "instrumental"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2014,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Poles Apart",
+        "duration": 348,
+        "album": "The Division Bell",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "instrumental"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2014,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Marooned",
+        "duration": 556,
+        "album": "The Division Bell",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "instrumental"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2014,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "A Great Day for Freedom",
+        "duration": 483,
+        "album": "The Division Bell",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "instrumental"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2014,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Wearing the Inside Out",
+        "duration": 545,
+        "album": "The Division Bell",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "instrumental"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2014,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Take It Back",
+        "duration": 620,
+        "album": "The Division Bell",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "instrumental"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2014,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Coming Back to Life",
+        "duration": 379,
+        "album": "The Division Bell",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "instrumental"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2014,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Keep Talking",
+        "duration": 475,
+        "album": "The Division Bell",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "instrumental"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2014,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Lost for Words",
+        "duration": 341,
+        "album": "The Division Bell",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "instrumental"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2014,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "High Hopes",
+        "duration": 480,
+        "album": "The Division Bell",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "instrumental"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2014,
+        "artist": "Pink Floyd"
+      }
+    ],
+    "description": "The Division Bell is the 14th studio album by Pink Floyd, released in 1994 (30 March in the United Kingdom and 5 April in the United States), and the second album without original bassist Roger Waters. It was recorded at a number of studios, including guitarist/vocalist David Gilmour's houseboat studio called The Astoria. It went to #1 in the UK and debuted at the top of the U.S. Billboard 200 album charts in April 1994, spending four weeks as the top album in the country. By contrast, Pink Floyd's previous album, A Momentary Lapse of Reason, had peaked at #3. <a href=\"https://www.last.fm/music/Pink+Floyd/The+Division+Bell\">Read more on Last.fm</a>.",
+    "releaseYear": 2014
+  },
+  {
+    "command": "search",
+    "username": "alice22",
+    "timestamp": 10,
+    "type": "album",
+    "filters": {
+      "name": "Wish You Were Here"
+    }
+  },
+  {
+    "command": "select",
+    "username": "alice22",
+    "timestamp": 10,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "alice22",
+    "timestamp": 10
+  },
+  {
+    "command": "search",
+    "username": "alice22",
+    "timestamp": 1255,
+    "type": "album",
+    "filters": {
+      "name": "The Wall"
+    }
+  },
+  {
+    "command": "select",
+    "username": "alice22",
+    "timestamp": 1255,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "alice22",
+    "timestamp": 1255
+  },
+  {
+    "command": "search",
+    "username": "alice22",
+    "timestamp": 4030,
+    "type": "album",
+    "filters": {
+      "name": "The Dark Side of the Moon"
+    }
+  },
+  {
+    "command": "select",
+    "username": "alice22",
+    "timestamp": 4030,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "alice22",
+    "timestamp": 4030
+  },
+  {
+    "command": "search",
+    "username": "alice22",
+    "timestamp": 5683,
+    "type": "album",
+    "filters": {
+      "name": "The Division Bell"
+    }
+  },
+  {
+    "command": "select",
+    "username": "alice22",
+    "timestamp": 5683,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "alice22",
+    "timestamp": 5683
+  },
+  {
+    "command": "search",
+    "username": "alice22",
+    "timestamp": 10792,
+    "type": "song",
+    "filters": {
+      "name": "Take It Back"
+    }
+  },
+  {
+    "command": "select",
+    "username": "alice22",
+    "timestamp": 10792,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "alice22",
+    "timestamp": 10792
+  },
+  {
+    "command": "search",
+    "username": "alice22",
+    "timestamp": 11102,
+    "type": "song",
+    "filters": {
+      "name": "Wish You Were Here"
+    }
+  },
+  {
+    "command": "select",
+    "username": "alice22",
+    "timestamp": 11102,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "alice22",
+    "timestamp": 11102
+  },
+  {
+    "command": "search",
+    "username": "alice22",
+    "timestamp": 11246,
+    "type": "song",
+    "filters": {
+      "name": "Young Lust"
+    }
+  },
+  {
+    "command": "select",
+    "username": "alice22",
+    "timestamp": 11246,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "alice22",
+    "timestamp": 11246
+  },
+  {
+    "command": "search",
+    "username": "alice22",
+    "timestamp": 11340,
+    "type": "song",
+    "filters": {
+      "name": "Any Colour You Like"
+    }
+  },
+  {
+    "command": "select",
+    "username": "alice22",
+    "timestamp": 11340,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "alice22",
+    "timestamp": 11340
+  },
+  {
+    "command": "search",
+    "username": "alice22",
+    "timestamp": 11585,
+    "type": "song",
+    "filters": {
+      "name": "Goodbye Cruel World"
+    }
+  },
+  {
+    "command": "select",
+    "username": "alice22",
+    "timestamp": 11585,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "alice22",
+    "timestamp": 11585
+  },
+  {
+    "command": "search",
+    "username": "alice22",
+    "timestamp": 11648,
+    "type": "song",
+    "filters": {
+      "name": "Coming Back to Life"
+    }
+  },
+  {
+    "command": "select",
+    "username": "alice22",
+    "timestamp": 11648,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "alice22",
+    "timestamp": 11648
+  },
+  {
+    "command": "search",
+    "username": "alice22",
+    "timestamp": 11837,
+    "type": "song",
+    "filters": {
+      "name": "Marooned"
+    }
+  },
+  {
+    "command": "select",
+    "username": "alice22",
+    "timestamp": 11837,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "alice22",
+    "timestamp": 11837
+  },
+  {
+    "command": "search",
+    "username": "alice22",
+    "timestamp": 12393,
+    "type": "song",
+    "filters": {
+      "name": "Another Brick in the Wall Part 1"
+    }
+  },
+  {
+    "command": "select",
+    "username": "alice22",
+    "timestamp": 12393,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "alice22",
+    "timestamp": 12393
+  },
+  {
+    "command": "wrapped",
+    "username": "Pink Floyd",
+    "timestamp": 12427
+  },
+  {
+    "command": "wrapped",
+    "username": "alice22",
+    "timestamp": 12527
+  }
+]

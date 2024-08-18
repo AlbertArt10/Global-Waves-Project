@@ -1,0 +1,2938 @@
+[
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Beatles"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Michael Jackson"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Nothing But Thieves"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Bob Dylan"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Madonna"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Queen"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Rolling Stones"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "David Bowie"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Prince"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Whitney Houston"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Elton John"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Led Zeppelin"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Stevie Wonder"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Beyonc\u00c3\u00a9"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Pink Floyd"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "U2"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Beach Boys"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Frank Sinatra"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Johnny Cash"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Adele"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Bruce Springsteen"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Jimi Hendrix"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Nirvana"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Dire Straits"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Imagine Dragons"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Eminem"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "ABBA"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Ray Charles"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Eagles"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Bob Marley"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Taylor Swift"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Aretha Franklin"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Who"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Rihanna"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Marvin Gaye"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Fleetwood Mac"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "James Brown"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Radiohead"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Doors"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Jay-Z"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Eric Clapton"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Joni Mitchell"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Chuck Berry"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Police"
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 10,
+    "type": "artist",
+    "filters": {
+      "name": "Chuck Berry"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 10,
+    "itemNumber": 1
+  },
+  {
+    "command": "subscribe",
+    "username": "david27",
+    "timestamp": 10
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 22,
+    "type": "artist",
+    "filters": {
+      "name": "Elton John"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 22,
+    "itemNumber": 1
+  },
+  {
+    "command": "subscribe",
+    "username": "david27",
+    "timestamp": 22
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 92,
+    "type": "artist",
+    "filters": {
+      "name": "Fleetwood Mac"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 92,
+    "itemNumber": 1
+  },
+  {
+    "command": "subscribe",
+    "username": "david27",
+    "timestamp": 92
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 115,
+    "type": "artist",
+    "filters": {
+      "name": "Fleetwood Mac"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 115,
+    "itemNumber": 1
+  },
+  {
+    "command": "subscribe",
+    "username": "david27",
+    "timestamp": 115
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 144,
+    "type": "artist",
+    "filters": {
+      "name": "David Bowie"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 144,
+    "itemNumber": 1
+  },
+  {
+    "command": "subscribe",
+    "username": "david27",
+    "timestamp": 144
+  },
+  {
+    "command": "removeAlbum",
+    "username": "Fleetwood Mac",
+    "timestamp": 913,
+    "name": "Rumours"
+  },
+  {
+    "command": "addAlbum",
+    "username": "Fleetwood Mac",
+    "timestamp": 1063,
+    "name": "Rumours",
+    "songs": [
+      {
+        "name": "Second Hand News",
+        "duration": 163,
+        "album": "Rumours",
+        "tags": [
+          "classic rock",
+          "70s",
+          "rock",
+          "fleetwood mac",
+          "pop"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Dreams",
+        "duration": 254,
+        "album": "Rumours",
+        "tags": [
+          "classic rock",
+          "70s",
+          "rock",
+          "fleetwood mac",
+          "pop"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Never Going Back",
+        "duration": 122,
+        "album": "Rumours",
+        "tags": [
+          "classic rock",
+          "70s",
+          "rock",
+          "fleetwood mac",
+          "pop"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Don't Stop",
+        "duration": 191,
+        "album": "Rumours",
+        "tags": [
+          "classic rock",
+          "70s",
+          "rock",
+          "fleetwood mac",
+          "pop"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Go Your Own Way",
+        "duration": 409,
+        "album": "Rumours",
+        "tags": [
+          "classic rock",
+          "70s",
+          "rock",
+          "fleetwood mac",
+          "pop"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Songbird",
+        "duration": 207,
+        "album": "Rumours",
+        "tags": [
+          "classic rock",
+          "70s",
+          "rock",
+          "fleetwood mac",
+          "pop"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "The Chain",
+        "duration": 402,
+        "album": "Rumours",
+        "tags": [
+          "classic rock",
+          "70s",
+          "rock",
+          "fleetwood mac",
+          "pop"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "You Make Loving Fun",
+        "duration": 222,
+        "album": "Rumours",
+        "tags": [
+          "classic rock",
+          "70s",
+          "rock",
+          "fleetwood mac",
+          "pop"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "I Don't Want to Know",
+        "duration": 191,
+        "album": "Rumours",
+        "tags": [
+          "classic rock",
+          "70s",
+          "rock",
+          "fleetwood mac",
+          "pop"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Oh Daddy",
+        "duration": 234,
+        "album": "Rumours",
+        "tags": [
+          "classic rock",
+          "70s",
+          "rock",
+          "fleetwood mac",
+          "pop"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Gold Dust Woman",
+        "duration": 291,
+        "album": "Rumours",
+        "tags": [
+          "classic rock",
+          "70s",
+          "rock",
+          "fleetwood mac",
+          "pop"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "Fleetwood Mac"
+      }
+    ],
+    "description": "Rumours is the eleventh studio album by British-American rock band Fleetwood Mac. Largely recorded in California during 1976, it was produced by the band with Ken Caillat and Richard Dashut and was released on 4 February 1977 by Warner Bros. Records. The record peaked at the top of both the main United States Billboard chart and the United Kingdom Albums Chart. \"Go Your Own Way\", \"Don't Stop\", \"Dreams\", and \"You Make Loving Fun\" were released as singles. A Grammy Award winner, Rumours is Fleetwood Mac's most successful release with sales of over 40 million copies worldwide, and diamond certifications in <a href=\"https://www.last.fm/music/Fleetwood+Mac/Rumours\">Read more on Last.fm</a>.",
+    "releaseYear": 2013
+  },
+  {
+    "command": "removeAlbum",
+    "username": "Fleetwood Mac",
+    "timestamp": 1318,
+    "name": "Rumours (Super Deluxe)"
+  },
+  {
+    "command": "addAlbum",
+    "username": "Fleetwood Mac",
+    "timestamp": 1468,
+    "name": "Rumours (Super Deluxe)",
+    "songs": [
+      {
+        "name": "Second Hand News - 2004 Remastered Edition",
+        "duration": 176,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Dreams - 2004 Remastered Edition",
+        "duration": 257,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Never Going Back Again - 2004 Remastered Edition",
+        "duration": 134,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Don't Stop - 2004 Remastered Edition",
+        "duration": 193,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Go Your Own Way - 2004 Remastered Edition",
+        "duration": 224,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Songbird - 2004 Remastered Edition",
+        "duration": 200,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "The Chain - 2004 Remastered Edition",
+        "duration": 270,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "You Make Loving Fun - 2004 Remastered Edition",
+        "duration": 216,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "I Don't Want To Know - 2004 Remastered Edition",
+        "duration": 196,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Oh Daddy - 2004 Remastered Edition",
+        "duration": 236,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Gold Dust Woman - 2004 Remastered Edition",
+        "duration": 295,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Silver Springs - 2004 Remastered Edition",
+        "duration": 288,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Intro - Live",
+        "duration": 48,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Monday Morning - Live",
+        "duration": 158,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Dreams - Live",
+        "duration": 247,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Don't Stop - Live",
+        "duration": 231,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "the chain - Live",
+        "duration": 340,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Oh Daddy - Live",
+        "duration": 287,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Rhiannon - Live",
+        "duration": 396,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Never Going Back Again",
+        "duration": 122,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Gold Dust Woman",
+        "duration": 291,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "World Turning - Live",
+        "duration": 451,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Go Your Own Way",
+        "duration": 409,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Songbird - Live",
+        "duration": 240,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Second Hand News - Early Take",
+        "duration": 147,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Dreams - Take 2",
+        "duration": 335,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Never Going Back Again - Acoustic Duet",
+        "duration": 139,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Go Your Own Way - Early Take",
+        "duration": 244,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Songbird - Demo",
+        "duration": 273,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Songbird - Instrumental , Take 10",
+        "duration": 263,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "I Don't Want To Know - Early Take",
+        "duration": 222,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Keep Me There - Instrumental",
+        "duration": 314,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "The Chain - Demo",
+        "duration": 329,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Keep Me There - With Vocal",
+        "duration": 258,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Gold Dust Woman - Early Take",
+        "duration": 325,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Oh Daddy - Early Take",
+        "duration": 228,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Silver Springs - Early Take",
+        "duration": 331,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Planets Of The Universe - Demo",
+        "duration": 267,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Doesn't Anything Last - Acoustic Duet",
+        "duration": 63,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Never Going Back Again - (Instrumental",
+        "duration": 156,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Second Hand News (Sessions, Roughs & Outtakes) - 2004 Remastered Edition",
+        "duration": 167,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Dreams (Sessions, Roughs & Outtakes)",
+        "duration": 261,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Brushes (Never Going Back Again) [Sessions, Roughs & Outtakes]",
+        "duration": 170,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Don't Stop (Sessions, Roughs & Outtakes) - 2004 Remastered Edition",
+        "duration": 213,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Go Your Own Way (Sessions, Roughs & Outtakes) - 2004 Remastered Edition",
+        "duration": 186,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Songbird (Sessions, Roughs & Outtakes)",
+        "duration": 191,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Silver Springs (Sessions, Roughs & Outtakes) - 2004 Remastered Edition",
+        "duration": 367,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "You Make Loving Fun (Sessions, Roughs & Outtakes) - 2004 Remastered Edition",
+        "duration": 297,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Gold Dust Woman #1 (Sessions, Roughs & Outtakes)",
+        "duration": 302,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Oh Daddy (Sessions, Roughs & Outtakes)",
+        "duration": 238,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Think About It (Sessions, Roughs & Outtakes)",
+        "duration": 175,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Never Going Back Again (early demo)",
+        "duration": 116,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Planets of the Universe (early demo)",
+        "duration": 198,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Butter Cookie (Keep Me There) (Early Demo) - 2004 Remastered Edition",
+        "duration": 167,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Gold Dust Woman (Early Demo) - 2004 Remastered Edition",
+        "duration": 301,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Doesn't Anything Last (Early Demo) - 2004 Remastered Edition",
+        "duration": 70,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Mic The Screecher (Jam Sessions) - 2004 Remastered Edition",
+        "duration": 59,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "For Duster (The Blues) [Jam Sessions] - 2004 Remastered Edition",
+        "duration": 266,
+        "album": "Rumours (Super Deluxe)",
+        "tags": [
+          "justice for silver springs",
+          "rock",
+          "classic rock",
+          "fleetwood mac",
+          "70s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "justice for silver springs",
+        "releaseYear": 2022,
+        "artist": "Fleetwood Mac"
+      }
+    ],
+    "description": "Fleetwood Mac, one of rock's most enduring, beloved and successful bands, circulate another round of \"Rumours\" with expanded and deluxe versions of the album in celebration of its 35th anniversary. \"Rumours\" made the band one of the most iconic bands of the 1970s and garnered wide critical praise, earned the Grammy\u00ae for Album of the Year, and has now sold more than 40 million copies worldwide since its 1977 debut. Mick Fleetwood, John McVie, Christine McVie, Lindsey Buckingham and Stevie Nicks recorded \"Rumours\" against a backdrop personal turmoil, chronicling their raw emotions in songs like \"Go Your Own Way, \" <a href=\"https://www.last.fm/music/Fleetwood+Mac/Rumours+(Super+Deluxe)\">Read more on Last.fm</a>.",
+    "releaseYear": 2022
+  },
+  {
+    "command": "addMerch",
+    "username": "Fleetwood Mac",
+    "name": "Fleetwood Mac T-Shirt",
+    "timestamp": 1533,
+    "price": 9600
+  },
+  {
+    "command": "getNotifications",
+    "username": "david27",
+    "timestamp": 2778
+  },
+  {
+    "command": "removeAlbum",
+    "username": "Chuck Berry",
+    "timestamp": 2910,
+    "name": "Berry Is On Top"
+  },
+  {
+    "command": "addAlbum",
+    "username": "Chuck Berry",
+    "timestamp": 3060,
+    "name": "Berry Is On Top",
+    "songs": [
+      {
+        "name": "Almost Grown",
+        "duration": 140,
+        "album": "Berry Is On Top",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "rock n roll",
+          "classic rock",
+          "oldies"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "Carol",
+        "duration": 164,
+        "album": "Berry Is On Top",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "rock n roll",
+          "classic rock",
+          "oldies"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "Maybellene",
+        "duration": 141,
+        "album": "Berry Is On Top",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "rock n roll",
+          "classic rock",
+          "oldies"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "Sweet Little Rock And Roller",
+        "duration": 132,
+        "album": "Berry Is On Top",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "rock n roll",
+          "classic rock",
+          "oldies"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "Anthony Boy",
+        "duration": 146,
+        "album": "Berry Is On Top",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "rock n roll",
+          "classic rock",
+          "oldies"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "Johnny B. Goode",
+        "duration": 157,
+        "album": "Berry Is On Top",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "rock n roll",
+          "classic rock",
+          "oldies"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "Little Queenie",
+        "duration": 161,
+        "album": "Berry Is On Top",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "rock n roll",
+          "classic rock",
+          "oldies"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "Jo Jo Gunne",
+        "duration": 169,
+        "album": "Berry Is On Top",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "rock n roll",
+          "classic rock",
+          "oldies"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "Roll over Beethoven",
+        "duration": 170,
+        "album": "Berry Is On Top",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "rock n roll",
+          "classic rock",
+          "oldies"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "Around and Around",
+        "duration": 160,
+        "album": "Berry Is On Top",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "rock n roll",
+          "classic rock",
+          "oldies"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "Hey Pedro",
+        "duration": 138,
+        "album": "Berry Is On Top",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "rock n roll",
+          "classic rock",
+          "oldies"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "Blues for Hawaiians",
+        "duration": 145,
+        "album": "Berry Is On Top",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "rock n roll",
+          "classic rock",
+          "oldies"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      }
+    ],
+    "description": "No description",
+    "releaseYear": 1970
+  },
+  {
+    "command": "removeAlbum",
+    "username": "Fleetwood Mac",
+    "timestamp": 3530,
+    "name": "Rumours"
+  },
+  {
+    "command": "getNotifications",
+    "username": "david27",
+    "timestamp": 3629
+  },
+  {
+    "command": "addAlbum",
+    "username": "Fleetwood Mac",
+    "timestamp": 3680,
+    "name": "Rumours",
+    "songs": [
+      {
+        "name": "Second Hand News",
+        "duration": 163,
+        "album": "Rumours",
+        "tags": [
+          "classic rock",
+          "70s",
+          "rock",
+          "fleetwood mac",
+          "pop"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Dreams",
+        "duration": 254,
+        "album": "Rumours",
+        "tags": [
+          "classic rock",
+          "70s",
+          "rock",
+          "fleetwood mac",
+          "pop"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Never Going Back",
+        "duration": 122,
+        "album": "Rumours",
+        "tags": [
+          "classic rock",
+          "70s",
+          "rock",
+          "fleetwood mac",
+          "pop"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Don't Stop",
+        "duration": 191,
+        "album": "Rumours",
+        "tags": [
+          "classic rock",
+          "70s",
+          "rock",
+          "fleetwood mac",
+          "pop"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Go Your Own Way",
+        "duration": 409,
+        "album": "Rumours",
+        "tags": [
+          "classic rock",
+          "70s",
+          "rock",
+          "fleetwood mac",
+          "pop"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Songbird",
+        "duration": 207,
+        "album": "Rumours",
+        "tags": [
+          "classic rock",
+          "70s",
+          "rock",
+          "fleetwood mac",
+          "pop"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "The Chain",
+        "duration": 402,
+        "album": "Rumours",
+        "tags": [
+          "classic rock",
+          "70s",
+          "rock",
+          "fleetwood mac",
+          "pop"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "You Make Loving Fun",
+        "duration": 222,
+        "album": "Rumours",
+        "tags": [
+          "classic rock",
+          "70s",
+          "rock",
+          "fleetwood mac",
+          "pop"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "I Don't Want to Know",
+        "duration": 191,
+        "album": "Rumours",
+        "tags": [
+          "classic rock",
+          "70s",
+          "rock",
+          "fleetwood mac",
+          "pop"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Oh Daddy",
+        "duration": 234,
+        "album": "Rumours",
+        "tags": [
+          "classic rock",
+          "70s",
+          "rock",
+          "fleetwood mac",
+          "pop"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "name": "Gold Dust Woman",
+        "duration": 291,
+        "album": "Rumours",
+        "tags": [
+          "classic rock",
+          "70s",
+          "rock",
+          "fleetwood mac",
+          "pop"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "Fleetwood Mac"
+      }
+    ],
+    "description": "Rumours is the eleventh studio album by British-American rock band Fleetwood Mac. Largely recorded in California during 1976, it was produced by the band with Ken Caillat and Richard Dashut and was released on 4 February 1977 by Warner Bros. Records. The record peaked at the top of both the main United States Billboard chart and the United Kingdom Albums Chart. \"Go Your Own Way\", \"Don't Stop\", \"Dreams\", and \"You Make Loving Fun\" were released as singles. A Grammy Award winner, Rumours is Fleetwood Mac's most successful release with sales of over 40 million copies worldwide, and diamond certifications in <a href=\"https://www.last.fm/music/Fleetwood+Mac/Rumours\">Read more on Last.fm</a>.",
+    "releaseYear": 2013
+  },
+  {
+    "command": "removeAlbum",
+    "username": "Chuck Berry",
+    "timestamp": 4771,
+    "name": "The Great Twenty-Eight"
+  },
+  {
+    "command": "addAlbum",
+    "username": "Chuck Berry",
+    "timestamp": 4921,
+    "name": "The Great Twenty-Eight",
+    "songs": [
+      {
+        "name": "Maybellene - Single Version",
+        "duration": 142,
+        "album": "The Great Twenty-Eight",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "classic rock",
+          "oldies",
+          "rock n roll"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "Thirty Days - Single Version",
+        "duration": 142,
+        "album": "The Great Twenty-Eight",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "classic rock",
+          "oldies",
+          "rock n roll"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "You Can't Catch Me (Single Version)",
+        "duration": 162,
+        "album": "The Great Twenty-Eight",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "classic rock",
+          "oldies",
+          "rock n roll"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "Too Much Monkey Business (Single Version)",
+        "duration": 176,
+        "album": "The Great Twenty-Eight",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "classic rock",
+          "oldies",
+          "rock n roll"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "Brown Eyed Handsome Man (Single Version)",
+        "duration": 69,
+        "album": "The Great Twenty-Eight",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "classic rock",
+          "oldies",
+          "rock n roll"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "Roll Over Beethoven - Single Version",
+        "duration": 142,
+        "album": "The Great Twenty-Eight",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "classic rock",
+          "oldies",
+          "rock n roll"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "Havana Moon (Single Version)",
+        "duration": 185,
+        "album": "The Great Twenty-Eight",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "classic rock",
+          "oldies",
+          "rock n roll"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "School Day (Ring Ring Goes the Bell) [Single Version]",
+        "duration": 162,
+        "album": "The Great Twenty-Eight",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "classic rock",
+          "oldies",
+          "rock n roll"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "Rock And Roll Music - 1958 Single Version",
+        "duration": 153,
+        "album": "The Great Twenty-Eight",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "classic rock",
+          "oldies",
+          "rock n roll"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "Oh Baby Doll - 1957 Single Version",
+        "duration": 156,
+        "album": "The Great Twenty-Eight",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "classic rock",
+          "oldies",
+          "rock n roll"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "Reelin' And Rockin' - Single Version",
+        "duration": 195,
+        "album": "The Great Twenty-Eight",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "classic rock",
+          "oldies",
+          "rock n roll"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "Sweet Little Sixteen",
+        "duration": 181,
+        "album": "The Great Twenty-Eight",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "classic rock",
+          "oldies",
+          "rock n roll"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "Johnny B. Goode",
+        "duration": 157,
+        "album": "The Great Twenty-Eight",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "classic rock",
+          "oldies",
+          "rock n roll"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "Around And Around - Single Version",
+        "duration": 158,
+        "album": "The Great Twenty-Eight",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "classic rock",
+          "oldies",
+          "rock n roll"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "Carol (Single Version)",
+        "duration": 69,
+        "album": "The Great Twenty-Eight",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "classic rock",
+          "oldies",
+          "rock n roll"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "Beautiful Delilah - Single Version",
+        "duration": 128,
+        "album": "The Great Twenty-Eight",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "classic rock",
+          "oldies",
+          "rock n roll"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "Memphis Tennessee",
+        "duration": 251,
+        "album": "The Great Twenty-Eight",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "classic rock",
+          "oldies",
+          "rock n roll"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "Sweet Little Rock 'N' Roller (Single Version)",
+        "duration": 140,
+        "album": "The Great Twenty-Eight",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "classic rock",
+          "oldies",
+          "rock n roll"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "Little Queenie - Single Version",
+        "duration": 161,
+        "album": "The Great Twenty-Eight",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "classic rock",
+          "oldies",
+          "rock n roll"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "Almost Grown - Single Version",
+        "duration": 141,
+        "album": "The Great Twenty-Eight",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "classic rock",
+          "oldies",
+          "rock n roll"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "Back in the USA",
+        "duration": 150,
+        "album": "The Great Twenty-Eight",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "classic rock",
+          "oldies",
+          "rock n roll"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "Let It Rock - Single Version",
+        "duration": 106,
+        "album": "The Great Twenty-Eight",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "classic rock",
+          "oldies",
+          "rock n roll"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "Bye Bye Johnny (Single Version)",
+        "duration": 123,
+        "album": "The Great Twenty-Eight",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "classic rock",
+          "oldies",
+          "rock n roll"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "I'm Talking About You (Single Version)",
+        "duration": 110,
+        "album": "The Great Twenty-Eight",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "classic rock",
+          "oldies",
+          "rock n roll"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "Come On (Single Version)",
+        "duration": 108,
+        "album": "The Great Twenty-Eight",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "classic rock",
+          "oldies",
+          "rock n roll"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "Nadine (Single Version)",
+        "duration": 153,
+        "album": "The Great Twenty-Eight",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "classic rock",
+          "oldies",
+          "rock n roll"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "No Particular Place To Go - Single Version",
+        "duration": 163,
+        "album": "The Great Twenty-Eight",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "classic rock",
+          "oldies",
+          "rock n roll"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      },
+      {
+        "name": "I Want To Be Your Driver",
+        "duration": 133,
+        "album": "The Great Twenty-Eight",
+        "tags": [
+          "rock and roll",
+          "50s",
+          "classic rock",
+          "oldies",
+          "rock n roll"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rock and roll",
+        "releaseYear": 1970,
+        "artist": "Chuck Berry"
+      }
+    ],
+    "description": "No description",
+    "releaseYear": 1970
+  },
+  {
+    "command": "addMerch",
+    "username": "Elton John",
+    "name": "Elton John T-Shirt",
+    "timestamp": 5148,
+    "price": 5200
+  },
+  {
+    "command": "removeAlbum",
+    "username": "David Bowie",
+    "timestamp": 5444,
+    "name": "Best of Bowie"
+  },
+  {
+    "command": "addAlbum",
+    "username": "David Bowie",
+    "timestamp": 5594,
+    "name": "Best of Bowie",
+    "songs": [
+      {
+        "name": "Space Oddity",
+        "duration": 290,
+        "album": "Best of Bowie",
+        "tags": [
+          "classic rock",
+          "rock",
+          "glam rock",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2023,
+        "artist": "David Bowie"
+      },
+      {
+        "name": "The Man Who Sold the World",
+        "duration": 217,
+        "album": "Best of Bowie",
+        "tags": [
+          "classic rock",
+          "rock",
+          "glam rock",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2023,
+        "artist": "David Bowie"
+      },
+      {
+        "name": "Changes",
+        "duration": 222,
+        "album": "Best of Bowie",
+        "tags": [
+          "classic rock",
+          "rock",
+          "glam rock",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2023,
+        "artist": "David Bowie"
+      },
+      {
+        "name": "Life on Mars?",
+        "duration": 228,
+        "album": "Best of Bowie",
+        "tags": [
+          "classic rock",
+          "rock",
+          "glam rock",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2023,
+        "artist": "David Bowie"
+      },
+      {
+        "name": "Starman",
+        "duration": 250,
+        "album": "Best of Bowie",
+        "tags": [
+          "classic rock",
+          "rock",
+          "glam rock",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2023,
+        "artist": "David Bowie"
+      },
+      {
+        "name": "Ziggy Stardust",
+        "duration": 193,
+        "album": "Best of Bowie",
+        "tags": [
+          "classic rock",
+          "rock",
+          "glam rock",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2023,
+        "artist": "David Bowie"
+      },
+      {
+        "name": "The Jean Genie",
+        "duration": 246,
+        "album": "Best of Bowie",
+        "tags": [
+          "classic rock",
+          "rock",
+          "glam rock",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2023,
+        "artist": "David Bowie"
+      },
+      {
+        "name": "Rebel Rebel",
+        "duration": 261,
+        "album": "Best of Bowie",
+        "tags": [
+          "classic rock",
+          "rock",
+          "glam rock",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2023,
+        "artist": "David Bowie"
+      },
+      {
+        "name": "Young Americans",
+        "duration": 300,
+        "album": "Best of Bowie",
+        "tags": [
+          "classic rock",
+          "rock",
+          "glam rock",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2023,
+        "artist": "David Bowie"
+      },
+      {
+        "name": "Fame",
+        "duration": 361,
+        "album": "Best of Bowie",
+        "tags": [
+          "classic rock",
+          "rock",
+          "glam rock",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2023,
+        "artist": "David Bowie"
+      },
+      {
+        "name": "\"Heroes\"",
+        "duration": 367,
+        "album": "Best of Bowie",
+        "tags": [
+          "classic rock",
+          "rock",
+          "glam rock",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2023,
+        "artist": "David Bowie"
+      },
+      {
+        "name": "Under Pressure",
+        "duration": 234,
+        "album": "Best of Bowie",
+        "tags": [
+          "classic rock",
+          "rock",
+          "glam rock",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2023,
+        "artist": "David Bowie"
+      },
+      {
+        "name": "Let's Dance",
+        "duration": 247,
+        "album": "Best of Bowie",
+        "tags": [
+          "classic rock",
+          "rock",
+          "glam rock",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2023,
+        "artist": "David Bowie"
+      },
+      {
+        "name": "China Girl",
+        "duration": 332,
+        "album": "Best of Bowie",
+        "tags": [
+          "classic rock",
+          "rock",
+          "glam rock",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2023,
+        "artist": "David Bowie"
+      },
+      {
+        "name": "Absolute Beginners",
+        "duration": 478,
+        "album": "Best of Bowie",
+        "tags": [
+          "classic rock",
+          "rock",
+          "glam rock",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2023,
+        "artist": "David Bowie"
+      },
+      {
+        "name": "Hallo Spaceboy (PSB remix)",
+        "duration": 266,
+        "album": "Best of Bowie",
+        "tags": [
+          "classic rock",
+          "rock",
+          "glam rock",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2023,
+        "artist": "David Bowie"
+      },
+      {
+        "name": "Little Wonder",
+        "duration": 499,
+        "album": "Best of Bowie",
+        "tags": [
+          "classic rock",
+          "rock",
+          "glam rock",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2023,
+        "artist": "David Bowie"
+      },
+      {
+        "name": "Thursday's Child",
+        "duration": 340,
+        "album": "Best of Bowie",
+        "tags": [
+          "classic rock",
+          "rock",
+          "glam rock",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2023,
+        "artist": "David Bowie"
+      }
+    ],
+    "description": "Best of Bowie is a greatest hits album by English musician David Bowie. Released in October 2002, four months after the critical and commercial success of the Heathen album, the songs range from his second album, David Bowie to Heathen. A DVD, also titled Best of Bowie, was also released. Initially peaking at number 11 on the UK Albums Chart upon release in October 2002, the album entered the top 10 for the first time in January 2016, after Bowie's death, and reached a new peak of number 1, marking his eleventh UK number-one album. It also became the first <a href=\"https://www.last.fm/music/David+Bowie/Best+of+Bowie\">Read more on Last.fm</a>.",
+    "releaseYear": 2023
+  },
+  {
+    "command": "removeAlbum",
+    "username": "David Bowie",
+    "timestamp": 7348,
+    "name": "Let's Dance"
+  },
+  {
+    "command": "addAlbum",
+    "username": "David Bowie",
+    "timestamp": 7498,
+    "name": "Let's Dance",
+    "songs": [
+      {
+        "name": "Modern Love",
+        "duration": 286,
+        "album": "Let's Dance",
+        "tags": [
+          "80s",
+          "rock",
+          "classic rock",
+          "pop",
+          "soundtrack"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2022,
+        "artist": "David Bowie"
+      },
+      {
+        "name": "China Girl",
+        "duration": 332,
+        "album": "Let's Dance",
+        "tags": [
+          "80s",
+          "rock",
+          "classic rock",
+          "pop",
+          "soundtrack"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2022,
+        "artist": "David Bowie"
+      },
+      {
+        "name": "Let's Dance",
+        "duration": 247,
+        "album": "Let's Dance",
+        "tags": [
+          "80s",
+          "rock",
+          "classic rock",
+          "pop",
+          "soundtrack"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2022,
+        "artist": "David Bowie"
+      },
+      {
+        "name": "Without You",
+        "duration": 189,
+        "album": "Let's Dance",
+        "tags": [
+          "80s",
+          "rock",
+          "classic rock",
+          "pop",
+          "soundtrack"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2022,
+        "artist": "David Bowie"
+      },
+      {
+        "name": "Ricochet",
+        "duration": 313,
+        "album": "Let's Dance",
+        "tags": [
+          "80s",
+          "rock",
+          "classic rock",
+          "pop",
+          "soundtrack"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2022,
+        "artist": "David Bowie"
+      },
+      {
+        "name": "Criminal World",
+        "duration": 264,
+        "album": "Let's Dance",
+        "tags": [
+          "80s",
+          "rock",
+          "classic rock",
+          "pop",
+          "soundtrack"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2022,
+        "artist": "David Bowie"
+      },
+      {
+        "name": "Cat People (Putting Out Fire)",
+        "duration": 260,
+        "album": "Let's Dance",
+        "tags": [
+          "80s",
+          "rock",
+          "classic rock",
+          "pop",
+          "soundtrack"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2022,
+        "artist": "David Bowie"
+      },
+      {
+        "name": "Shake It",
+        "duration": 231,
+        "album": "Let's Dance",
+        "tags": [
+          "80s",
+          "rock",
+          "classic rock",
+          "pop",
+          "soundtrack"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2022,
+        "artist": "David Bowie"
+      }
+    ],
+    "description": "Let\u2019s Dance is an album by David Bowie, released in 1983, with co-production by Chic\u2019s Nile Rodgers. The title track of the album became one of Bowie\u2019s biggest hit singles, reaching number 1 in the UK, the US and various other countries. Further singles included \u201cModern Love\u201d and \u201cChina Girl\u201d, which both reached number 2 in the UK. \u201cChina Girl\u201d was a new version of a song which Bowie had co-written with Iggy Pop for the latter\u2019s 1977 album The Idiot. The album also contains a rerecorded version of the song \u201cCat People (Putting Out Fire)\u201d which had been a <a href=\"https://www.last.fm/music/David+Bowie/Let%27s+Dance\">Read more on Last.fm</a>.",
+    "releaseYear": 2022
+  },
+  {
+    "command": "addMerch",
+    "username": "Fleetwood Mac",
+    "name": "Fleetwood Mac Album",
+    "timestamp": 8078,
+    "price": 9600
+  },
+  {
+    "command": "getNotifications",
+    "username": "david27",
+    "timestamp": 8095
+  }
+]

@@ -1,0 +1,115 @@
+[ {
+  "command" : "addUser",
+  "user" : "Led Zeppelin",
+  "timestamp" : 1,
+  "message" : "The username Led Zeppelin has been added successfully."
+}, {
+  "command" : "addAlbum",
+  "user" : "Led Zeppelin",
+  "timestamp" : 1,
+  "message" : "Led Zeppelin has added new album successfully."
+}, {
+  "command" : "search",
+  "user" : "alice22",
+  "timestamp" : 10,
+  "message" : "Search returned 2 results",
+  "results" : [ "Stairway to Heaven", "Stairway To Heaven - Sunset Sound Mix" ]
+}, {
+  "command" : "select",
+  "user" : "alice22",
+  "timestamp" : 15,
+  "message" : "Successfully selected Stairway to Heaven."
+}, {
+  "command" : "status",
+  "user" : "alice22",
+  "timestamp" : 30,
+  "stats" : {
+    "name" : "",
+    "remainedTime" : 0,
+    "repeat" : "No Repeat",
+    "shuffle" : false,
+    "paused" : true
+  }
+}, {
+  "command" : "addUser",
+  "user" : "Nothing But Thieves",
+  "timestamp" : 35,
+  "message" : "The username Nothing But Thieves has been added successfully."
+}, {
+  "command" : "addAlbum",
+  "user" : "Nothing But Thieves",
+  "timestamp" : 40,
+  "message" : "Nothing But Thieves has added new album successfully."
+}, {
+  "command" : "search",
+  "user" : "alice22",
+  "timestamp" : 60,
+  "message" : "Search returned 2 results",
+  "results" : [ "Amsterdam", "Afterlife" ]
+}, {
+  "command" : "select",
+  "user" : "alice22",
+  "timestamp" : 65,
+  "message" : "Successfully selected Amsterdam."
+}, {
+  "command" : "load",
+  "user" : "alice22",
+  "timestamp" : 75,
+  "message" : "Playback loaded successfully."
+}, {
+  "command" : "status",
+  "user" : "alice22",
+  "timestamp" : 90,
+  "stats" : {
+    "name" : "Amsterdam",
+    "remainedTime" : 257,
+    "repeat" : "No Repeat",
+    "shuffle" : false,
+    "paused" : false
+  }
+}, {
+  "command" : "like",
+  "user" : "alice22",
+  "timestamp" : 130,
+  "message" : "Like registered successfully."
+}, {
+  "command" : "updateRecommendations",
+  "user" : "alice22",
+  "timestamp" : 135,
+  "message" : "The recommendations for user alice22 have been updated successfully."
+}, {
+  "user" : "alice22",
+  "command" : "printCurrentPage",
+  "timestamp" : 150,
+  "message" : "Liked songs:\n\t[Amsterdam]\n\nFollowed playlists:\n\t[]\n\nSong recommendations:\n\t[I Was Just a Kid]\n\nPlaylists recommendations:\n\t[]"
+}, {
+  "command" : "updateRecommendations",
+  "user" : "alice22",
+  "timestamp" : 165,
+  "message" : "The recommendations for user alice22 have been updated successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Michael Jackson",
+  "timestamp" : 170,
+  "message" : "The username Michael Jackson has been added successfully."
+}, {
+  "command" : "addAlbum",
+  "user" : "Michael Jackson",
+  "timestamp" : 175,
+  "message" : "Michael Jackson has added new album successfully."
+}, {
+  "user" : "alice22",
+  "command" : "printCurrentPage",
+  "timestamp" : 190,
+  "message" : "Liked songs:\n\t[Amsterdam]\n\nFollowed playlists:\n\t[]\n\nSong recommendations:\n\t[I Was Just a Kid]\n\nPlaylists recommendations:\n\t[alice22's recommendations]"
+}, {
+  "command" : "endProgram",
+  "result" : {
+    "Nothing But Thieves" : {
+      "merchRevenue" : 0.0,
+      "songRevenue" : 0.0,
+      "ranking" : 1,
+      "mostProfitableSong" : "N/A"
+    }
+  }
+} ]

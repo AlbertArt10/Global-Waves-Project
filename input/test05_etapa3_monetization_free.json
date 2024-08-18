@@ -1,0 +1,6760 @@
+[
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Beatles"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Michael Jackson"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Nothing But Thieves"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Bob Dylan"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Madonna"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Queen"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Rolling Stones"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "David Bowie"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Prince"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Whitney Houston"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Elton John"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Led Zeppelin"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Stevie Wonder"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Beyonc\u00c3\u00a9"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Pink Floyd"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "U2"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Beach Boys"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Frank Sinatra"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Johnny Cash"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Adele"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Bruce Springsteen"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Jimi Hendrix"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Nirvana"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Dire Straits"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Imagine Dragons"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Eminem"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "ABBA"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Ray Charles"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Eagles"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Bob Marley"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Taylor Swift"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Aretha Franklin"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Who"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Rihanna"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Marvin Gaye"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Fleetwood Mac"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "James Brown"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Radiohead"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Doors"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Jay-Z"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Eric Clapton"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Joni Mitchell"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Chuck Berry"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Police"
+  },
+  {
+    "command": "addAlbum",
+    "username": "Stevie Wonder",
+    "timestamp": 1,
+    "name": "The Definitive Collection",
+    "songs": [
+      {
+        "name": "Fingertips, Part 2 - Live At The Regal Theater/1963/ Single Version",
+        "duration": 190,
+        "album": "The Definitive Collection",
+        "tags": [
+          "soul",
+          "motown",
+          "funk",
+          "70s",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2009,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Uptight (Everything's Alright) - Single Version",
+        "duration": 172,
+        "album": "The Definitive Collection",
+        "tags": [
+          "soul",
+          "motown",
+          "funk",
+          "70s",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2009,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Hey Love",
+        "duration": 164,
+        "album": "The Definitive Collection",
+        "tags": [
+          "soul",
+          "motown",
+          "funk",
+          "70s",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2009,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "I Was Made to Love Her",
+        "duration": 156,
+        "album": "The Definitive Collection",
+        "tags": [
+          "soul",
+          "motown",
+          "funk",
+          "70s",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2009,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "For Once in My Life",
+        "duration": 170,
+        "album": "The Definitive Collection",
+        "tags": [
+          "soul",
+          "motown",
+          "funk",
+          "70s",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2009,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "My Cherie Amour",
+        "duration": 170,
+        "album": "The Definitive Collection",
+        "tags": [
+          "soul",
+          "motown",
+          "funk",
+          "70s",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2009,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Signed, Sealed, Delivered (I'm Yours)",
+        "duration": 159,
+        "album": "The Definitive Collection",
+        "tags": [
+          "soul",
+          "motown",
+          "funk",
+          "70s",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2009,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "You Are The Sunshine Of My Life - Single Version With Horns",
+        "duration": 178,
+        "album": "The Definitive Collection",
+        "tags": [
+          "soul",
+          "motown",
+          "funk",
+          "70s",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2009,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Superstition - Single Version",
+        "duration": 244,
+        "album": "The Definitive Collection",
+        "tags": [
+          "soul",
+          "motown",
+          "funk",
+          "70s",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2009,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Higher Ground - Single Version",
+        "duration": 187,
+        "album": "The Definitive Collection",
+        "tags": [
+          "soul",
+          "motown",
+          "funk",
+          "70s",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2009,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Living for the City",
+        "duration": 220,
+        "album": "The Definitive Collection",
+        "tags": [
+          "soul",
+          "motown",
+          "funk",
+          "70s",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2009,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "You Haven't Done Nothin'",
+        "duration": 204,
+        "album": "The Definitive Collection",
+        "tags": [
+          "soul",
+          "motown",
+          "funk",
+          "70s",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2009,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Boogie On Reggae Woman - Single Version",
+        "duration": 246,
+        "album": "The Definitive Collection",
+        "tags": [
+          "soul",
+          "motown",
+          "funk",
+          "70s",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2009,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "I Wish",
+        "duration": 238,
+        "album": "The Definitive Collection",
+        "tags": [
+          "soul",
+          "motown",
+          "funk",
+          "70s",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2009,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Sir Duke",
+        "duration": 234,
+        "album": "The Definitive Collection",
+        "tags": [
+          "soul",
+          "motown",
+          "funk",
+          "70s",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2009,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Master Blaster (Jammin') - Single Version",
+        "duration": 291,
+        "album": "The Definitive Collection",
+        "tags": [
+          "soul",
+          "motown",
+          "funk",
+          "70s",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2009,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "That Girl",
+        "duration": 347,
+        "album": "The Definitive Collection",
+        "tags": [
+          "soul",
+          "motown",
+          "funk",
+          "70s",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2009,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Do I Do - Single Version",
+        "duration": 303,
+        "album": "The Definitive Collection",
+        "tags": [
+          "soul",
+          "motown",
+          "funk",
+          "70s",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2009,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "I Just Called To Say I Love You - Single Version",
+        "duration": 263,
+        "album": "The Definitive Collection",
+        "tags": [
+          "soul",
+          "motown",
+          "funk",
+          "70s",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2009,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Overjoyed",
+        "duration": 222,
+        "album": "The Definitive Collection",
+        "tags": [
+          "soul",
+          "motown",
+          "funk",
+          "70s",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2009,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Part-Time Lover - Single Version",
+        "duration": 222,
+        "album": "The Definitive Collection",
+        "tags": [
+          "soul",
+          "motown",
+          "funk",
+          "70s",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2009,
+        "artist": "Stevie Wonder"
+      }
+    ],
+    "description": "The Definitive Collection is a compilation album, released in 2002, by American singer Stevie Wonder. It was released in the United Kingdom as a 38-track, two-disc compilation. <a href=\"https://www.last.fm/music/Stevie+Wonder/The+Definitive+Collection\">Read more on Last.fm</a>.",
+    "releaseYear": 2009
+  },
+  {
+    "command": "addAlbum",
+    "username": "Stevie Wonder",
+    "timestamp": 1,
+    "name": "Talking Book",
+    "songs": [
+      {
+        "name": "You Are the Sunshine of My Life",
+        "duration": 305,
+        "album": "Talking Book",
+        "tags": [
+          "soul",
+          "funk",
+          "70s",
+          "1972",
+          "motown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2010,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Maybe Your Baby",
+        "duration": 405,
+        "album": "Talking Book",
+        "tags": [
+          "soul",
+          "funk",
+          "70s",
+          "1972",
+          "motown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2010,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "You and I",
+        "duration": 279,
+        "album": "Talking Book",
+        "tags": [
+          "soul",
+          "funk",
+          "70s",
+          "1972",
+          "motown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2010,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Tuesday Heartbreak",
+        "duration": 189,
+        "album": "Talking Book",
+        "tags": [
+          "soul",
+          "funk",
+          "70s",
+          "1972",
+          "motown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2010,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "You've Got It Bad Girl",
+        "duration": 295,
+        "album": "Talking Book",
+        "tags": [
+          "soul",
+          "funk",
+          "70s",
+          "1972",
+          "motown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2010,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Superstition",
+        "duration": 268,
+        "album": "Talking Book",
+        "tags": [
+          "soul",
+          "funk",
+          "70s",
+          "1972",
+          "motown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2010,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Big Brother",
+        "duration": 215,
+        "album": "Talking Book",
+        "tags": [
+          "soul",
+          "funk",
+          "70s",
+          "1972",
+          "motown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2010,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Blame It on the Sun",
+        "duration": 208,
+        "album": "Talking Book",
+        "tags": [
+          "soul",
+          "funk",
+          "70s",
+          "1972",
+          "motown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2010,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Lookin' for Another Pure Love",
+        "duration": 285,
+        "album": "Talking Book",
+        "tags": [
+          "soul",
+          "funk",
+          "70s",
+          "1972",
+          "motown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2010,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "I Believe (When I Fall in Love It Will Be Forever)",
+        "duration": 288,
+        "album": "Talking Book",
+        "tags": [
+          "soul",
+          "funk",
+          "70s",
+          "1972",
+          "motown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2010,
+        "artist": "Stevie Wonder"
+      }
+    ],
+    "description": "After releasing two \"head\" records during 1970-71, Stevie Wonder expanded his compositional palate with 1972's Talking Book to include societal ills as well as tender love songs, and so recorded the first smash album of his career. What had been hinted at on the intriguing project Music of My Mind was here focused into a laser beam of tight songwriting, warm electronic arrangements, and ebullient performances -- altogether the most realistic vision of musical personality ever put to wax, beginning with a disarmingly simple love song, \"You Are the Sunshine of My Life\" (but of course, it's only the composition <a href=\"https://www.last.fm/music/Stevie+Wonder/Talking+Book\">Read more on Last.fm</a>.",
+    "releaseYear": 2010
+  },
+  {
+    "command": "addAlbum",
+    "username": "Stevie Wonder",
+    "timestamp": 1,
+    "name": "Innervisions",
+    "songs": [
+      {
+        "name": "Too High",
+        "duration": 276,
+        "album": "Innervisions",
+        "tags": [
+          "soul",
+          "funk",
+          "70s",
+          "1973",
+          "motown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2010,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Visions",
+        "duration": 323,
+        "album": "Innervisions",
+        "tags": [
+          "soul",
+          "funk",
+          "70s",
+          "1973",
+          "motown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2010,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Living for the City",
+        "duration": 220,
+        "album": "Innervisions",
+        "tags": [
+          "soul",
+          "funk",
+          "70s",
+          "1973",
+          "motown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2010,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Golden Lady",
+        "duration": 296,
+        "album": "Innervisions",
+        "tags": [
+          "soul",
+          "funk",
+          "70s",
+          "1973",
+          "motown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2010,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Higher Ground",
+        "duration": 190,
+        "album": "Innervisions",
+        "tags": [
+          "soul",
+          "funk",
+          "70s",
+          "1973",
+          "motown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2010,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Jesus Children of America",
+        "duration": 69,
+        "album": "Innervisions",
+        "tags": [
+          "soul",
+          "funk",
+          "70s",
+          "1973",
+          "motown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2010,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "All in Love Is Fair",
+        "duration": 221,
+        "album": "Innervisions",
+        "tags": [
+          "soul",
+          "funk",
+          "70s",
+          "1973",
+          "motown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2010,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Don't You Worry 'Bout a Thing",
+        "duration": 227,
+        "album": "Innervisions",
+        "tags": [
+          "soul",
+          "funk",
+          "70s",
+          "1973",
+          "motown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2010,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "He's Misstra Know It All",
+        "duration": 334,
+        "album": "Innervisions",
+        "tags": [
+          "soul",
+          "funk",
+          "70s",
+          "1973",
+          "motown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2010,
+        "artist": "Stevie Wonder"
+      }
+    ],
+    "description": "When Stevie Wonder applied his tremendous songwriting talents to the unsettled social morass that was the early '70s, he produced one of his greatest, most important works, a rich panoply of songs addressing drugs, spirituality, political ethics, the unnecessary perils of urban life, and what looked to be the failure of the '60s dream \u2014 all set within a collection of charts as funky and catchy as any he'd written before. Two of the highlights, \"Living for the City\" and \"Too High,\" make an especially deep impression thanks to Stevie's narrative talents; on the first, an eight-minute mini-epic, he brings <a href=\"https://www.last.fm/music/Stevie+Wonder/Innervisions\">Read more on Last.fm</a>.",
+    "releaseYear": 2010
+  },
+  {
+    "command": "addAlbum",
+    "username": "Stevie Wonder",
+    "timestamp": 1,
+    "name": "Songs in the Key of Life",
+    "songs": [
+      {
+        "name": "Love's in Need of Love Today",
+        "duration": 425,
+        "album": "Songs in the Key of Life",
+        "tags": [
+          "soul",
+          "70s",
+          "motown",
+          "funk",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2013,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Have a Talk with God",
+        "duration": 162,
+        "album": "Songs in the Key of Life",
+        "tags": [
+          "soul",
+          "70s",
+          "motown",
+          "funk",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2013,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Village Ghetto Land",
+        "duration": 205,
+        "album": "Songs in the Key of Life",
+        "tags": [
+          "soul",
+          "70s",
+          "motown",
+          "funk",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2013,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Contusion",
+        "duration": 225,
+        "album": "Songs in the Key of Life",
+        "tags": [
+          "soul",
+          "70s",
+          "motown",
+          "funk",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2013,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Sir Duke",
+        "duration": 234,
+        "album": "Songs in the Key of Life",
+        "tags": [
+          "soul",
+          "70s",
+          "motown",
+          "funk",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2013,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "I Wish",
+        "duration": 238,
+        "album": "Songs in the Key of Life",
+        "tags": [
+          "soul",
+          "70s",
+          "motown",
+          "funk",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2013,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Knocks Me Off My Feet",
+        "duration": 215,
+        "album": "Songs in the Key of Life",
+        "tags": [
+          "soul",
+          "70s",
+          "motown",
+          "funk",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2013,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Pastime Paradise",
+        "duration": 196,
+        "album": "Songs in the Key of Life",
+        "tags": [
+          "soul",
+          "70s",
+          "motown",
+          "funk",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2013,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Summer Soft",
+        "duration": 263,
+        "album": "Songs in the Key of Life",
+        "tags": [
+          "soul",
+          "70s",
+          "motown",
+          "funk",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2013,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Ordinary Pain",
+        "duration": 384,
+        "album": "Songs in the Key of Life",
+        "tags": [
+          "soul",
+          "70s",
+          "motown",
+          "funk",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2013,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Isn't She Lovely",
+        "duration": 200,
+        "album": "Songs in the Key of Life",
+        "tags": [
+          "soul",
+          "70s",
+          "motown",
+          "funk",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2013,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Joy Inside My Tears",
+        "duration": 390,
+        "album": "Songs in the Key of Life",
+        "tags": [
+          "soul",
+          "70s",
+          "motown",
+          "funk",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2013,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Black Man",
+        "duration": 509,
+        "album": "Songs in the Key of Life",
+        "tags": [
+          "soul",
+          "70s",
+          "motown",
+          "funk",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2013,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Ngiculela-Es Una Historia-I Am Singing",
+        "duration": 228,
+        "album": "Songs in the Key of Life",
+        "tags": [
+          "soul",
+          "70s",
+          "motown",
+          "funk",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2013,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "If It's Magic",
+        "duration": 192,
+        "album": "Songs in the Key of Life",
+        "tags": [
+          "soul",
+          "70s",
+          "motown",
+          "funk",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2013,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "As",
+        "duration": 207,
+        "album": "Songs in the Key of Life",
+        "tags": [
+          "soul",
+          "70s",
+          "motown",
+          "funk",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2013,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Another Star",
+        "duration": 318,
+        "album": "Songs in the Key of Life",
+        "tags": [
+          "soul",
+          "70s",
+          "motown",
+          "funk",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2013,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Saturn",
+        "duration": 294,
+        "album": "Songs in the Key of Life",
+        "tags": [
+          "soul",
+          "70s",
+          "motown",
+          "funk",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2013,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Ebony Eyes",
+        "duration": 250,
+        "album": "Songs in the Key of Life",
+        "tags": [
+          "soul",
+          "70s",
+          "motown",
+          "funk",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2013,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "All Day Sucker",
+        "duration": 306,
+        "album": "Songs in the Key of Life",
+        "tags": [
+          "soul",
+          "70s",
+          "motown",
+          "funk",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2013,
+        "artist": "Stevie Wonder"
+      },
+      {
+        "name": "Easy Goin' Evening (My Mama's Call)",
+        "duration": 238,
+        "album": "Songs in the Key of Life",
+        "tags": [
+          "soul",
+          "70s",
+          "motown",
+          "funk",
+          "stevie wonder"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2013,
+        "artist": "Stevie Wonder"
+      }
+    ],
+    "description": "Released in the fall of 1976, Songs In The Key Of Life was Stevie Wonder's longest, most ambitious collection of songs, a two-LP (plus accompanying EP) set that -- just as the title promised -- touched on nearly every issue under the sun, and did it all with ambitious (even for him), wide-ranging arrangements and some of the best performances of Wonder's career. The opening \"Love's in Need of Love Today\" and \"Have a Talk with God\" are curiously subdued, but Stevie soon kicks into gear with \"Village Ghetto Land,\" a fierce expos\u00e9 of ghetto neglect set to a satirical <a href=\"https://www.last.fm/music/Stevie+Wonder/Songs+in+the+Key+of+Life\">Read more on Last.fm</a>.",
+    "releaseYear": 2013
+  },
+  {
+    "command": "addAlbum",
+    "username": "Prince",
+    "timestamp": 1,
+    "name": "The Very Best of Prince",
+    "songs": [
+      {
+        "name": "I Wanna Be Your Lover [Single Version]",
+        "duration": 178,
+        "album": "The Very Best of Prince",
+        "tags": [
+          "80s",
+          "funk",
+          "pop",
+          "prince",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2009,
+        "artist": "Prince"
+      },
+      {
+        "name": "1999 [Edit]",
+        "duration": 215,
+        "album": "The Very Best of Prince",
+        "tags": [
+          "80s",
+          "funk",
+          "pop",
+          "prince",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2009,
+        "artist": "Prince"
+      },
+      {
+        "name": "Little Red Corvette [Explicit]",
+        "duration": 69,
+        "album": "The Very Best of Prince",
+        "tags": [
+          "80s",
+          "funk",
+          "pop",
+          "prince",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2009,
+        "artist": "Prince"
+      },
+      {
+        "name": "When Doves Cry",
+        "duration": 253,
+        "album": "The Very Best of Prince",
+        "tags": [
+          "80s",
+          "funk",
+          "pop",
+          "prince",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2009,
+        "artist": "Prince"
+      },
+      {
+        "name": "Let's Go Crazy [Explicit]",
+        "duration": 69,
+        "album": "The Very Best of Prince",
+        "tags": [
+          "80s",
+          "funk",
+          "pop",
+          "prince",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2009,
+        "artist": "Prince"
+      },
+      {
+        "name": "Purple Rain",
+        "duration": 318,
+        "album": "The Very Best of Prince",
+        "tags": [
+          "80s",
+          "funk",
+          "pop",
+          "prince",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2009,
+        "artist": "Prince"
+      },
+      {
+        "name": "I Would Die 4 U",
+        "duration": 86,
+        "album": "The Very Best of Prince",
+        "tags": [
+          "80s",
+          "funk",
+          "pop",
+          "prince",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2009,
+        "artist": "Prince"
+      },
+      {
+        "name": "Raspberry Beret",
+        "duration": 79,
+        "album": "The Very Best of Prince",
+        "tags": [
+          "80s",
+          "funk",
+          "pop",
+          "prince",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2009,
+        "artist": "Prince"
+      },
+      {
+        "name": "Kiss",
+        "duration": 209,
+        "album": "The Very Best of Prince",
+        "tags": [
+          "80s",
+          "funk",
+          "pop",
+          "prince",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2009,
+        "artist": "Prince"
+      },
+      {
+        "name": "Sign 'O' The Times",
+        "duration": 313,
+        "album": "The Very Best of Prince",
+        "tags": [
+          "80s",
+          "funk",
+          "pop",
+          "prince",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2009,
+        "artist": "Prince"
+      },
+      {
+        "name": "U Got The Look",
+        "duration": 232,
+        "album": "The Very Best of Prince",
+        "tags": [
+          "80s",
+          "funk",
+          "pop",
+          "prince",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2009,
+        "artist": "Prince"
+      },
+      {
+        "name": "Alphabet St. [Explicit]",
+        "duration": 69,
+        "album": "The Very Best of Prince",
+        "tags": [
+          "80s",
+          "funk",
+          "pop",
+          "prince",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2009,
+        "artist": "Prince"
+      },
+      {
+        "name": "Thieves in the Temple",
+        "duration": 201,
+        "album": "The Very Best of Prince",
+        "tags": [
+          "80s",
+          "funk",
+          "pop",
+          "prince",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2009,
+        "artist": "Prince"
+      },
+      {
+        "name": "Gett Off [explicit]",
+        "duration": 69,
+        "album": "The Very Best of Prince",
+        "tags": [
+          "80s",
+          "funk",
+          "pop",
+          "prince",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2009,
+        "artist": "Prince"
+      },
+      {
+        "name": "Cream (Without Rap Monologue)",
+        "duration": 253,
+        "album": "The Very Best of Prince",
+        "tags": [
+          "80s",
+          "funk",
+          "pop",
+          "prince",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2009,
+        "artist": "Prince"
+      },
+      {
+        "name": "Diamonds And Pearls (Edit)",
+        "duration": 260,
+        "album": "The Very Best of Prince",
+        "tags": [
+          "80s",
+          "funk",
+          "pop",
+          "prince",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2009,
+        "artist": "Prince"
+      },
+      {
+        "name": "Money Don't Matter 2 Night",
+        "duration": 33,
+        "album": "The Very Best of Prince",
+        "tags": [
+          "80s",
+          "funk",
+          "pop",
+          "prince",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2009,
+        "artist": "Prince"
+      }
+    ],
+    "description": "The Very Best of Prince is a Best of compilation album by Prince, released in 2001. It contains most of his commercially successful singles in their radio edits, including the U.S. #1's \"Let's Go Crazy\", \"When Doves Cry\", \"Kiss\" and \"Cream\". The album cover is somewhat a point of contention with some fans. It consists of 9 photos in a square shape, but the selection of photos is odd and does not really represent the album's contents. Two of the nine photos are from albums from which no songs were selected. Six photos were from the Parade and Graffiti Bridge <a href=\"https://www.last.fm/music/Prince/The+Very+Best+of+Prince\">Read more on Last.fm</a>.",
+    "releaseYear": 2009
+  },
+  {
+    "command": "addAlbum",
+    "username": "Prince",
+    "timestamp": 1,
+    "name": "Parade - Music From the Motion Picture Under the Cherry Moon",
+    "songs": [
+      {
+        "name": "Christopher Tracy's Parade",
+        "duration": 121,
+        "album": "Parade - Music From the Motion Picture Under the Cherry Moon",
+        "tags": [
+          "rnb",
+          "80s",
+          "funk",
+          "pop",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rnb",
+        "releaseYear": 2016,
+        "artist": "Prince"
+      },
+      {
+        "name": "New Position",
+        "duration": 69,
+        "album": "Parade - Music From the Motion Picture Under the Cherry Moon",
+        "tags": [
+          "rnb",
+          "80s",
+          "funk",
+          "pop",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rnb",
+        "releaseYear": 2016,
+        "artist": "Prince"
+      },
+      {
+        "name": "I Wonder U",
+        "duration": 69,
+        "album": "Parade - Music From the Motion Picture Under the Cherry Moon",
+        "tags": [
+          "rnb",
+          "80s",
+          "funk",
+          "pop",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rnb",
+        "releaseYear": 2016,
+        "artist": "Prince"
+      },
+      {
+        "name": "Under the Cherry Moon",
+        "duration": 69,
+        "album": "Parade - Music From the Motion Picture Under the Cherry Moon",
+        "tags": [
+          "rnb",
+          "80s",
+          "funk",
+          "pop",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rnb",
+        "releaseYear": 2016,
+        "artist": "Prince"
+      },
+      {
+        "name": "Girls & Boys",
+        "duration": 207,
+        "album": "Parade - Music From the Motion Picture Under the Cherry Moon",
+        "tags": [
+          "rnb",
+          "80s",
+          "funk",
+          "pop",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rnb",
+        "releaseYear": 2016,
+        "artist": "Prince"
+      },
+      {
+        "name": "Life Can Be So Nice",
+        "duration": 69,
+        "album": "Parade - Music From the Motion Picture Under the Cherry Moon",
+        "tags": [
+          "rnb",
+          "80s",
+          "funk",
+          "pop",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rnb",
+        "releaseYear": 2016,
+        "artist": "Prince"
+      },
+      {
+        "name": "Venus de Milo",
+        "duration": 27,
+        "album": "Parade - Music From the Motion Picture Under the Cherry Moon",
+        "tags": [
+          "rnb",
+          "80s",
+          "funk",
+          "pop",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rnb",
+        "releaseYear": 2016,
+        "artist": "Prince"
+      },
+      {
+        "name": "Mountains",
+        "duration": 160,
+        "album": "Parade - Music From the Motion Picture Under the Cherry Moon",
+        "tags": [
+          "rnb",
+          "80s",
+          "funk",
+          "pop",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rnb",
+        "releaseYear": 2016,
+        "artist": "Prince"
+      },
+      {
+        "name": "Do U Lie?",
+        "duration": 69,
+        "album": "Parade - Music From the Motion Picture Under the Cherry Moon",
+        "tags": [
+          "rnb",
+          "80s",
+          "funk",
+          "pop",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rnb",
+        "releaseYear": 2016,
+        "artist": "Prince"
+      },
+      {
+        "name": "Kiss",
+        "duration": 209,
+        "album": "Parade - Music From the Motion Picture Under the Cherry Moon",
+        "tags": [
+          "rnb",
+          "80s",
+          "funk",
+          "pop",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rnb",
+        "releaseYear": 2016,
+        "artist": "Prince"
+      },
+      {
+        "name": "Anotherloverholenyohead",
+        "duration": 69,
+        "album": "Parade - Music From the Motion Picture Under the Cherry Moon",
+        "tags": [
+          "rnb",
+          "80s",
+          "funk",
+          "pop",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rnb",
+        "releaseYear": 2016,
+        "artist": "Prince"
+      },
+      {
+        "name": "Sometimes it Snows in April",
+        "duration": 196,
+        "album": "Parade - Music From the Motion Picture Under the Cherry Moon",
+        "tags": [
+          "rnb",
+          "80s",
+          "funk",
+          "pop",
+          "soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "rnb",
+        "releaseYear": 2016,
+        "artist": "Prince"
+      }
+    ],
+    "description": "Parade was the follow-up to Around the World in a Day and the soundtrack to Prince's second film. The album sees Prince further diversifying musically, adding orchestrations to his music and presenting a very European feel. Prince also displayed a new image with Parade: his trademark ruffled shirts, wild curly hair, and purple outfits which defined his look from 1981's Controversy to 1985's Around the World in a Day gave way to slicked-back hair and dress suits. The first single, \"Kiss\", was a number one hit, and the album as a whole was well received in the United States. Europe, <a href=\"https://www.last.fm/music/Prince/Parade+-+Music+From+the+Motion+Picture+Under+the+Cherry+Moon\">Read more on Last.fm</a>.",
+    "releaseYear": 2016
+  },
+  {
+    "command": "addAlbum",
+    "username": "Prince",
+    "timestamp": 1,
+    "name": "Purple Rain",
+    "songs": [
+      {
+        "name": "Purple Rain",
+        "duration": 318,
+        "album": "Purple Rain",
+        "tags": [
+          "80s",
+          "pop",
+          "funk",
+          "rock",
+          "1984"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2012,
+        "artist": "Prince"
+      },
+      {
+        "name": "God - Love Theme From Purple Rain 12\" Instrumental Version",
+        "duration": 471,
+        "album": "Purple Rain",
+        "tags": [
+          "80s",
+          "pop",
+          "funk",
+          "rock",
+          "1984"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2012,
+        "artist": "Prince"
+      },
+      {
+        "name": "God - Vocal Version",
+        "duration": 243,
+        "album": "Purple Rain",
+        "tags": [
+          "80s",
+          "pop",
+          "funk",
+          "rock",
+          "1984"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2012,
+        "artist": "Prince"
+      }
+    ],
+    "description": "Purple Rain is an album by Prince and The Revolution, the soundtrack to the film of the same name. It was released on June 25, 1984 by Warner Bros. Records. Purple Rain regularly is ranked among the best albums in rock music history. Time magazine in 1993 ranked it the 15th greatest album of all time, and it placed 18th on VH1's The Greatest Rock n Roll Albums of All Time. Rolling Stone magazine ranked it 72nd greatest album of all time and Zounds magazine 18th greatest album of all time. The album was 4th in Pl\u00e1sticos y Decibelios list <a href=\"https://www.last.fm/music/Prince/Purple+Rain\">Read more on Last.fm</a>.",
+    "releaseYear": 2012
+  },
+  {
+    "command": "addAlbum",
+    "username": "Prince",
+    "timestamp": 1,
+    "name": "1999",
+    "songs": [
+      {
+        "name": "1999",
+        "duration": 215,
+        "album": "1999",
+        "tags": [
+          "80s",
+          "funk",
+          "pop",
+          "1982",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2009,
+        "artist": "Prince"
+      },
+      {
+        "name": "Little Red Corvette",
+        "duration": 305,
+        "album": "1999",
+        "tags": [
+          "80s",
+          "funk",
+          "pop",
+          "1982",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2009,
+        "artist": "Prince"
+      },
+      {
+        "name": "Delirious",
+        "duration": 236,
+        "album": "1999",
+        "tags": [
+          "80s",
+          "funk",
+          "pop",
+          "1982",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2009,
+        "artist": "Prince"
+      },
+      {
+        "name": "Let's Pretend We're Married",
+        "duration": 224,
+        "album": "1999",
+        "tags": [
+          "80s",
+          "funk",
+          "pop",
+          "1982",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2009,
+        "artist": "Prince"
+      },
+      {
+        "name": "D.M.S.R.",
+        "duration": 513,
+        "album": "1999",
+        "tags": [
+          "80s",
+          "funk",
+          "pop",
+          "1982",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2009,
+        "artist": "Prince"
+      },
+      {
+        "name": "Automatic",
+        "duration": 564,
+        "album": "1999",
+        "tags": [
+          "80s",
+          "funk",
+          "pop",
+          "1982",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2009,
+        "artist": "Prince"
+      },
+      {
+        "name": "Something In The Water (Does Not Compute)",
+        "duration": 240,
+        "album": "1999",
+        "tags": [
+          "80s",
+          "funk",
+          "pop",
+          "1982",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2009,
+        "artist": "Prince"
+      },
+      {
+        "name": "Free",
+        "duration": 300,
+        "album": "1999",
+        "tags": [
+          "80s",
+          "funk",
+          "pop",
+          "1982",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2009,
+        "artist": "Prince"
+      },
+      {
+        "name": "Lady Cab Driver",
+        "duration": 492,
+        "album": "1999",
+        "tags": [
+          "80s",
+          "funk",
+          "pop",
+          "1982",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2009,
+        "artist": "Prince"
+      },
+      {
+        "name": "All The Critics Love U In New York",
+        "duration": 355,
+        "album": "1999",
+        "tags": [
+          "80s",
+          "funk",
+          "pop",
+          "1982",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2009,
+        "artist": "Prince"
+      },
+      {
+        "name": "International Lover",
+        "duration": 395,
+        "album": "1999",
+        "tags": [
+          "80s",
+          "funk",
+          "pop",
+          "1982",
+          "rock"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "80s",
+        "releaseYear": 2009,
+        "artist": "Prince"
+      }
+    ],
+    "description": "1999 is the fifth album by Prince, released on October 27, 1982. It was his first top ten album on the Billboard 200 charts in the United States (peaking at number 9) and became the fifth best-selling album of 1983. 1999 was Prince's breakthrough album, but his next album Purple Rain would become his most successful. According to the Rolling Stone Album Guide, \"1999 may be Prince's most influential album: Its synth-and-drum machine-heavy arrangements codified the 'Minneapolis sound' that loomed over mid-'80s R&B and pop, not to mention the next two decades' worth of electro, house, and techno.\" In 2003, <a href=\"https://www.last.fm/music/Prince/1999\">Read more on Last.fm</a>.",
+    "releaseYear": 2009
+  },
+  {
+    "command": "addAlbum",
+    "username": "The Rolling Stones",
+    "timestamp": 1,
+    "name": "Some Girls",
+    "songs": [
+      {
+        "name": "Miss You",
+        "duration": 460,
+        "album": "Some Girls",
+        "tags": [
+          "classic rock",
+          "rock",
+          "70s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2009,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "When the Whip Comes Down",
+        "duration": 297,
+        "album": "Some Girls",
+        "tags": [
+          "classic rock",
+          "rock",
+          "70s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2009,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Just My Imagination (Running Away With Me)",
+        "duration": 400,
+        "album": "Some Girls",
+        "tags": [
+          "classic rock",
+          "rock",
+          "70s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2009,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Some Girls",
+        "duration": 294,
+        "album": "Some Girls",
+        "tags": [
+          "classic rock",
+          "rock",
+          "70s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2009,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Lies",
+        "duration": 191,
+        "album": "Some Girls",
+        "tags": [
+          "classic rock",
+          "rock",
+          "70s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2009,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Far Away Eyes",
+        "duration": 351,
+        "album": "Some Girls",
+        "tags": [
+          "classic rock",
+          "rock",
+          "70s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2009,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Respectable",
+        "duration": 176,
+        "album": "Some Girls",
+        "tags": [
+          "classic rock",
+          "rock",
+          "70s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2009,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Before They Make Me Run",
+        "duration": 180,
+        "album": "Some Girls",
+        "tags": [
+          "classic rock",
+          "rock",
+          "70s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2009,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Beast of Burden",
+        "duration": 402,
+        "album": "Some Girls",
+        "tags": [
+          "classic rock",
+          "rock",
+          "70s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2009,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Shattered",
+        "duration": 228,
+        "album": "Some Girls",
+        "tags": [
+          "classic rock",
+          "rock",
+          "70s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2009,
+        "artist": "The Rolling Stones"
+      }
+    ],
+    "description": "Some Girls is an album by The Rolling Stones, released in 1978. Considered a highlight of their output and the best of their post-Exile on Main St. records, the album revitalized the band's career upon its release and re-established The Rolling Stones as a vital rock and roll band in an era infused with punk rock and disco. It also became the band's biggest-selling album in the United States, with more than six million copies to date. With the advent of punk rock, The Rolling Stones, among many of their musical contemporaries, were being targeted by some in the movement <a href=\"https://www.last.fm/music/The+Rolling+Stones/Some+Girls\">Read more on Last.fm</a>.",
+    "releaseYear": 2009
+  },
+  {
+    "command": "addAlbum",
+    "username": "The Rolling Stones",
+    "timestamp": 1,
+    "name": "Rolled Gold",
+    "songs": [
+      {
+        "name": "Come On",
+        "duration": 105,
+        "album": "Rolled Gold",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 1970,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "I Wanna Be Your Man",
+        "duration": 100,
+        "album": "Rolled Gold",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 1970,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Not Fade Away",
+        "duration": 110,
+        "album": "Rolled Gold",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 1970,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Carol",
+        "duration": 201,
+        "album": "Rolled Gold",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 1970,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "It's All Over Now",
+        "duration": 206,
+        "album": "Rolled Gold",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 1970,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Little Red Rooster",
+        "duration": 185,
+        "album": "Rolled Gold",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 1970,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Time Is on My Side",
+        "duration": 211,
+        "album": "Rolled Gold",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 1970,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "The Last Time",
+        "duration": 199,
+        "album": "Rolled Gold",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 1970,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "(I Can't Get No) Satisfaction",
+        "duration": 240,
+        "album": "Rolled Gold",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 1970,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Get Off of My Cloud",
+        "duration": 71,
+        "album": "Rolled Gold",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 1970,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "19th Nervous Breakdown",
+        "duration": 238,
+        "album": "Rolled Gold",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 1970,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "As Tears Go By",
+        "duration": 160,
+        "album": "Rolled Gold",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 1970,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Under My Thumb",
+        "duration": 175,
+        "album": "Rolled Gold",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 1970,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Lady Jane",
+        "duration": 189,
+        "album": "Rolled Gold",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 1970,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Out of Time",
+        "duration": 200,
+        "album": "Rolled Gold",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 1970,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Paint It Black",
+        "duration": 202,
+        "album": "Rolled Gold",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 1970,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Have You Seen Your Mother, Baby, Standing in the Shadow?",
+        "duration": 150,
+        "album": "Rolled Gold",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 1970,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Let's Spend the Night Together",
+        "duration": 227,
+        "album": "Rolled Gold",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 1970,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Ruby Tuesday",
+        "duration": 198,
+        "album": "Rolled Gold",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 1970,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Yesterday's Papers",
+        "duration": 124,
+        "album": "Rolled Gold",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 1970,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "We Love You",
+        "duration": 276,
+        "album": "Rolled Gold",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 1970,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "She's A Rainbow",
+        "duration": 253,
+        "album": "Rolled Gold",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 1970,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Jumpin' Jack Flash",
+        "duration": 193,
+        "album": "Rolled Gold",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 1970,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Honky Tonk Women",
+        "duration": 186,
+        "album": "Rolled Gold",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 1970,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Sympathy for the Devil",
+        "duration": 464,
+        "album": "Rolled Gold",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 1970,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Street Fighting Man",
+        "duration": 228,
+        "album": "Rolled Gold",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 1970,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Midnight Rambler",
+        "duration": 377,
+        "album": "Rolled Gold",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 1970,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Gimme Shelter",
+        "duration": 279,
+        "album": "Rolled Gold",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 1970,
+        "artist": "The Rolling Stones"
+      }
+    ],
+    "description": "No description",
+    "releaseYear": 1970
+  },
+  {
+    "command": "addAlbum",
+    "username": "The Rolling Stones",
+    "timestamp": 1,
+    "name": "Aftermath",
+    "songs": [
+      {
+        "name": "Mother's Little Helper",
+        "duration": 165,
+        "album": "Aftermath",
+        "tags": [
+          "classic rock",
+          "60s",
+          "rock",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Stupid Girl",
+        "duration": 176,
+        "album": "Aftermath",
+        "tags": [
+          "classic rock",
+          "60s",
+          "rock",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Lady Jane",
+        "duration": 189,
+        "album": "Aftermath",
+        "tags": [
+          "classic rock",
+          "60s",
+          "rock",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Under My Thumb",
+        "duration": 175,
+        "album": "Aftermath",
+        "tags": [
+          "classic rock",
+          "60s",
+          "rock",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Doncha Bother Me",
+        "duration": 162,
+        "album": "Aftermath",
+        "tags": [
+          "classic rock",
+          "60s",
+          "rock",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Going Home",
+        "duration": 213,
+        "album": "Aftermath",
+        "tags": [
+          "classic rock",
+          "60s",
+          "rock",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Flight 505",
+        "duration": 208,
+        "album": "Aftermath",
+        "tags": [
+          "classic rock",
+          "60s",
+          "rock",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "High and Dry",
+        "duration": 189,
+        "album": "Aftermath",
+        "tags": [
+          "classic rock",
+          "60s",
+          "rock",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Out of Time",
+        "duration": 200,
+        "album": "Aftermath",
+        "tags": [
+          "classic rock",
+          "60s",
+          "rock",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "It's Not Easy",
+        "duration": 176,
+        "album": "Aftermath",
+        "tags": [
+          "classic rock",
+          "60s",
+          "rock",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "I Am Waiting",
+        "duration": 191,
+        "album": "Aftermath",
+        "tags": [
+          "classic rock",
+          "60s",
+          "rock",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Take It or Leave It",
+        "duration": 167,
+        "album": "Aftermath",
+        "tags": [
+          "classic rock",
+          "60s",
+          "rock",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Think",
+        "duration": 190,
+        "album": "Aftermath",
+        "tags": [
+          "classic rock",
+          "60s",
+          "rock",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "What To Do",
+        "duration": 153,
+        "album": "Aftermath",
+        "tags": [
+          "classic rock",
+          "60s",
+          "rock",
+          "the rolling stones",
+          "british"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2013,
+        "artist": "The Rolling Stones"
+      }
+    ],
+    "description": "Aftermath, first released on 15 April 1966 by Decca Records, is the fourth British studio album by The Rolling Stones. It was released in the United States on 20 June 1966 by London Records as their sixth American album. The album proved to be a major artistic breakthrough for the band, being the first full-length release by the band to consist exclusively of Mick Jagger/Keith Richards compositions. Aftermath was also the first Rolling Stones album to be recorded entirely in the US, at the legendary RCA Studios in Hollywood, California at 6363 Sunset Boulevard, and the first album the band <a href=\"https://www.last.fm/music/The+Rolling+Stones/Aftermath\">Read more on Last.fm</a>.",
+    "releaseYear": 2013
+  },
+  {
+    "command": "addAlbum",
+    "username": "The Rolling Stones",
+    "timestamp": 1,
+    "name": "Let It Bleed",
+    "songs": [
+      {
+        "name": "Gimme Shelter",
+        "duration": 279,
+        "album": "Let It Bleed",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "blues"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2010,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Love in Vain",
+        "duration": 316,
+        "album": "Let It Bleed",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "blues"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2010,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Country Woman",
+        "duration": 180,
+        "album": "Let It Bleed",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "blues"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2010,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Live With Me",
+        "duration": 271,
+        "album": "Let It Bleed",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "blues"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2010,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Let It Bleed",
+        "duration": 385,
+        "album": "Let It Bleed",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "blues"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2010,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Midnight Rambler",
+        "duration": 377,
+        "album": "Let It Bleed",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "blues"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2010,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "You Got the Silver",
+        "duration": 254,
+        "album": "Let It Bleed",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "blues"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2010,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "Monkey Man",
+        "duration": 252,
+        "album": "Let It Bleed",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "blues"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2010,
+        "artist": "The Rolling Stones"
+      },
+      {
+        "name": "You Can't Always Get What You Want",
+        "duration": 569,
+        "album": "Let It Bleed",
+        "tags": [
+          "classic rock",
+          "rock",
+          "60s",
+          "the rolling stones",
+          "blues"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2010,
+        "artist": "The Rolling Stones"
+      }
+    ],
+    "description": "Let It Bleed is an album by English rock band The Rolling Stones, released in December 1969. The follow up to Beggars Banquet (1968), it appeared shortly after the band's 1969 American Tour. History Although they had begun the recording of \"You Can't Always Get What You Want\" in March 1968, before Beggars Banquet had been released, recording for Let It Bleed began in earnest in February 1969 and would continue sporadically until November. Brian Jones performs on only two tracks, the autoharp on \"You Got the Silver\" and percussion on \"Midnight Rambler\". His replacement Mick Taylor also plays on <a href=\"https://www.last.fm/music/The+Rolling+Stones/Let+It+Bleed\">Read more on Last.fm</a>.",
+    "releaseYear": 2010
+  },
+  {
+    "command": "addAlbum",
+    "username": "Joni Mitchell",
+    "timestamp": 1,
+    "name": "Ladies of the Canyon",
+    "songs": [
+      {
+        "name": "Morning Morgantown",
+        "duration": 69,
+        "album": "Ladies of the Canyon",
+        "tags": [
+          "folk",
+          "1970",
+          "70s",
+          "female vocalists",
+          "singer-songwriter"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "folk",
+        "releaseYear": 2017,
+        "artist": "Joni Mitchell"
+      },
+      {
+        "name": "For Free",
+        "duration": 307,
+        "album": "Ladies of the Canyon",
+        "tags": [
+          "folk",
+          "1970",
+          "70s",
+          "female vocalists",
+          "singer-songwriter"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "folk",
+        "releaseYear": 2017,
+        "artist": "Joni Mitchell"
+      },
+      {
+        "name": "Conversation",
+        "duration": 69,
+        "album": "Ladies of the Canyon",
+        "tags": [
+          "folk",
+          "1970",
+          "70s",
+          "female vocalists",
+          "singer-songwriter"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "folk",
+        "releaseYear": 2017,
+        "artist": "Joni Mitchell"
+      },
+      {
+        "name": "Ladies of the Canyon",
+        "duration": 179,
+        "album": "Ladies of the Canyon",
+        "tags": [
+          "folk",
+          "1970",
+          "70s",
+          "female vocalists",
+          "singer-songwriter"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "folk",
+        "releaseYear": 2017,
+        "artist": "Joni Mitchell"
+      },
+      {
+        "name": "Willy",
+        "duration": 218,
+        "album": "Ladies of the Canyon",
+        "tags": [
+          "folk",
+          "1970",
+          "70s",
+          "female vocalists",
+          "singer-songwriter"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "folk",
+        "releaseYear": 2017,
+        "artist": "Joni Mitchell"
+      },
+      {
+        "name": "The Arrangement",
+        "duration": 69,
+        "album": "Ladies of the Canyon",
+        "tags": [
+          "folk",
+          "1970",
+          "70s",
+          "female vocalists",
+          "singer-songwriter"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "folk",
+        "releaseYear": 2017,
+        "artist": "Joni Mitchell"
+      },
+      {
+        "name": "Rainy Night House",
+        "duration": 244,
+        "album": "Ladies of the Canyon",
+        "tags": [
+          "folk",
+          "1970",
+          "70s",
+          "female vocalists",
+          "singer-songwriter"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "folk",
+        "releaseYear": 2017,
+        "artist": "Joni Mitchell"
+      },
+      {
+        "name": "The Priest",
+        "duration": 69,
+        "album": "Ladies of the Canyon",
+        "tags": [
+          "folk",
+          "1970",
+          "70s",
+          "female vocalists",
+          "singer-songwriter"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "folk",
+        "releaseYear": 2017,
+        "artist": "Joni Mitchell"
+      },
+      {
+        "name": "Blue Boy",
+        "duration": 69,
+        "album": "Ladies of the Canyon",
+        "tags": [
+          "folk",
+          "1970",
+          "70s",
+          "female vocalists",
+          "singer-songwriter"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "folk",
+        "releaseYear": 2017,
+        "artist": "Joni Mitchell"
+      },
+      {
+        "name": "Big Yellow Taxi",
+        "duration": 135,
+        "album": "Ladies of the Canyon",
+        "tags": [
+          "folk",
+          "1970",
+          "70s",
+          "female vocalists",
+          "singer-songwriter"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "folk",
+        "releaseYear": 2017,
+        "artist": "Joni Mitchell"
+      },
+      {
+        "name": "Woodstock",
+        "duration": 321,
+        "album": "Ladies of the Canyon",
+        "tags": [
+          "folk",
+          "1970",
+          "70s",
+          "female vocalists",
+          "singer-songwriter"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "folk",
+        "releaseYear": 2017,
+        "artist": "Joni Mitchell"
+      },
+      {
+        "name": "The Circle Game",
+        "duration": 291,
+        "album": "Ladies of the Canyon",
+        "tags": [
+          "folk",
+          "1970",
+          "70s",
+          "female vocalists",
+          "singer-songwriter"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "folk",
+        "releaseYear": 2017,
+        "artist": "Joni Mitchell"
+      }
+    ],
+    "description": "Ladies of the Canyon is the third studio album by Canadian singer-songwriter Joni Mitchell, released in 1970. The title makes reference to Laurel Canyon, a centre of popular music culture in Los Angeles during the 1960s. The album includes several of Mitchell's most noted songs, such as \"Big Yellow Taxi\", \"Woodstock\" and \"The Circle Game\". <a href=\"https://www.last.fm/music/Joni+Mitchell/Ladies+of+the+Canyon\">Read more on Last.fm</a>.",
+    "releaseYear": 2017
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 10,
+    "type": "album",
+    "filters": {
+      "name": "The Definitive Collection"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 10,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 10
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 10,
+    "type": "album",
+    "filters": {
+      "name": "Talking Book"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 10,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 10
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 10,
+    "type": "album",
+    "filters": {
+      "name": "Songs in the Key of Life"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 10,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 10
+  },
+  {
+    "command": "adBreak",
+    "username": "irene33",
+    "timestamp": 1368,
+    "price": 500
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 1388,
+    "type": "song",
+    "filters": {
+      "name": "You Are the Sunshine of My Life"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 1388,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 1388
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 1540,
+    "type": "song",
+    "filters": {
+      "name": "Hey Love"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 1540,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 1540
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 1622,
+    "type": "song",
+    "filters": {
+      "name": "Joy Inside My Tears"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 1622,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 1622
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 1817,
+    "type": "song",
+    "filters": {
+      "name": "You Are the Sunshine of My Life"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 1817,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 1817
+  },
+  {
+    "command": "adBreak",
+    "username": "irene33",
+    "timestamp": 2112,
+    "price": 300
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 2132,
+    "type": "song",
+    "filters": {
+      "name": "Hey Love"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 2132,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 2132
+  },
+  {
+    "command": "adBreak",
+    "username": "irene33",
+    "timestamp": 2286,
+    "price": 420
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 2300,
+    "type": "album",
+    "filters": {
+      "name": "Innervisions"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 2300,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 2300
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 2306,
+    "type": "song",
+    "filters": {
+      "name": "Visions"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 2306,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 2306
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 2467,
+    "type": "song",
+    "filters": {
+      "name": "He's Misstra Know It All"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 2467,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 2467
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 2634,
+    "type": "song",
+    "filters": {
+      "name": "I Was Made to Love Her"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 2634,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 2634
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 2712,
+    "type": "song",
+    "filters": {
+      "name": "My Cherie Amour"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 2712,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 2712
+  },
+  {
+    "command": "adBreak",
+    "username": "irene33",
+    "timestamp": 2787,
+    "price": 700
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 2807,
+    "type": "song",
+    "filters": {
+      "name": "I Just Called To Say I Love You - Single Version"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 2807,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 2807
+  },
+  {
+    "command": "adBreak",
+    "username": "david27",
+    "timestamp": 2839,
+    "price": 130
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 2859,
+    "type": "song",
+    "filters": {
+      "name": "Higher Ground"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 2859,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 2859
+  },
+  {
+    "command": "adBreak",
+    "username": "irene33",
+    "timestamp": 2928,
+    "price": 370
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 2948,
+    "type": "song",
+    "filters": {
+      "name": "Another Star"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 2948,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 2948
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 2954,
+    "type": "song",
+    "filters": {
+      "name": "Living for the City"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 2954,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 2954
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 3064,
+    "type": "song",
+    "filters": {
+      "name": "Higher Ground - Single Version"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 3064,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 3064
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 3107,
+    "type": "song",
+    "filters": {
+      "name": "Too High"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 3107,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 3107
+  },
+  {
+    "command": "adBreak",
+    "username": "irene33",
+    "timestamp": 3235,
+    "price": 40
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 3251,
+    "type": "song",
+    "filters": {
+      "name": "Visions"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 3251,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 3251
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 3255,
+    "type": "song",
+    "filters": {
+      "name": "Village Ghetto Land"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 3255,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 3255
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 3357,
+    "type": "song",
+    "filters": {
+      "name": "Blame It on the Sun"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 3357,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 3357
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 3378,
+    "type": "song",
+    "filters": {
+      "name": "Golden Lady"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 3378,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 3378
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 3412,
+    "type": "song",
+    "filters": {
+      "name": "Tuesday Heartbreak"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 3412,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 3412
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 3461,
+    "type": "song",
+    "filters": {
+      "name": "Big Brother"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 3461,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 3461
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 3506,
+    "type": "song",
+    "filters": {
+      "name": "He's Misstra Know It All"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 3506,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 3506
+  },
+  {
+    "command": "adBreak",
+    "username": "grace25",
+    "timestamp": 3516,
+    "price": 300
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 3536,
+    "type": "song",
+    "filters": {
+      "name": "You and I"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 3536,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 3536
+  },
+  {
+    "command": "adBreak",
+    "username": "irene33",
+    "timestamp": 3558,
+    "price": 30
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 3578,
+    "type": "song",
+    "filters": {
+      "name": "Ebony Eyes"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 3578,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 3578
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 3673,
+    "type": "song",
+    "filters": {
+      "name": "Big Brother"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 3673,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 3673
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 3675,
+    "type": "song",
+    "filters": {
+      "name": "You've Got It Bad Girl"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 3675,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 3675
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 3703,
+    "type": "song",
+    "filters": {
+      "name": "Blame It on the Sun"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 3703,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 3703
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 3780,
+    "type": "song",
+    "filters": {
+      "name": "Maybe Your Baby"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 3780,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 3780
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 3807,
+    "type": "album",
+    "filters": {
+      "name": "The Very Best of Prince"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 3807,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 3807
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 3822,
+    "type": "song",
+    "filters": {
+      "name": "Don't You Worry 'Bout a Thing"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 3822,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 3822
+  },
+  {
+    "command": "adBreak",
+    "username": "david27",
+    "timestamp": 3972,
+    "price": 610
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 3992,
+    "type": "song",
+    "filters": {
+      "name": "All in Love Is Fair"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 3992,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 3992
+  },
+  {
+    "command": "adBreak",
+    "username": "grace25",
+    "timestamp": 4039,
+    "price": 500
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 4059,
+    "type": "song",
+    "filters": {
+      "name": "He's Misstra Know It All"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 4059,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 4059
+  },
+  {
+    "command": "adBreak",
+    "username": "david27",
+    "timestamp": 4092,
+    "price": 370
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 4112,
+    "type": "song",
+    "filters": {
+      "name": "All in Love Is Fair"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 4112,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 4112
+  },
+  {
+    "command": "adBreak",
+    "username": "grace25",
+    "timestamp": 4216,
+    "price": 650
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 4222,
+    "type": "album",
+    "filters": {
+      "name": "1999"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 4222,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 4222
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 4236,
+    "type": "song",
+    "filters": {
+      "name": "All Day Sucker"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 4236,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 4236
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 4542,
+    "type": "song",
+    "filters": {
+      "name": "Maybe Your Baby"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 4542,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 4542
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 4744,
+    "type": "song",
+    "filters": {
+      "name": "Have a Talk with God"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 4744,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 4744
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 4825,
+    "type": "song",
+    "filters": {
+      "name": "You Haven't Done Nothin'"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 4825,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 4825
+  },
+  {
+    "command": "wrapped",
+    "username": "Stevie Wonder",
+    "timestamp": 4927
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 4927,
+    "type": "album",
+    "filters": {
+      "name": "Parade - Music From the Motion Picture Under the Cherry Moon"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 4927,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 4927
+  },
+  {
+    "command": "adBreak",
+    "username": "grace25",
+    "timestamp": 5584,
+    "price": 620
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 5604,
+    "type": "song",
+    "filters": {
+      "name": "God - Vocal Version"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 5604,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 5604
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 5847,
+    "type": "song",
+    "filters": {
+      "name": "Under the Cherry Moon"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 5847,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 5847
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 5881,
+    "type": "song",
+    "filters": {
+      "name": "Automatic"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 5881,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 5881
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 6163,
+    "type": "song",
+    "filters": {
+      "name": "Purple Rain"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 6163,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 6163
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 6322,
+    "type": "song",
+    "filters": {
+      "name": "All The Critics Love U In New York"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 6322,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 6322
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 6677,
+    "type": "song",
+    "filters": {
+      "name": "Little Red Corvette"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 6677,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 6677
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 6713,
+    "type": "album",
+    "filters": {
+      "name": "Purple Rain"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 6713,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 6713
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 6982,
+    "type": "song",
+    "filters": {
+      "name": "Lady Cab Driver"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 6982,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 6982
+  },
+  {
+    "command": "adBreak",
+    "username": "grace25",
+    "timestamp": 7218,
+    "price": 580
+  },
+  {
+    "command": "adBreak",
+    "username": "irene33",
+    "timestamp": 7219,
+    "price": 890
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 7238,
+    "type": "song",
+    "filters": {
+      "name": "God - Love Theme From Purple Rain 12\" Instrumental Version"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 7238,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 7238
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 7239,
+    "type": "song",
+    "filters": {
+      "name": "Free"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 7239,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 7239
+  },
+  {
+    "command": "adBreak",
+    "username": "irene33",
+    "timestamp": 7379,
+    "price": 630
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 7399,
+    "type": "song",
+    "filters": {
+      "name": "Thieves in the Temple"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 7399,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 7399
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 7473,
+    "type": "song",
+    "filters": {
+      "name": "Christopher Tracy's Parade"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 7473,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 7473
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 7499,
+    "type": "song",
+    "filters": {
+      "name": "U Got The Look"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 7499,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 7499
+  },
+  {
+    "command": "adBreak",
+    "username": "grace25",
+    "timestamp": 7523,
+    "price": 160
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 7543,
+    "type": "song",
+    "filters": {
+      "name": "Little Red Corvette"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 7543,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 7543
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 7615,
+    "type": "song",
+    "filters": {
+      "name": "Christopher Tracy's Parade"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 7615,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 7615
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 7675,
+    "type": "song",
+    "filters": {
+      "name": "God - Love Theme From Purple Rain 12\" Instrumental Version"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 7675,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 7675
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 7695,
+    "type": "song",
+    "filters": {
+      "name": "Kiss"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 7695,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 7695
+  },
+  {
+    "command": "adBreak",
+    "username": "grace25",
+    "timestamp": 7789,
+    "price": 160
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 7809,
+    "type": "song",
+    "filters": {
+      "name": "Anotherloverholenyohead"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 7809,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 7809
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 7843,
+    "type": "album",
+    "filters": {
+      "name": "Rolled Gold"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 7843,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 7843
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 7910,
+    "type": "song",
+    "filters": {
+      "name": "Little Red Corvette [Explicit]"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 7910,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 7910
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 7944,
+    "type": "song",
+    "filters": {
+      "name": "D.M.S.R."
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 7944,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 7944
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 8061,
+    "type": "song",
+    "filters": {
+      "name": "God - Love Theme From Purple Rain 12\" Instrumental Version"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 8061,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 8061
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 8200,
+    "type": "song",
+    "filters": {
+      "name": "1999 [Edit]"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 8200,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 8200
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 8296,
+    "type": "song",
+    "filters": {
+      "name": "Venus de Milo"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 8296,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 8296
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 8307,
+    "type": "song",
+    "filters": {
+      "name": "Purple Rain"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 8307,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 8307
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 8323,
+    "type": "song",
+    "filters": {
+      "name": "International Lover"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 8323,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 8323
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 8625,
+    "type": "song",
+    "filters": {
+      "name": "Let's Go Crazy [Explicit]"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 8625,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 8625
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 8659,
+    "type": "song",
+    "filters": {
+      "name": "Venus de Milo"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 8659,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 8659
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 8686,
+    "type": "song",
+    "filters": {
+      "name": "Sign 'O' The Times"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 8686,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 8686
+  },
+  {
+    "command": "adBreak",
+    "username": "david27",
+    "timestamp": 8708,
+    "price": 500
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 8728,
+    "type": "song",
+    "filters": {
+      "name": "Let's Pretend We're Married"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 8728,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 8728
+  },
+  {
+    "command": "adBreak",
+    "username": "david27",
+    "timestamp": 8830,
+    "price": 20
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 8842,
+    "type": "song",
+    "filters": {
+      "name": "D.M.S.R."
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 8842,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 8842
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 8850,
+    "type": "song",
+    "filters": {
+      "name": "All The Critics Love U In New York"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 8850,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 8850
+  },
+  {
+    "command": "adBreak",
+    "username": "david27",
+    "timestamp": 9195,
+    "price": 340
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 9215,
+    "type": "song",
+    "filters": {
+      "name": "U Got The Look"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 9215,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 9215
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 9331,
+    "type": "song",
+    "filters": {
+      "name": "D.M.S.R."
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 9331,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 9331
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 9355,
+    "type": "album",
+    "filters": {
+      "name": "Aftermath"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 9355,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 9355
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 9587,
+    "type": "song",
+    "filters": {
+      "name": "All The Critics Love U In New York"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 9587,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 9587
+  },
+  {
+    "command": "adBreak",
+    "username": "david27",
+    "timestamp": 9754,
+    "price": 170
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 9774,
+    "type": "song",
+    "filters": {
+      "name": "Alphabet St. [Explicit]"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 9774,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 9774
+  },
+  {
+    "command": "adBreak",
+    "username": "david27",
+    "timestamp": 9833,
+    "price": 600
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 9853,
+    "type": "song",
+    "filters": {
+      "name": "Lady Cab Driver"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 9853,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 9853
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 10099,
+    "type": "song",
+    "filters": {
+      "name": "D.M.S.R."
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 10099,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 10099
+  },
+  {
+    "command": "wrapped",
+    "username": "Prince",
+    "timestamp": 10355
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 10355,
+    "type": "album",
+    "filters": {
+      "name": "Some Girls"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 10355,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 10355
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 10632,
+    "type": "song",
+    "filters": {
+      "name": "Lady Jane"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 10632,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 10632
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 10716,
+    "type": "album",
+    "filters": {
+      "name": "Let It Bleed"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 10716,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 10716
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 10821,
+    "type": "song",
+    "filters": {
+      "name": "The Last Time"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 10821,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 10821
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 10920,
+    "type": "song",
+    "filters": {
+      "name": "Just My Imagination (Running Away With Me)"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 10920,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 10920
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 11120,
+    "type": "song",
+    "filters": {
+      "name": "Live With Me"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 11120,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 11120
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 11255,
+    "type": "song",
+    "filters": {
+      "name": "Flight 505"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 11255,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 11255
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 11359,
+    "type": "song",
+    "filters": {
+      "name": "Lady Jane"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 11359,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 11359
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 11453,
+    "type": "song",
+    "filters": {
+      "name": "Shattered"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 11453,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 11453
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 11567,
+    "type": "song",
+    "filters": {
+      "name": "Lady Jane"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 11567,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 11567
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 11661,
+    "type": "song",
+    "filters": {
+      "name": "Rainy Night House"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 11661,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 11661
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 11783,
+    "type": "song",
+    "filters": {
+      "name": "The Arrangement"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 11783,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 11783
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 11817,
+    "type": "song",
+    "filters": {
+      "name": "The Circle Game"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 11817,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 11817
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 11844,
+    "type": "song",
+    "filters": {
+      "name": "Respectable"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 11844,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 11844
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 11932,
+    "type": "song",
+    "filters": {
+      "name": "It's Not Easy"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 11932,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 11932
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 11962,
+    "type": "song",
+    "filters": {
+      "name": "Ladies of the Canyon"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 11962,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 11962
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 12108,
+    "type": "song",
+    "filters": {
+      "name": "Beast of Burden"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 12108,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 12108
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 12141,
+    "type": "song",
+    "filters": {
+      "name": "The Arrangement"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 12141,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 12141
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 12157,
+    "type": "song",
+    "filters": {
+      "name": "Gimme Shelter"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 12157,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 12157
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 12175,
+    "type": "song",
+    "filters": {
+      "name": "Willy"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 12175,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 12175
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 12284,
+    "type": "song",
+    "filters": {
+      "name": "Big Yellow Taxi"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 12284,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 12284
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 12296,
+    "type": "song",
+    "filters": {
+      "name": "Respectable"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 12296,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 12296
+  },
+  {
+    "command": "adBreak",
+    "username": "david27",
+    "timestamp": 12299,
+    "price": 360
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 12319,
+    "type": "song",
+    "filters": {
+      "name": "Love in Vain"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 12319,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 12319
+  },
+  {
+    "command": "adBreak",
+    "username": "grace25",
+    "timestamp": 12374,
+    "price": 470
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 12394,
+    "type": "song",
+    "filters": {
+      "name": "Mother's Little Helper"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 12394,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 12394
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 12419,
+    "type": "song",
+    "filters": {
+      "name": "Rainy Night House"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 12419,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 12419
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 12477,
+    "type": "song",
+    "filters": {
+      "name": "Lady Jane"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 12477,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 12477
+  },
+  {
+    "command": "adBreak",
+    "username": "grace25",
+    "timestamp": 12549,
+    "price": 30
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 12569,
+    "type": "song",
+    "filters": {
+      "name": "Out of Time"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 12569,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 12569
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 12571,
+    "type": "song",
+    "filters": {
+      "name": "Little Red Rooster"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 12571,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 12571
+  },
+  {
+    "command": "wrapped",
+    "username": "irene33",
+    "timestamp": 12641
+  },
+  {
+    "command": "adBreak",
+    "username": "grace25",
+    "timestamp": 12659,
+    "price": 560
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 12663,
+    "type": "song",
+    "filters": {
+      "name": "Let It Bleed"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 12663,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 12663
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 12679,
+    "type": "song",
+    "filters": {
+      "name": "Some Girls"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 12679,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 12679
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 12826,
+    "type": "song",
+    "filters": {
+      "name": "Mother's Little Helper"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 12826,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 12826
+  },
+  {
+    "command": "adBreak",
+    "username": "david27",
+    "timestamp": 12845,
+    "price": 710
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 12865,
+    "type": "song",
+    "filters": {
+      "name": "Shattered"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 12865,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 12865
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 12908,
+    "type": "song",
+    "filters": {
+      "name": "Going Home"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 12908,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 12908
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 12979,
+    "type": "song",
+    "filters": {
+      "name": "Monkey Man"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 12979,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 12979
+  },
+  {
+    "command": "adBreak",
+    "username": "grace25",
+    "timestamp": 13004,
+    "price": 830
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 13024,
+    "type": "song",
+    "filters": {
+      "name": "Live With Me"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 13024,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 13024
+  },
+  {
+    "command": "adBreak",
+    "username": "david27",
+    "timestamp": 13095,
+    "price": 220
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 13115,
+    "type": "song",
+    "filters": {
+      "name": "Gimme Shelter"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 13115,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 13115
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 13159,
+    "type": "song",
+    "filters": {
+      "name": "Stupid Girl"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 13159,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 13159
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 13247,
+    "type": "song",
+    "filters": {
+      "name": "You Got the Silver"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 13247,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 13247
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 13254,
+    "type": "song",
+    "filters": {
+      "name": "High and Dry"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 13254,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 13254
+  },
+  {
+    "command": "adBreak",
+    "username": "david27",
+    "timestamp": 13338,
+    "price": 790
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 13358,
+    "type": "song",
+    "filters": {
+      "name": "Not Fade Away"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 13358,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 13358
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 13374,
+    "type": "song",
+    "filters": {
+      "name": "Flight 505"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 13374,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 13374
+  },
+  {
+    "command": "adBreak",
+    "username": "david27",
+    "timestamp": 13403,
+    "price": 500
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 13423,
+    "type": "song",
+    "filters": {
+      "name": "Miss You"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 13423,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 13423
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 13582,
+    "type": "song",
+    "filters": {
+      "name": "Out of Time"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 13582,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 13582
+  },
+  {
+    "command": "adBreak",
+    "username": "david27",
+    "timestamp": 13643,
+    "price": 890
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 13663,
+    "type": "song",
+    "filters": {
+      "name": "Out of Time"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 13663,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 13663
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 13682,
+    "type": "song",
+    "filters": {
+      "name": "Blue Boy"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 13682,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 13682
+  },
+  {
+    "command": "adBreak",
+    "username": "grace25",
+    "timestamp": 13706,
+    "price": 750
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 13726,
+    "type": "song",
+    "filters": {
+      "name": "The Circle Game"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 13726,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 13726
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 13763,
+    "type": "song",
+    "filters": {
+      "name": "Honky Tonk Women"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 13763,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 13763
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 13856,
+    "type": "song",
+    "filters": {
+      "name": "You Can't Always Get What You Want"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 13856,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 13856
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 13871,
+    "type": "song",
+    "filters": {
+      "name": "The Arrangement"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 13871,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 13871
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 13905,
+    "type": "song",
+    "filters": {
+      "name": "Big Yellow Taxi"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 13905,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 13905
+  },
+  {
+    "command": "adBreak",
+    "username": "grace25",
+    "timestamp": 13962,
+    "price": 230
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 13982,
+    "type": "song",
+    "filters": {
+      "name": "Morning Morgantown"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 13982,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 13982
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 14016,
+    "type": "song",
+    "filters": {
+      "name": "The Arrangement"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 14016,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 14016
+  },
+  {
+    "command": "adBreak",
+    "username": "grace25",
+    "timestamp": 14040,
+    "price": 60
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 14060,
+    "type": "song",
+    "filters": {
+      "name": "Morning Morgantown"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 14060,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 14060
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 14129,
+    "type": "song",
+    "filters": {
+      "name": "The Arrangement"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 14129,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 14129
+  },
+  {
+    "command": "adBreak",
+    "username": "grace25",
+    "timestamp": 14153,
+    "price": 890
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 14173,
+    "type": "song",
+    "filters": {
+      "name": "The Priest"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 14173,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 14173
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 14207,
+    "type": "song",
+    "filters": {
+      "name": "Conversation"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 14207,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 14207
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 14241,
+    "type": "song",
+    "filters": {
+      "name": "Big Yellow Taxi"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 14241,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 14241
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 14308,
+    "type": "song",
+    "filters": {
+      "name": "Morning Morgantown"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 14308,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 14308
+  },
+  {
+    "command": "wrapped",
+    "username": "The Rolling Stones",
+    "timestamp": 14425
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 14425,
+    "type": "album",
+    "filters": {
+      "name": "Ladies of the Canyon"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 14425,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 14425
+  },
+  {
+    "command": "wrapped",
+    "username": "grace25",
+    "timestamp": 14442
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 16465,
+    "type": "song",
+    "filters": {
+      "name": "Blue Boy"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 16465,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 16465
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 16499,
+    "type": "song",
+    "filters": {
+      "name": "Morning Morgantown"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 16499,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 16499
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 16533,
+    "type": "song",
+    "filters": {
+      "name": "Ladies of the Canyon"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 16533,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 16533
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 16622,
+    "type": "song",
+    "filters": {
+      "name": "For Free"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 16622,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 16622
+  },
+  {
+    "command": "adBreak",
+    "username": "david27",
+    "timestamp": 16765,
+    "price": 560
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 16785,
+    "type": "song",
+    "filters": {
+      "name": "The Arrangement"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 16785,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 16785
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 16819,
+    "type": "song",
+    "filters": {
+      "name": "Willy"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 16819,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 16819
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 16928,
+    "type": "song",
+    "filters": {
+      "name": "Willy"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 16928,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 16928
+  },
+  {
+    "command": "adBreak",
+    "username": "david27",
+    "timestamp": 17027,
+    "price": 790
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 17047,
+    "type": "song",
+    "filters": {
+      "name": "The Arrangement"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 17047,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 17047
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 17081,
+    "type": "song",
+    "filters": {
+      "name": "Blue Boy"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 17081,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 17081
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 17115,
+    "type": "song",
+    "filters": {
+      "name": "Ladies of the Canyon"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 17115,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 17115
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 17204,
+    "type": "song",
+    "filters": {
+      "name": "Rainy Night House"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 17204,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 17204
+  },
+  {
+    "command": "adBreak",
+    "username": "david27",
+    "timestamp": 17316,
+    "price": 820
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 17336,
+    "type": "song",
+    "filters": {
+      "name": "For Free"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 17336,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 17336
+  },
+  {
+    "command": "adBreak",
+    "username": "david27",
+    "timestamp": 17479,
+    "price": 350
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 17499,
+    "type": "song",
+    "filters": {
+      "name": "Woodstock"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 17499,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 17499
+  },
+  {
+    "command": "adBreak",
+    "username": "david27",
+    "timestamp": 17649,
+    "price": 740
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 17669,
+    "type": "song",
+    "filters": {
+      "name": "Morning Morgantown"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 17669,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 17669
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 17703,
+    "type": "song",
+    "filters": {
+      "name": "The Priest"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 17703,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 17703
+  },
+  {
+    "command": "adBreak",
+    "username": "david27",
+    "timestamp": 17762,
+    "price": 560
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 17782,
+    "type": "song",
+    "filters": {
+      "name": "Woodstock"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 17782,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 17782
+  },
+  {
+    "command": "wrapped",
+    "username": "Joni Mitchell",
+    "timestamp": 17942
+  },
+  {
+    "command": "wrapped",
+    "username": "Pink Floyd",
+    "timestamp": 17942
+  },
+  {
+    "command": "wrapped",
+    "username": "david27",
+    "timestamp": 18042
+  }
+]

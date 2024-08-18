@@ -1,0 +1,7 @@
+Starting audit...
+[ERROR] C:\Users\Albert\Desktop\Test\oop-project-2023-main\etapa3\.\src\app\recommendations\RandomPlaylistRecommendation.java:37:25: '5' is a magic number. [MagicNumber]
+[ERROR] C:\Users\Albert\Desktop\Test\oop-project-2023-main\etapa3\.\src\app\recommendations\RandomPlaylistRecommendation.java:37:28: '3' is a magic number. [MagicNumber]
+[ERROR] C:\Users\Albert\Desktop\Test\oop-project-2023-main\etapa3\.\src\app\recommendations\RandomPlaylistRecommendation.java:43:69: '3' is a magic number. [MagicNumber]
+[ERROR] C:\Users\Albert\Desktop\Test\oop-project-2023-main\etapa3\.\src\app\statistics\StatsTemplate.java:30:17: Variable 'adminInstance' must be private and have accessor methods. [VisibilityModifier]
+Audit done.
+Checkstyle ends with 4 errors.

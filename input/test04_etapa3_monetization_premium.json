@@ -1,0 +1,6558 @@
+[
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Beatles"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Michael Jackson"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Nothing But Thieves"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Bob Dylan"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Madonna"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Queen"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Rolling Stones"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "David Bowie"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Prince"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Whitney Houston"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Elton John"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Led Zeppelin"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Stevie Wonder"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Beyonc\u00c3\u00a9"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Pink Floyd"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "U2"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Beach Boys"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Frank Sinatra"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Johnny Cash"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Adele"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Bruce Springsteen"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Jimi Hendrix"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Nirvana"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Dire Straits"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Imagine Dragons"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Eminem"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "ABBA"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Ray Charles"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Eagles"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Bob Marley"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Taylor Swift"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Aretha Franklin"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Who"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Rihanna"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Marvin Gaye"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Fleetwood Mac"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "James Brown"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Radiohead"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Doors"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Jay-Z"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Eric Clapton"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Joni Mitchell"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Chuck Berry"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Police"
+  },
+  {
+    "command": "addAlbum",
+    "username": "James Brown",
+    "timestamp": 1,
+    "name": "The 50th Anniversary Collection",
+    "songs": [
+      {
+        "name": "Please, Please, Please - Single Version",
+        "duration": 165,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Try Me - Single Version / Mono",
+        "duration": 152,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Good Good Lovin' - Single Version",
+        "duration": 136,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "I'll Go Crazy - Single Version",
+        "duration": 128,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Think - Single Version",
+        "duration": 168,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Bewildered",
+        "duration": 69,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Lost Someone - 1961 Single Version",
+        "duration": 185,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Night Train - Single Version",
+        "duration": 210,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Prisoner Of Love",
+        "duration": 224,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Out Of Sight - Single Version",
+        "duration": 142,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Papa's Got A Brand New Bag",
+        "duration": 142,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "I Got You (I Feel Good)",
+        "duration": 168,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "It's A Man's, Man's, Man's World - Single Version / Mono",
+        "duration": 167,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Bring It Up - Single Version",
+        "duration": 163,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Let Yourself Go - Single Version",
+        "duration": 177,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Cold Sweat - Part 1",
+        "duration": 175,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Get It Together - Part 1",
+        "duration": 229,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "There Was A Time - Live At The Apollo Theater/1967",
+        "duration": 215,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "I Can't Stand Myself (When You Touch Me)",
+        "duration": 89,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "I Got The Feelin' - Single Version",
+        "duration": 156,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Licking Stick - Licking Stick - Pt. 1 / Mono",
+        "duration": 167,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Say It Loud (I'm Black and I'm Proud)",
+        "duration": 167,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Give It Up Or Turnit A Loose - Single Version",
+        "duration": 338,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "I Don't Want Nobody To Give Me Nothing (Open Up The Door I'll Get It Myself)",
+        "duration": 583,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "The Popcorn - Single Version",
+        "duration": 181,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Mother Popcorn - part 1",
+        "duration": 196,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Ain't It Funky Now",
+        "duration": 597,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "It's A New Day, Part 1",
+        "duration": 188,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Get Up (I Feel Like Being A) Sex Machine",
+        "duration": 169,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Super Bad, Pt. 1",
+        "duration": 172,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Get Up, Get Into It, Get Involved",
+        "duration": 127,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Soul Power (Part 1) - Single Version",
+        "duration": 200,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Hot Pants (She Got To Use What She Got To Get What She Wants) - Pt. 1",
+        "duration": 187,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Make It Funky, Pt. 1",
+        "duration": 195,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "I'm A Greedy Man",
+        "duration": 428,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Talkin' Loud And Sayin' Nothing",
+        "duration": 69,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "There It Is, Pt. 1",
+        "duration": 202,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Get On The Good Foot",
+        "duration": 196,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "I Got Ants In My Pants",
+        "duration": 181,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Down And Out In New York City",
+        "duration": 202,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Sexy, Sexy, Sexy",
+        "duration": 190,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Doing It To Death, Pt. 1 - AM DJ Version",
+        "duration": 183,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "The Payback - Part 1",
+        "duration": 69,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "My Thang",
+        "duration": 219,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Papa Don't Take No Mess",
+        "duration": 269,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Funky President (People It's Bad)",
+        "duration": 241,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Get Up Offa That Thing",
+        "duration": 269,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Bodyheat (Part 1) - Single Version",
+        "duration": 236,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "It's Too Funky In Here - Single Version",
+        "duration": 238,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Static - Pts. 1 & 2",
+        "duration": 290,
+        "album": "The 50th Anniversary Collection",
+        "tags": [
+          "funk",
+          "soul",
+          "rhythm and blues",
+          "60s",
+          "james brown"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      }
+    ],
+    "description": "No description",
+    "releaseYear": 1970
+  },
+  {
+    "command": "addAlbum",
+    "username": "James Brown",
+    "timestamp": 1,
+    "name": "Out of Sight",
+    "songs": [
+      {
+        "name": "Out Of Sight - Single Version",
+        "duration": 142,
+        "album": "Out of Sight",
+        "tags": [
+          "funk",
+          "soul",
+          "james brown",
+          "rhythm and blues",
+          "oldies"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Come Rain Or Come Shine",
+        "duration": 139,
+        "album": "Out of Sight",
+        "tags": [
+          "funk",
+          "soul",
+          "james brown",
+          "rhythm and blues",
+          "oldies"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Good Rockin' Tonight",
+        "duration": 145,
+        "album": "Out of Sight",
+        "tags": [
+          "funk",
+          "soul",
+          "james brown",
+          "rhythm and blues",
+          "oldies"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Till Then",
+        "duration": 161,
+        "album": "Out of Sight",
+        "tags": [
+          "funk",
+          "soul",
+          "james brown",
+          "rhythm and blues",
+          "oldies"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Nature Boy",
+        "duration": 145,
+        "album": "Out of Sight",
+        "tags": [
+          "funk",
+          "soul",
+          "james brown",
+          "rhythm and blues",
+          "oldies"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "I Wanna Be Around (feat. New York Studio Orchestra & Chorus)",
+        "duration": 146,
+        "album": "Out of Sight",
+        "tags": [
+          "funk",
+          "soul",
+          "james brown",
+          "rhythm and blues",
+          "oldies"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "I Got You (I Feel Good) (Original 1964 Album)",
+        "duration": 147,
+        "album": "Out of Sight",
+        "tags": [
+          "funk",
+          "soul",
+          "james brown",
+          "rhythm and blues",
+          "oldies"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Maybe The Last Time (Single Version)",
+        "duration": 178,
+        "album": "Out of Sight",
+        "tags": [
+          "funk",
+          "soul",
+          "james brown",
+          "rhythm and blues",
+          "oldies"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Mona Lisa",
+        "duration": 69,
+        "album": "Out of Sight",
+        "tags": [
+          "funk",
+          "soul",
+          "james brown",
+          "rhythm and blues",
+          "oldies"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "I Loves You Porgy",
+        "duration": 156,
+        "album": "Out of Sight",
+        "tags": [
+          "funk",
+          "soul",
+          "james brown",
+          "rhythm and blues",
+          "oldies"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Only You",
+        "duration": 69,
+        "album": "Out of Sight",
+        "tags": [
+          "funk",
+          "soul",
+          "james brown",
+          "rhythm and blues",
+          "oldies"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Somethin' Else",
+        "duration": 387,
+        "album": "Out of Sight",
+        "tags": [
+          "funk",
+          "soul",
+          "james brown",
+          "rhythm and blues",
+          "oldies"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 1970,
+        "artist": "James Brown"
+      }
+    ],
+    "description": "No description",
+    "releaseYear": 1970
+  },
+  {
+    "command": "addAlbum",
+    "username": "James Brown",
+    "timestamp": 1,
+    "name": "20 All-Time Greatest Hits!",
+    "songs": [
+      {
+        "name": "I Got You (I Feel Good)",
+        "duration": 168,
+        "album": "20 All-Time Greatest Hits!",
+        "tags": [
+          "funk",
+          "soul",
+          "james brown",
+          "rhythm and blues",
+          "60s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 2010,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Get Up I Feel Like Being Like A Sex Machine (Pts. 1 & 2)",
+        "duration": 316,
+        "album": "20 All-Time Greatest Hits!",
+        "tags": [
+          "funk",
+          "soul",
+          "james brown",
+          "rhythm and blues",
+          "60s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 2010,
+        "artist": "James Brown"
+      },
+      {
+        "name": "I Got The Feelin' (Single Version)",
+        "duration": 69,
+        "album": "20 All-Time Greatest Hits!",
+        "tags": [
+          "funk",
+          "soul",
+          "james brown",
+          "rhythm and blues",
+          "60s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 2010,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Mother Popcorn (Single Version)",
+        "duration": 196,
+        "album": "20 All-Time Greatest Hits!",
+        "tags": [
+          "funk",
+          "soul",
+          "james brown",
+          "rhythm and blues",
+          "60s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 2010,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Give It Up Or Turnit A Loose - Extended Version",
+        "duration": 169,
+        "album": "20 All-Time Greatest Hits!",
+        "tags": [
+          "funk",
+          "soul",
+          "james brown",
+          "rhythm and blues",
+          "60s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 2010,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Make It Funky, Pt. 1",
+        "duration": 195,
+        "album": "20 All-Time Greatest Hits!",
+        "tags": [
+          "funk",
+          "soul",
+          "james brown",
+          "rhythm and blues",
+          "60s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 2010,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Papa's Got A Brand New Bag",
+        "duration": 142,
+        "album": "20 All-Time Greatest Hits!",
+        "tags": [
+          "funk",
+          "soul",
+          "james brown",
+          "rhythm and blues",
+          "60s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 2010,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Think (Single Version)",
+        "duration": 168,
+        "album": "20 All-Time Greatest Hits!",
+        "tags": [
+          "funk",
+          "soul",
+          "james brown",
+          "rhythm and blues",
+          "60s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 2010,
+        "artist": "James Brown"
+      },
+      {
+        "name": "It's A Man's, Man's, Man's World - Single Version / Mono",
+        "duration": 167,
+        "album": "20 All-Time Greatest Hits!",
+        "tags": [
+          "funk",
+          "soul",
+          "james brown",
+          "rhythm and blues",
+          "60s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 2010,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Try Me (Single Version) [Mono]",
+        "duration": 152,
+        "album": "20 All-Time Greatest Hits!",
+        "tags": [
+          "funk",
+          "soul",
+          "james brown",
+          "rhythm and blues",
+          "60s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 2010,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Night Train (Single Version)",
+        "duration": 69,
+        "album": "20 All-Time Greatest Hits!",
+        "tags": [
+          "funk",
+          "soul",
+          "james brown",
+          "rhythm and blues",
+          "60s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 2010,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Cold Sweat",
+        "duration": 275,
+        "album": "20 All-Time Greatest Hits!",
+        "tags": [
+          "funk",
+          "soul",
+          "james brown",
+          "rhythm and blues",
+          "60s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 2010,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Get On The Good Foot",
+        "duration": 196,
+        "album": "20 All-Time Greatest Hits!",
+        "tags": [
+          "funk",
+          "soul",
+          "james brown",
+          "rhythm and blues",
+          "60s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 2010,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Papa Don't Take No Mess",
+        "duration": 269,
+        "album": "20 All-Time Greatest Hits!",
+        "tags": [
+          "funk",
+          "soul",
+          "james brown",
+          "rhythm and blues",
+          "60s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 2010,
+        "artist": "James Brown"
+      },
+      {
+        "name": "The Payback",
+        "duration": 448,
+        "album": "20 All-Time Greatest Hits!",
+        "tags": [
+          "funk",
+          "soul",
+          "james brown",
+          "rhythm and blues",
+          "60s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 2010,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Say It Loud (I'm Black and I'm Proud)",
+        "duration": 167,
+        "album": "20 All-Time Greatest Hits!",
+        "tags": [
+          "funk",
+          "soul",
+          "james brown",
+          "rhythm and blues",
+          "60s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 2010,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Super Bad, Pt. 1 & 2",
+        "duration": 301,
+        "album": "20 All-Time Greatest Hits!",
+        "tags": [
+          "funk",
+          "soul",
+          "james brown",
+          "rhythm and blues",
+          "60s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 2010,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Hot Pants (She Got To Use What She Got To Get What She Wants), Pt. 1",
+        "duration": 187,
+        "album": "20 All-Time Greatest Hits!",
+        "tags": [
+          "funk",
+          "soul",
+          "james brown",
+          "rhythm and blues",
+          "60s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 2010,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Get Up Offa That Thing",
+        "duration": 269,
+        "album": "20 All-Time Greatest Hits!",
+        "tags": [
+          "funk",
+          "soul",
+          "james brown",
+          "rhythm and blues",
+          "60s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 2010,
+        "artist": "James Brown"
+      },
+      {
+        "name": "Please, Please, Please (Single Version)",
+        "duration": 164,
+        "album": "20 All-Time Greatest Hits!",
+        "tags": [
+          "funk",
+          "soul",
+          "james brown",
+          "rhythm and blues",
+          "60s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "funk",
+        "releaseYear": 2010,
+        "artist": "James Brown"
+      }
+    ],
+    "description": "20 All-Time Greatest Hits! is a single-disc collection of James Brown's most famous recordings, released in 1991 in conjunction with the Star Time box set. In 2003, the album was ranked number 414 on Rolling Stone magazine's list of the 500 greatest albums of all time. <a href=\"https://www.last.fm/music/James+Brown/20+All-Time+Greatest+Hits!\">Read more on Last.fm</a>.",
+    "releaseYear": 2010
+  },
+  {
+    "command": "addAlbum",
+    "username": "Pink Floyd",
+    "timestamp": 1,
+    "name": "Wish You Were Here",
+    "songs": [
+      {
+        "name": "Shine on You Crazy Diamond",
+        "duration": 640,
+        "album": "Wish You Were Here",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2016,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Welcome to the Machine",
+        "duration": 492,
+        "album": "Wish You Were Here",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2016,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Have a Cigar",
+        "duration": 327,
+        "album": "Wish You Were Here",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2016,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Wish You Were Here",
+        "duration": 289,
+        "album": "Wish You Were Here",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2016,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Shine On You Crazy Diamond (Part Two)",
+        "duration": 742,
+        "album": "Wish You Were Here",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2016,
+        "artist": "Pink Floyd"
+      }
+    ],
+    "description": "The band entered Abbey Road Studios during the first week of 1975 to begin recording on their follow-up to Dark Side of the Moon. In the previous year, they introduced three new pieces to European audiences during the first sets of each show. Two of them, \"Raving and Drooling\" & \"You Gotta Be Crazy\", were ultimately not recorded for Wish You Were Here, but re-shaped and recorded in 1976 for the Animals album as respectively \"Sheep\" and \"Dogs\". The third would take shape as the album's centerpiece, \"Shine on You Crazy Diamond\". During tour rehearsals for the previous year's French <a href=\"https://www.last.fm/music/Pink+Floyd/Wish+You+Were+Here\">Read more on Last.fm</a>.",
+    "releaseYear": 2016
+  },
+  {
+    "command": "addAlbum",
+    "username": "Pink Floyd",
+    "timestamp": 1,
+    "name": "The Division Bell",
+    "songs": [
+      {
+        "name": "Cluster One",
+        "duration": 445,
+        "album": "The Division Bell",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "instrumental"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2014,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "What Do You Want From Me",
+        "duration": 437,
+        "album": "The Division Bell",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "instrumental"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2014,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Poles Apart",
+        "duration": 348,
+        "album": "The Division Bell",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "instrumental"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2014,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Marooned",
+        "duration": 556,
+        "album": "The Division Bell",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "instrumental"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2014,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "A Great Day for Freedom",
+        "duration": 483,
+        "album": "The Division Bell",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "instrumental"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2014,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Wearing the Inside Out",
+        "duration": 545,
+        "album": "The Division Bell",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "instrumental"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2014,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Take It Back",
+        "duration": 620,
+        "album": "The Division Bell",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "instrumental"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2014,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Coming Back to Life",
+        "duration": 379,
+        "album": "The Division Bell",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "instrumental"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2014,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Keep Talking",
+        "duration": 475,
+        "album": "The Division Bell",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "instrumental"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2014,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Lost for Words",
+        "duration": 341,
+        "album": "The Division Bell",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "instrumental"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2014,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "High Hopes",
+        "duration": 480,
+        "album": "The Division Bell",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "instrumental"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2014,
+        "artist": "Pink Floyd"
+      }
+    ],
+    "description": "The Division Bell is the 14th studio album by Pink Floyd, released in 1994 (30 March in the United Kingdom and 5 April in the United States), and the second album without original bassist Roger Waters. It was recorded at a number of studios, including guitarist/vocalist David Gilmour's houseboat studio called The Astoria. It went to #1 in the UK and debuted at the top of the U.S. Billboard 200 album charts in April 1994, spending four weeks as the top album in the country. By contrast, Pink Floyd's previous album, A Momentary Lapse of Reason, had peaked at #3. <a href=\"https://www.last.fm/music/Pink+Floyd/The+Division+Bell\">Read more on Last.fm</a>.",
+    "releaseYear": 2014
+  },
+  {
+    "command": "addAlbum",
+    "username": "Pink Floyd",
+    "timestamp": 1,
+    "name": "The Dark Side of the Moon",
+    "songs": [
+      {
+        "name": "Speak to Me",
+        "duration": 165,
+        "album": "The Dark Side of the Moon",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2023,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Breathe (In the Air)",
+        "duration": 170,
+        "album": "The Dark Side of the Moon",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2023,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "On the Run",
+        "duration": 308,
+        "album": "The Dark Side of the Moon",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2023,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Time",
+        "duration": 391,
+        "album": "The Dark Side of the Moon",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2023,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "The Great Gig in the Sky",
+        "duration": 410,
+        "album": "The Dark Side of the Moon",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2023,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Money",
+        "duration": 521,
+        "album": "The Dark Side of the Moon",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2023,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Us and Them",
+        "duration": 489,
+        "album": "The Dark Side of the Moon",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2023,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Any Colour You Like",
+        "duration": 490,
+        "album": "The Dark Side of the Moon",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2023,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Brain Damage",
+        "duration": 223,
+        "album": "The Dark Side of the Moon",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2023,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Eclipse",
+        "duration": 139,
+        "album": "The Dark Side of the Moon",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2023,
+        "artist": "Pink Floyd"
+      }
+    ],
+    "description": "The Dark Side of the Moon is the eighth studio album by English rock band Pink Floyd, released on 1 March 1973 by Harvest Records. The album built on ideas explored in earlier recordings and live shows, but lacks the extended instrumental excursions that characterized their earlier work. Its themes explore conflict, greed, the passage of time, and mental illness, the latter partly inspired by the deteriorating mental state of founding member and principal contributor, Syd Barrett. Developed during live performances, an early version was premiered several months before recording began; the new material was recorded in two sessions in <a href=\"https://www.last.fm/music/Pink+Floyd/The+Dark+Side+of+the+Moon\">Read more on Last.fm</a>.",
+    "releaseYear": 2023
+  },
+  {
+    "command": "addAlbum",
+    "username": "Pink Floyd",
+    "timestamp": 1,
+    "name": "The Wall",
+    "songs": [
+      {
+        "name": "In the Flesh?",
+        "duration": 236,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "The Thin Ice",
+        "duration": 193,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Another Brick in the Wall Part 1",
+        "duration": 69,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "The Happiest Days of Our Lives",
+        "duration": 126,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Another Brick in the Wall Part 2",
+        "duration": 228,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Mother",
+        "duration": 439,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Goodbye Blue Sky",
+        "duration": 212,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Empty Spaces",
+        "duration": 192,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Young Lust",
+        "duration": 188,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "One of My Turns",
+        "duration": 289,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Don't Leave Me Now",
+        "duration": 186,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Another Brick in the Wall Part 3",
+        "duration": 69,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Goodbye Cruel World",
+        "duration": 63,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Hey You",
+        "duration": 285,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Is There Anybody Out There?",
+        "duration": 226,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Nobody Home",
+        "duration": 290,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Vera",
+        "duration": 121,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Bring the Boys Back Home",
+        "duration": 91,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Comfortably Numb",
+        "duration": 383,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "The Show Must Go On",
+        "duration": 97,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "In the Flesh",
+        "duration": 236,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Run Like Hell",
+        "duration": 365,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Waiting for the Worms",
+        "duration": 146,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Stop",
+        "duration": 158,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "The Trial",
+        "duration": 401,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Outside the Wall",
+        "duration": 262,
+        "album": "The Wall",
+        "tags": [
+          "progressive rock",
+          "classic rock",
+          "psychedelic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2022,
+        "artist": "Pink Floyd"
+      }
+    ],
+    "description": "The Wall is a rock opera presented as a double album by the English progressive rock band Pink Floyd, released on November 30, 1979. It was subsequently performed live, with elaborate theatrical effects, and made into a film. Following in the footsteps of their previous albums, The Wall is a concept album \u2014 specifically, it deals largely with the theme of isolation from one's peers. The concept was largely inspired by the band's 1977 tour promoting the album Animals, with regards to an incident where Roger Waters' frustration with the audience reached a point where Waters spat in the face <a href=\"https://www.last.fm/music/Pink+Floyd/The+Wall\">Read more on Last.fm</a>.",
+    "releaseYear": 2022
+  },
+  {
+    "command": "addAlbum",
+    "username": "Aretha Franklin",
+    "timestamp": 1,
+    "name": "Soul Queen",
+    "songs": [
+      {
+        "name": "I Never Loved a Man (the Way I Love You)",
+        "duration": 169,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Do Right Woman, Do Right Man",
+        "duration": 195,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Save Me",
+        "duration": 139,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Drown in My Own Tears",
+        "duration": 69,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Baby, Baby, Baby",
+        "duration": 168,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Respect",
+        "duration": 145,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Good Times",
+        "duration": 125,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Dr. Feelgood (Love Is a Serious Business)",
+        "duration": 69,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "(You Make Me Feel Like) a Natural Woman",
+        "duration": 164,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Never Let Me Go",
+        "duration": 69,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Night Life",
+        "duration": 69,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Baby I Love You",
+        "duration": 156,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Chain of Fools",
+        "duration": 167,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Ain't Nobody (Gonna Turn Me Around)",
+        "duration": 151,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "(Sweet Sweet Baby) Since You've Been Gone",
+        "duration": 153,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Good to Me As I Am to You",
+        "duration": 69,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "You're A Sweet Sweet Man",
+        "duration": 69,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Come Back Baby",
+        "duration": 69,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Ain't No Way",
+        "duration": 252,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "My Song",
+        "duration": 203,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Think",
+        "duration": 194,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "You Send Me",
+        "duration": 145,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "See Saw",
+        "duration": 162,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "The House That Jack Built",
+        "duration": 138,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "I Say a Little Prayer",
+        "duration": 212,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Night Time Is The Right Time",
+        "duration": 69,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Tracks Of My Tears",
+        "duration": 173,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "I Take What I Want",
+        "duration": 150,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "I Can't See Myself Leaving You",
+        "duration": 69,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Pitiful",
+        "duration": 184,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Gentle On My Mind",
+        "duration": 148,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Share Your Love with Me",
+        "duration": 246,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "The Weight",
+        "duration": 172,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "When The Battle Is Over",
+        "duration": 172,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Pullin'",
+        "duration": 210,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Eleanor Rigby",
+        "duration": 155,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Call Me",
+        "duration": 232,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Dark End of the Street",
+        "duration": 69,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Let It Be",
+        "duration": 208,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "You And Me",
+        "duration": 69,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Spirit in the Dark",
+        "duration": 350,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Don't Play That Song (You Lied)",
+        "duration": 175,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Bridge Over Troubled Water",
+        "duration": 334,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Border Song (Holy Moses)",
+        "duration": 69,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "A Brand New Me",
+        "duration": 69,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Oh Me Oh My (I'm a Fool for You Baby)",
+        "duration": 69,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "You're All I Need to Get By",
+        "duration": 214,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Spanish Harlem",
+        "duration": 210,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Rock Steady",
+        "duration": 191,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Day Dreaming",
+        "duration": 238,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "All The King's Horses",
+        "duration": 233,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "April Fools",
+        "duration": 69,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Wholy Holy",
+        "duration": 346,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Angel",
+        "duration": 266,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Master Of Eyes (The Deepness Of Your Eyes)",
+        "duration": 204,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "I'm in Love",
+        "duration": 171,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Ain't Nothing Like The Real Thing",
+        "duration": 227,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Every Natural Thing",
+        "duration": 157,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Until You Come Back to Me (That's What I'm Gonna Do)",
+        "duration": 205,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      },
+      {
+        "name": "Something He Can Feel",
+        "duration": 208,
+        "album": "Soul Queen",
+        "tags": [
+          "soul",
+          "female vocalists",
+          "60s",
+          "aretha franklin",
+          "7soul"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "soul",
+        "releaseYear": 2020,
+        "artist": "Aretha Franklin"
+      }
+    ],
+    "description": "Aretha Franklin has simply been one of the greatest singers of the modern generation, and whether bringing her powerful, passionate voice to bear on gospel standards, songs from the Great American Songbook, jazz standards, pop ditties, or deep Southern soul and R&B, she has always had the presence -- much like Ray Charles -- to make anything she touches unmistakably hers. Franklin began her career in gospel when she was still a teenager, and her amazing vocal talents, coupled with her fine piano playing, marked her as a once-in-a-lifetime kind of artist, qualities very apparent to legendary talent scout John <a href=\"https://www.last.fm/music/Aretha+Franklin/Soul+Queen\">Read more on Last.fm</a>.",
+    "releaseYear": 2020
+  },
+  {
+    "command": "buyPremium",
+    "username": "henry26",
+    "timestamp": 5
+  },
+  {
+    "command": "buyPremium",
+    "username": "grace25",
+    "timestamp": 5
+  },
+  {
+    "command": "search",
+    "username": "carol19",
+    "timestamp": 10,
+    "type": "album",
+    "filters": {
+      "name": "The 50th Anniversary Collection"
+    }
+  },
+  {
+    "command": "select",
+    "username": "carol19",
+    "timestamp": 10,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "carol19",
+    "timestamp": 10
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 10,
+    "type": "album",
+    "filters": {
+      "name": "Out of Sight"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 10,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 10
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 10,
+    "type": "album",
+    "filters": {
+      "name": "20 All-Time Greatest Hits!"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 10,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 10
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 10,
+    "type": "song",
+    "filters": {
+      "name": "I Got Ants In My Pants"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 10,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 10
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 191,
+    "type": "song",
+    "filters": {
+      "name": "I Don't Want Nobody To Give Me Nothing (Open Up The Door I'll Get It Myself)"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 191,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 191
+  },
+  {
+    "command": "cancelPremium",
+    "username": "henry26",
+    "timestamp": 482
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 482,
+    "type": "song",
+    "filters": {
+      "name": "I Got You (I Feel Good) (Original 1964 Album)"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 482,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 482
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 629,
+    "type": "song",
+    "filters": {
+      "name": "Night Train - Single Version"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 629,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 629
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 734,
+    "type": "song",
+    "filters": {
+      "name": "Maybe The Last Time (Single Version)"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 734,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 734
+  },
+  {
+    "command": "cancelPremium",
+    "username": "henry26",
+    "timestamp": 823
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 823,
+    "type": "song",
+    "filters": {
+      "name": "I Got You (I Feel Good)"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 823,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 823
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 907,
+    "type": "album",
+    "filters": {
+      "name": "Wish You Were Here"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 907,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 907
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 952,
+    "type": "song",
+    "filters": {
+      "name": "There Was A Time - Live At The Apollo Theater/1967"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 952,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 952
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 1059,
+    "type": "song",
+    "filters": {
+      "name": "I Wanna Be Around (feat. New York Studio Orchestra & Chorus)"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 1059,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 1059
+  },
+  {
+    "command": "buyPremium",
+    "username": "jack29",
+    "timestamp": 1132
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 1132,
+    "type": "song",
+    "filters": {
+      "name": "Out Of Sight - Single Version"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 1132,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 1132
+  },
+  {
+    "command": "buyPremium",
+    "username": "jack29",
+    "timestamp": 1203
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 1203,
+    "type": "song",
+    "filters": {
+      "name": "Get Up, Get Into It, Get Involved"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 1203,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 1203
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 1266,
+    "type": "song",
+    "filters": {
+      "name": "Prisoner Of Love"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 1266,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 1266
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 1490,
+    "type": "song",
+    "filters": {
+      "name": "Doing It To Death, Pt. 1 - AM DJ Version"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 1490,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 1490
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 1581,
+    "type": "song",
+    "filters": {
+      "name": "Nature Boy"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 1581,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 1581
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 1653,
+    "type": "song",
+    "filters": {
+      "name": "Try Me - Single Version / Mono"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 1653,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 1653
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 1729,
+    "type": "song",
+    "filters": {
+      "name": "Come Rain Or Come Shine"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 1729,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 1729
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 1798,
+    "type": "song",
+    "filters": {
+      "name": "Please, Please, Please (Single Version)"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 1798,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 1798
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 1880,
+    "type": "song",
+    "filters": {
+      "name": "Get On The Good Foot"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 1880,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 1880
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 1978,
+    "type": "song",
+    "filters": {
+      "name": "I Got You (I Feel Good)"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 1978,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 1978
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 2053,
+    "type": "song",
+    "filters": {
+      "name": "Give It Up Or Turnit A Loose - Single Version"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 2053,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 2053
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 2062,
+    "type": "song",
+    "filters": {
+      "name": "I Got You (I Feel Good)"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 2062,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 2062
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 2146,
+    "type": "song",
+    "filters": {
+      "name": "Till Then"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 2146,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 2146
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 2226,
+    "type": "song",
+    "filters": {
+      "name": "Young Lust"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 2226,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 2226
+  },
+  {
+    "command": "buyPremium",
+    "username": "jack29",
+    "timestamp": 2320
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 2320,
+    "type": "song",
+    "filters": {
+      "name": "Have a Cigar"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 2320,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 2320
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 2391,
+    "type": "song",
+    "filters": {
+      "name": "I Wanna Be Around (feat. New York Studio Orchestra & Chorus)"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 2391,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 2391
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 2464,
+    "type": "song",
+    "filters": {
+      "name": "Make It Funky, Pt. 1"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 2464,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 2464
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 2483,
+    "type": "song",
+    "filters": {
+      "name": "Shine On You Crazy Diamond (Part Two)"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 2483,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 2483
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 2561,
+    "type": "song",
+    "filters": {
+      "name": "Bring It Up - Single Version"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 2561,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 2561
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 2642,
+    "type": "song",
+    "filters": {
+      "name": "Get It Together - Part 1"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 2642,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 2642
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 2756,
+    "type": "song",
+    "filters": {
+      "name": "Try Me (Single Version) [Mono]"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 2756,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 2756
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 2832,
+    "type": "song",
+    "filters": {
+      "name": "Nature Boy"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 2832,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 2832
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 2904,
+    "type": "song",
+    "filters": {
+      "name": "Out Of Sight - Single Version"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 2904,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 2904
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 3046,
+    "type": "song",
+    "filters": {
+      "name": "Papa Don't Take No Mess"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 3046,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 3046
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 3180,
+    "type": "song",
+    "filters": {
+      "name": "I Got You (I Feel Good) (Original 1964 Album)"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 3180,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 3180
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 3225,
+    "type": "song",
+    "filters": {
+      "name": "Money"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 3225,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 3225
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 3253,
+    "type": "song",
+    "filters": {
+      "name": "Please, Please, Please (Single Version)"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 3253,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 3253
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 3335,
+    "type": "song",
+    "filters": {
+      "name": "The Payback"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 3335,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 3335
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 3397,
+    "type": "album",
+    "filters": {
+      "name": "The Wall"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 3397,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 3397
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 3485,
+    "type": "song",
+    "filters": {
+      "name": "The Great Gig in the Sky"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 3485,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 3485
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 3559,
+    "type": "song",
+    "filters": {
+      "name": "Super Bad, Pt. 1 & 2"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 3559,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 3559
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 3690,
+    "type": "song",
+    "filters": {
+      "name": "In the Flesh"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 3690,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 3690
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 3709,
+    "type": "album",
+    "filters": {
+      "name": "The Division Bell"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 3709,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 3709
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 3808,
+    "type": "song",
+    "filters": {
+      "name": "Vera"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 3808,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 3808
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 3929,
+    "type": "song",
+    "filters": {
+      "name": "Outside the Wall"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 3929,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 3929
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 4191,
+    "type": "song",
+    "filters": {
+      "name": "Breathe (In the Air)"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 4191,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 4191
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 4276,
+    "type": "song",
+    "filters": {
+      "name": "The Great Gig in the Sky"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 4276,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 4276
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 4481,
+    "type": "song",
+    "filters": {
+      "name": "Any Colour You Like"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 4481,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 4481
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 4726,
+    "type": "song",
+    "filters": {
+      "name": "Wish You Were Here"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 4726,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 4726
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 4870,
+    "type": "song",
+    "filters": {
+      "name": "Have a Cigar"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 4870,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 4870
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 5033,
+    "type": "song",
+    "filters": {
+      "name": "The Thin Ice"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 5033,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 5033
+  },
+  {
+    "command": "search",
+    "username": "carol19",
+    "timestamp": 5114,
+    "type": "song",
+    "filters": {
+      "name": "Good Rockin' Tonight"
+    }
+  },
+  {
+    "command": "select",
+    "username": "carol19",
+    "timestamp": 5114,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "carol19",
+    "timestamp": 5114
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 5129,
+    "type": "song",
+    "filters": {
+      "name": "Brain Damage"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 5129,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 5129
+  },
+  {
+    "command": "search",
+    "username": "carol19",
+    "timestamp": 5186,
+    "type": "song",
+    "filters": {
+      "name": "Give It Up Or Turnit A Loose - Extended Version"
+    }
+  },
+  {
+    "command": "select",
+    "username": "carol19",
+    "timestamp": 5186,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "carol19",
+    "timestamp": 5186
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 5240,
+    "type": "song",
+    "filters": {
+      "name": "Baby, Baby, Baby"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 5240,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 5240
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 5324,
+    "type": "song",
+    "filters": {
+      "name": "I Take What I Want"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 5324,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 5324
+  },
+  {
+    "command": "search",
+    "username": "carol19",
+    "timestamp": 5355,
+    "type": "song",
+    "filters": {
+      "name": "Super Bad, Pt. 1"
+    }
+  },
+  {
+    "command": "select",
+    "username": "carol19",
+    "timestamp": 5355,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "carol19",
+    "timestamp": 5355
+  },
+  {
+    "command": "search",
+    "username": "carol19",
+    "timestamp": 5441,
+    "type": "song",
+    "filters": {
+      "name": "Good Good Lovin' - Single Version"
+    }
+  },
+  {
+    "command": "select",
+    "username": "carol19",
+    "timestamp": 5441,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "carol19",
+    "timestamp": 5441
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 5474,
+    "type": "song",
+    "filters": {
+      "name": "Never Let Me Go"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 5474,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 5474
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 5508,
+    "type": "song",
+    "filters": {
+      "name": "April Fools"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 5508,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 5508
+  },
+  {
+    "command": "buyPremium",
+    "username": "carol19",
+    "timestamp": 5509
+  },
+  {
+    "command": "search",
+    "username": "carol19",
+    "timestamp": 5509,
+    "type": "song",
+    "filters": {
+      "name": "Make It Funky, Pt. 1"
+    }
+  },
+  {
+    "command": "select",
+    "username": "carol19",
+    "timestamp": 5509,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "carol19",
+    "timestamp": 5509
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 5542,
+    "type": "song",
+    "filters": {
+      "name": "You're All I Need to Get By"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 5542,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 5542
+  },
+  {
+    "command": "search",
+    "username": "carol19",
+    "timestamp": 5606,
+    "type": "song",
+    "filters": {
+      "name": "Till Then"
+    }
+  },
+  {
+    "command": "select",
+    "username": "carol19",
+    "timestamp": 5606,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "carol19",
+    "timestamp": 5606
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 5649,
+    "type": "song",
+    "filters": {
+      "name": "Border Song (Holy Moses)"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 5649,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 5649
+  },
+  {
+    "command": "buyPremium",
+    "username": "jack29",
+    "timestamp": 5683
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 5683,
+    "type": "song",
+    "filters": {
+      "name": "Until You Come Back to Me (That's What I'm Gonna Do)"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 5683,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 5683
+  },
+  {
+    "command": "search",
+    "username": "carol19",
+    "timestamp": 5767,
+    "type": "song",
+    "filters": {
+      "name": "It's A Man's, Man's, Man's World - Single Version / Mono"
+    }
+  },
+  {
+    "command": "select",
+    "username": "carol19",
+    "timestamp": 5767,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "carol19",
+    "timestamp": 5767
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 5785,
+    "type": "song",
+    "filters": {
+      "name": "Respect"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 5785,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 5785
+  },
+  {
+    "command": "search",
+    "username": "carol19",
+    "timestamp": 5850,
+    "type": "song",
+    "filters": {
+      "name": "The Payback"
+    }
+  },
+  {
+    "command": "select",
+    "username": "carol19",
+    "timestamp": 5850,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "carol19",
+    "timestamp": 5850
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 5857,
+    "type": "song",
+    "filters": {
+      "name": "Night Life"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 5857,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 5857
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 5926,
+    "type": "song",
+    "filters": {
+      "name": "Save Me"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 5926,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 5926
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 5995,
+    "type": "song",
+    "filters": {
+      "name": "Respect"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 5995,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 5995
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 6067,
+    "type": "song",
+    "filters": {
+      "name": "Dr. Feelgood (Love Is a Serious Business)"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 6067,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 6067
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 6172,
+    "type": "song",
+    "filters": {
+      "name": "Welcome to the Machine"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 6172,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 6172
+  },
+  {
+    "command": "wrapped",
+    "username": "jack29",
+    "timestamp": 6201
+  },
+  {
+    "command": "search",
+    "username": "carol19",
+    "timestamp": 6298,
+    "type": "song",
+    "filters": {
+      "name": "I Got You (I Feel Good) (Original 1964 Album)"
+    }
+  },
+  {
+    "command": "select",
+    "username": "carol19",
+    "timestamp": 6298,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "carol19",
+    "timestamp": 6298
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 6418,
+    "type": "song",
+    "filters": {
+      "name": "Have a Cigar"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 6418,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 6418
+  },
+  {
+    "command": "search",
+    "username": "carol19",
+    "timestamp": 6445,
+    "type": "song",
+    "filters": {
+      "name": "Ain't It Funky Now"
+    }
+  },
+  {
+    "command": "select",
+    "username": "carol19",
+    "timestamp": 6445,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "carol19",
+    "timestamp": 6445
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 6581,
+    "type": "song",
+    "filters": {
+      "name": "Comfortably Numb"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 6581,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 6581
+  },
+  {
+    "command": "search",
+    "username": "carol19",
+    "timestamp": 6743,
+    "type": "song",
+    "filters": {
+      "name": "It's A Man's, Man's, Man's World - Single Version / Mono"
+    }
+  },
+  {
+    "command": "select",
+    "username": "carol19",
+    "timestamp": 6743,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "carol19",
+    "timestamp": 6743
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 6772,
+    "type": "song",
+    "filters": {
+      "name": "Poles Apart"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 6772,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 6772
+  },
+  {
+    "command": "search",
+    "username": "carol19",
+    "timestamp": 6826,
+    "type": "song",
+    "filters": {
+      "name": "Come Rain Or Come Shine"
+    }
+  },
+  {
+    "command": "select",
+    "username": "carol19",
+    "timestamp": 6826,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "carol19",
+    "timestamp": 6826
+  },
+  {
+    "command": "search",
+    "username": "carol19",
+    "timestamp": 6895,
+    "type": "song",
+    "filters": {
+      "name": "Come Rain Or Come Shine"
+    }
+  },
+  {
+    "command": "select",
+    "username": "carol19",
+    "timestamp": 6895,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "carol19",
+    "timestamp": 6895
+  },
+  {
+    "command": "wrapped",
+    "username": "James Brown",
+    "timestamp": 7034
+  },
+  {
+    "command": "search",
+    "username": "carol19",
+    "timestamp": 7034,
+    "type": "song",
+    "filters": {
+      "name": "Have a Cigar"
+    }
+  },
+  {
+    "command": "select",
+    "username": "carol19",
+    "timestamp": 7034,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "carol19",
+    "timestamp": 7034
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 7120,
+    "type": "song",
+    "filters": {
+      "name": "Speak to Me"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 7120,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 7120
+  },
+  {
+    "command": "search",
+    "username": "carol19",
+    "timestamp": 7197,
+    "type": "song",
+    "filters": {
+      "name": "Shine on You Crazy Diamond"
+    }
+  },
+  {
+    "command": "select",
+    "username": "carol19",
+    "timestamp": 7197,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "carol19",
+    "timestamp": 7197
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 7285,
+    "type": "song",
+    "filters": {
+      "name": "Marooned"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 7285,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 7285
+  },
+  {
+    "command": "search",
+    "username": "carol19",
+    "timestamp": 7517,
+    "type": "song",
+    "filters": {
+      "name": "Time"
+    }
+  },
+  {
+    "command": "select",
+    "username": "carol19",
+    "timestamp": 7517,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "carol19",
+    "timestamp": 7517
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 7563,
+    "type": "song",
+    "filters": {
+      "name": "Brain Damage"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 7563,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 7563
+  },
+  {
+    "command": "search",
+    "username": "carol19",
+    "timestamp": 7712,
+    "type": "song",
+    "filters": {
+      "name": "Have a Cigar"
+    }
+  },
+  {
+    "command": "select",
+    "username": "carol19",
+    "timestamp": 7712,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "carol19",
+    "timestamp": 7712
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 7786,
+    "type": "song",
+    "filters": {
+      "name": "Another Brick in the Wall Part 2"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 7786,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 7786
+  },
+  {
+    "command": "search",
+    "username": "carol19",
+    "timestamp": 7875,
+    "type": "song",
+    "filters": {
+      "name": "On the Run"
+    }
+  },
+  {
+    "command": "select",
+    "username": "carol19",
+    "timestamp": 7875,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "carol19",
+    "timestamp": 7875
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 7900,
+    "type": "song",
+    "filters": {
+      "name": "Bring the Boys Back Home"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 7900,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 7900
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 7991,
+    "type": "song",
+    "filters": {
+      "name": "Waiting for the Worms"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 7991,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 7991
+  },
+  {
+    "command": "search",
+    "username": "carol19",
+    "timestamp": 8029,
+    "type": "song",
+    "filters": {
+      "name": "Brain Damage"
+    }
+  },
+  {
+    "command": "select",
+    "username": "carol19",
+    "timestamp": 8029,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "carol19",
+    "timestamp": 8029
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 8064,
+    "type": "song",
+    "filters": {
+      "name": "Another Brick in the Wall Part 1"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 8064,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 8064
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 8098,
+    "type": "song",
+    "filters": {
+      "name": "Cluster One"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 8098,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 8098
+  },
+  {
+    "command": "search",
+    "username": "carol19",
+    "timestamp": 8140,
+    "type": "song",
+    "filters": {
+      "name": "Welcome to the Machine"
+    }
+  },
+  {
+    "command": "select",
+    "username": "carol19",
+    "timestamp": 8140,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "carol19",
+    "timestamp": 8140
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 8320,
+    "type": "song",
+    "filters": {
+      "name": "Wish You Were Here"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 8320,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 8320
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 8609,
+    "type": "song",
+    "filters": {
+      "name": "Don't Play That Song (You Lied)"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 8609,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 8609
+  },
+  {
+    "command": "search",
+    "username": "carol19",
+    "timestamp": 8632,
+    "type": "song",
+    "filters": {
+      "name": "Speak to Me"
+    }
+  },
+  {
+    "command": "select",
+    "username": "carol19",
+    "timestamp": 8632,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "carol19",
+    "timestamp": 8632
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 8696,
+    "type": "song",
+    "filters": {
+      "name": "My Song"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 8696,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 8696
+  },
+  {
+    "command": "search",
+    "username": "carol19",
+    "timestamp": 8797,
+    "type": "song",
+    "filters": {
+      "name": "Eclipse"
+    }
+  },
+  {
+    "command": "select",
+    "username": "carol19",
+    "timestamp": 8797,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "carol19",
+    "timestamp": 8797
+  },
+  {
+    "command": "cancelPremium",
+    "username": "henry26",
+    "timestamp": 8797
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 8797,
+    "type": "song",
+    "filters": {
+      "name": "Save Me"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 8797,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 8797
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 8818,
+    "type": "album",
+    "filters": {
+      "name": "The Dark Side of the Moon"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 8818,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 8818
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 8866,
+    "type": "song",
+    "filters": {
+      "name": "You And Me"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 8866,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 8866
+  },
+  {
+    "command": "cancelPremium",
+    "username": "henry26",
+    "timestamp": 8900
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 8900,
+    "type": "song",
+    "filters": {
+      "name": "Every Natural Thing"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 8900,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 8900
+  },
+  {
+    "command": "search",
+    "username": "carol19",
+    "timestamp": 8936,
+    "type": "song",
+    "filters": {
+      "name": "Wholy Holy"
+    }
+  },
+  {
+    "command": "select",
+    "username": "carol19",
+    "timestamp": 8936,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "carol19",
+    "timestamp": 8936
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 8978,
+    "type": "song",
+    "filters": {
+      "name": "Tracks Of My Tears"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 8978,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 8978
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 9064,
+    "type": "song",
+    "filters": {
+      "name": "Tracks Of My Tears"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 9064,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 9064
+  },
+  {
+    "command": "search",
+    "username": "carol19",
+    "timestamp": 9109,
+    "type": "song",
+    "filters": {
+      "name": "Spanish Harlem"
+    }
+  },
+  {
+    "command": "select",
+    "username": "carol19",
+    "timestamp": 9109,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "carol19",
+    "timestamp": 9109
+  },
+  {
+    "command": "search",
+    "username": "carol19",
+    "timestamp": 9214,
+    "type": "song",
+    "filters": {
+      "name": "I'm in Love"
+    }
+  },
+  {
+    "command": "select",
+    "username": "carol19",
+    "timestamp": 9214,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "carol19",
+    "timestamp": 9214
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 9237,
+    "type": "song",
+    "filters": {
+      "name": "Come Back Baby"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 9237,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 9237
+  },
+  {
+    "command": "search",
+    "username": "carol19",
+    "timestamp": 9299,
+    "type": "song",
+    "filters": {
+      "name": "All The King's Horses"
+    }
+  },
+  {
+    "command": "select",
+    "username": "carol19",
+    "timestamp": 9299,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "carol19",
+    "timestamp": 9299
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 9306,
+    "type": "song",
+    "filters": {
+      "name": "Dark End of the Street"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 9306,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 9306
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 9340,
+    "type": "song",
+    "filters": {
+      "name": "Angel"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 9340,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 9340
+  },
+  {
+    "command": "search",
+    "username": "carol19",
+    "timestamp": 9415,
+    "type": "song",
+    "filters": {
+      "name": "Night Life"
+    }
+  },
+  {
+    "command": "select",
+    "username": "carol19",
+    "timestamp": 9415,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "carol19",
+    "timestamp": 9415
+  },
+  {
+    "command": "search",
+    "username": "carol19",
+    "timestamp": 9449,
+    "type": "song",
+    "filters": {
+      "name": "Angel"
+    }
+  },
+  {
+    "command": "select",
+    "username": "carol19",
+    "timestamp": 9449,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "carol19",
+    "timestamp": 9449
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 9473,
+    "type": "song",
+    "filters": {
+      "name": "Spanish Harlem"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 9473,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 9473
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 9578,
+    "type": "song",
+    "filters": {
+      "name": "Drown in My Own Tears"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 9578,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 9578
+  },
+  {
+    "command": "search",
+    "username": "carol19",
+    "timestamp": 9582,
+    "type": "song",
+    "filters": {
+      "name": "Dr. Feelgood (Love Is a Serious Business)"
+    }
+  },
+  {
+    "command": "select",
+    "username": "carol19",
+    "timestamp": 9582,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "carol19",
+    "timestamp": 9582
+  },
+  {
+    "command": "search",
+    "username": "carol19",
+    "timestamp": 9616,
+    "type": "song",
+    "filters": {
+      "name": "You're A Sweet Sweet Man"
+    }
+  },
+  {
+    "command": "select",
+    "username": "carol19",
+    "timestamp": 9616,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "carol19",
+    "timestamp": 9616
+  },
+  {
+    "command": "wrapped",
+    "username": "henry26",
+    "timestamp": 9712
+  },
+  {
+    "command": "wrapped",
+    "username": "carol19",
+    "timestamp": 9750
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 12124,
+    "type": "song",
+    "filters": {
+      "name": "High Hopes"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 12124,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 12124
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 12364,
+    "type": "song",
+    "filters": {
+      "name": "Shine On You Crazy Diamond (Part Two)"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 12364,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 12364
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 12735,
+    "type": "song",
+    "filters": {
+      "name": "Have a Cigar"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 12735,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 12735
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 13062,
+    "type": "song",
+    "filters": {
+      "name": "Speak to Me"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 13062,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 13062
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 13144,
+    "type": "song",
+    "filters": {
+      "name": "Lost for Words"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 13144,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 13144
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 13314,
+    "type": "song",
+    "filters": {
+      "name": "Welcome to the Machine"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 13314,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 13314
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 13806,
+    "type": "song",
+    "filters": {
+      "name": "Wearing the Inside Out"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 13806,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 13806
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 14078,
+    "type": "song",
+    "filters": {
+      "name": "Cluster One"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 14078,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 14078
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 14523,
+    "type": "song",
+    "filters": {
+      "name": "Coming Back to Life"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 14523,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 14523
+  },
+  {
+    "command": "wrapped",
+    "username": "Pink Floyd",
+    "timestamp": 14712
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 14712,
+    "type": "album",
+    "filters": {
+      "name": "Soul Queen"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 14712,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 14712
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 19638,
+    "type": "song",
+    "filters": {
+      "name": "I Say a Little Prayer"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 19638,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 19638
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 19744,
+    "type": "song",
+    "filters": {
+      "name": "Do Right Woman, Do Right Man"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 19744,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 19744
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 19939,
+    "type": "song",
+    "filters": {
+      "name": "Eleanor Rigby"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 19939,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 19939
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 20016,
+    "type": "song",
+    "filters": {
+      "name": "Gentle On My Mind"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 20016,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 20016
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 20090,
+    "type": "song",
+    "filters": {
+      "name": "The House That Jack Built"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 20090,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 20090
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 20159,
+    "type": "song",
+    "filters": {
+      "name": "Baby, Baby, Baby"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 20159,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 20159
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 20243,
+    "type": "song",
+    "filters": {
+      "name": "Master Of Eyes (The Deepness Of Your Eyes)"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 20243,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 20243
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 20345,
+    "type": "song",
+    "filters": {
+      "name": "Ain't No Way"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 20345,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 20345
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 20471,
+    "type": "song",
+    "filters": {
+      "name": "Ain't Nothing Like The Real Thing"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 20471,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 20471
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 20584,
+    "type": "song",
+    "filters": {
+      "name": "Wholy Holy"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 20584,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 20584
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 20757,
+    "type": "song",
+    "filters": {
+      "name": "You And Me"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 20757,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 20757
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 20791,
+    "type": "song",
+    "filters": {
+      "name": "Baby I Love You"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 20791,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 20791
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 20869,
+    "type": "song",
+    "filters": {
+      "name": "I Say a Little Prayer"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 20869,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 20869
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 20975,
+    "type": "song",
+    "filters": {
+      "name": "My Song"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 20975,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 20975
+  },
+  {
+    "command": "wrapped",
+    "username": "Aretha Franklin",
+    "timestamp": 21076
+  },
+  {
+    "command": "wrapped",
+    "username": "The Rolling Stones",
+    "timestamp": 21076
+  },
+  {
+    "command": "wrapped",
+    "username": "Frank Sinatra",
+    "timestamp": 21076
+  },
+  {
+    "command": "wrapped",
+    "username": "grace25",
+    "timestamp": 21176
+  }
+]

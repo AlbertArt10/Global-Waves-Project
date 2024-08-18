@@ -1,0 +1,1101 @@
+[ {
+  "command" : "addUser",
+  "user" : "The Beatles",
+  "timestamp" : 1,
+  "message" : "The username The Beatles has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Michael Jackson",
+  "timestamp" : 1,
+  "message" : "The username Michael Jackson has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Nothing But Thieves",
+  "timestamp" : 1,
+  "message" : "The username Nothing But Thieves has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Bob Dylan",
+  "timestamp" : 1,
+  "message" : "The username Bob Dylan has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Madonna",
+  "timestamp" : 1,
+  "message" : "The username Madonna has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Queen",
+  "timestamp" : 1,
+  "message" : "The username Queen has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "The Rolling Stones",
+  "timestamp" : 1,
+  "message" : "The username The Rolling Stones has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "David Bowie",
+  "timestamp" : 1,
+  "message" : "The username David Bowie has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Prince",
+  "timestamp" : 1,
+  "message" : "The username Prince has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Whitney Houston",
+  "timestamp" : 1,
+  "message" : "The username Whitney Houston has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Elton John",
+  "timestamp" : 1,
+  "message" : "The username Elton John has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Led Zeppelin",
+  "timestamp" : 1,
+  "message" : "The username Led Zeppelin has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Stevie Wonder",
+  "timestamp" : 1,
+  "message" : "The username Stevie Wonder has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "BeyoncÃ©",
+  "timestamp" : 1,
+  "message" : "The username BeyoncÃ© has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Pink Floyd",
+  "timestamp" : 1,
+  "message" : "The username Pink Floyd has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "U2",
+  "timestamp" : 1,
+  "message" : "The username U2 has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "The Beach Boys",
+  "timestamp" : 1,
+  "message" : "The username The Beach Boys has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Frank Sinatra",
+  "timestamp" : 1,
+  "message" : "The username Frank Sinatra has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Johnny Cash",
+  "timestamp" : 1,
+  "message" : "The username Johnny Cash has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Adele",
+  "timestamp" : 1,
+  "message" : "The username Adele has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Bruce Springsteen",
+  "timestamp" : 1,
+  "message" : "The username Bruce Springsteen has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Jimi Hendrix",
+  "timestamp" : 1,
+  "message" : "The username Jimi Hendrix has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Nirvana",
+  "timestamp" : 1,
+  "message" : "The username Nirvana has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Dire Straits",
+  "timestamp" : 1,
+  "message" : "The username Dire Straits has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Imagine Dragons",
+  "timestamp" : 1,
+  "message" : "The username Imagine Dragons has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Eminem",
+  "timestamp" : 1,
+  "message" : "The username Eminem has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "ABBA",
+  "timestamp" : 1,
+  "message" : "The username ABBA has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Ray Charles",
+  "timestamp" : 1,
+  "message" : "The username Ray Charles has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "The Eagles",
+  "timestamp" : 1,
+  "message" : "The username The Eagles has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Bob Marley",
+  "timestamp" : 1,
+  "message" : "The username Bob Marley has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Taylor Swift",
+  "timestamp" : 1,
+  "message" : "The username Taylor Swift has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Aretha Franklin",
+  "timestamp" : 1,
+  "message" : "The username Aretha Franklin has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "The Who",
+  "timestamp" : 1,
+  "message" : "The username The Who has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Rihanna",
+  "timestamp" : 1,
+  "message" : "The username Rihanna has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Marvin Gaye",
+  "timestamp" : 1,
+  "message" : "The username Marvin Gaye has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Fleetwood Mac",
+  "timestamp" : 1,
+  "message" : "The username Fleetwood Mac has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "James Brown",
+  "timestamp" : 1,
+  "message" : "The username James Brown has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Radiohead",
+  "timestamp" : 1,
+  "message" : "The username Radiohead has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "The Doors",
+  "timestamp" : 1,
+  "message" : "The username The Doors has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Jay-Z",
+  "timestamp" : 1,
+  "message" : "The username Jay-Z has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Eric Clapton",
+  "timestamp" : 1,
+  "message" : "The username Eric Clapton has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Joni Mitchell",
+  "timestamp" : 1,
+  "message" : "The username Joni Mitchell has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "Chuck Berry",
+  "timestamp" : 1,
+  "message" : "The username Chuck Berry has been added successfully."
+}, {
+  "command" : "addUser",
+  "user" : "The Police",
+  "timestamp" : 1,
+  "message" : "The username The Police has been added successfully."
+}, {
+  "command" : "search",
+  "user" : "alice22",
+  "timestamp" : 10,
+  "message" : "Search returned 1 results",
+  "results" : [ "Michael Jackson" ]
+}, {
+  "command" : "select",
+  "user" : "alice22",
+  "timestamp" : 10,
+  "message" : "Successfully selected Michael Jackson's page."
+}, {
+  "command" : "subscribe",
+  "user" : "alice22",
+  "timestamp" : 10,
+  "message" : "alice22 subscribed to Michael Jackson successfully."
+}, {
+  "command" : "search",
+  "user" : "carol19",
+  "timestamp" : 50,
+  "message" : "Search returned 1 results",
+  "results" : [ "The Doors" ]
+}, {
+  "command" : "select",
+  "user" : "carol19",
+  "timestamp" : 50,
+  "message" : "Successfully selected The Doors's page."
+}, {
+  "command" : "subscribe",
+  "user" : "carol19",
+  "timestamp" : 50,
+  "message" : "carol19 subscribed to The Doors successfully."
+}, {
+  "command" : "search",
+  "user" : "jack29",
+  "timestamp" : 89,
+  "message" : "Search returned 1 results",
+  "results" : [ "Madonna" ]
+}, {
+  "command" : "select",
+  "user" : "jack29",
+  "timestamp" : 89,
+  "message" : "Successfully selected Madonna's page."
+}, {
+  "command" : "subscribe",
+  "user" : "jack29",
+  "timestamp" : 89,
+  "message" : "jack29 subscribed to Madonna successfully."
+}, {
+  "command" : "search",
+  "user" : "henry26",
+  "timestamp" : 170,
+  "message" : "Search returned 1 results",
+  "results" : [ "Pink Floyd" ]
+}, {
+  "command" : "select",
+  "user" : "henry26",
+  "timestamp" : 170,
+  "message" : "Successfully selected Pink Floyd's page."
+}, {
+  "command" : "subscribe",
+  "user" : "henry26",
+  "timestamp" : 170,
+  "message" : "henry26 subscribed to Pink Floyd successfully."
+}, {
+  "command" : "search",
+  "user" : "alice22",
+  "timestamp" : 193,
+  "message" : "Search returned 1 results",
+  "results" : [ "Jay-Z" ]
+}, {
+  "command" : "select",
+  "user" : "alice22",
+  "timestamp" : 193,
+  "message" : "Successfully selected Jay-Z's page."
+}, {
+  "command" : "subscribe",
+  "user" : "alice22",
+  "timestamp" : 193,
+  "message" : "alice22 subscribed to Jay-Z successfully."
+}, {
+  "command" : "search",
+  "user" : "grace25",
+  "timestamp" : 279,
+  "message" : "Search returned 1 results",
+  "results" : [ "Chuck Berry" ]
+}, {
+  "command" : "select",
+  "user" : "grace25",
+  "timestamp" : 279,
+  "message" : "Successfully selected Chuck Berry's page."
+}, {
+  "command" : "subscribe",
+  "user" : "grace25",
+  "timestamp" : 279,
+  "message" : "grace25 subscribed to Chuck Berry successfully."
+}, {
+  "command" : "search",
+  "user" : "alice22",
+  "timestamp" : 357,
+  "message" : "Search returned 1 results",
+  "results" : [ "Michael Jackson" ]
+}, {
+  "command" : "select",
+  "user" : "alice22",
+  "timestamp" : 357,
+  "message" : "Successfully selected Michael Jackson's page."
+}, {
+  "command" : "subscribe",
+  "user" : "alice22",
+  "timestamp" : 357,
+  "message" : "alice22 unsubscribed from Michael Jackson successfully."
+}, {
+  "command" : "search",
+  "user" : "alice22",
+  "timestamp" : 406,
+  "message" : "Search returned 1 results",
+  "results" : [ "Nothing But Thieves" ]
+}, {
+  "command" : "select",
+  "user" : "alice22",
+  "timestamp" : 406,
+  "message" : "Successfully selected Nothing But Thieves's page."
+}, {
+  "command" : "subscribe",
+  "user" : "alice22",
+  "timestamp" : 406,
+  "message" : "alice22 subscribed to Nothing But Thieves successfully."
+}, {
+  "command" : "search",
+  "user" : "alice22",
+  "timestamp" : 475,
+  "message" : "Search returned 1 results",
+  "results" : [ "The Who" ]
+}, {
+  "command" : "select",
+  "user" : "alice22",
+  "timestamp" : 475,
+  "message" : "Successfully selected The Who's page."
+}, {
+  "command" : "subscribe",
+  "user" : "alice22",
+  "timestamp" : 475,
+  "message" : "alice22 subscribed to The Who successfully."
+}, {
+  "command" : "search",
+  "user" : "henry26",
+  "timestamp" : 497,
+  "message" : "Search returned 1 results",
+  "results" : [ "Joni Mitchell" ]
+}, {
+  "command" : "select",
+  "user" : "henry26",
+  "timestamp" : 497,
+  "message" : "Successfully selected Joni Mitchell's page."
+}, {
+  "command" : "subscribe",
+  "user" : "henry26",
+  "timestamp" : 497,
+  "message" : "henry26 subscribed to Joni Mitchell successfully."
+}, {
+  "command" : "search",
+  "user" : "henry26",
+  "timestamp" : 585,
+  "message" : "Search returned 1 results",
+  "results" : [ "Fleetwood Mac" ]
+}, {
+  "command" : "select",
+  "user" : "henry26",
+  "timestamp" : 585,
+  "message" : "Successfully selected Fleetwood Mac's page."
+}, {
+  "command" : "subscribe",
+  "user" : "henry26",
+  "timestamp" : 585,
+  "message" : "henry26 subscribed to Fleetwood Mac successfully."
+}, {
+  "command" : "search",
+  "user" : "henry26",
+  "timestamp" : 657,
+  "message" : "Search returned 1 results",
+  "results" : [ "Rihanna" ]
+}, {
+  "command" : "select",
+  "user" : "henry26",
+  "timestamp" : 657,
+  "message" : "Successfully selected Rihanna's page."
+}, {
+  "command" : "subscribe",
+  "user" : "henry26",
+  "timestamp" : 657,
+  "message" : "henry26 subscribed to Rihanna successfully."
+}, {
+  "command" : "search",
+  "user" : "carol19",
+  "timestamp" : 696,
+  "message" : "Search returned 1 results",
+  "results" : [ "Eric Clapton" ]
+}, {
+  "command" : "select",
+  "user" : "carol19",
+  "timestamp" : 696,
+  "message" : "Successfully selected Eric Clapton's page."
+}, {
+  "command" : "subscribe",
+  "user" : "carol19",
+  "timestamp" : 696,
+  "message" : "carol19 subscribed to Eric Clapton successfully."
+}, {
+  "command" : "search",
+  "user" : "grace25",
+  "timestamp" : 718,
+  "message" : "Search returned 1 results",
+  "results" : [ "Aretha Franklin" ]
+}, {
+  "command" : "select",
+  "user" : "grace25",
+  "timestamp" : 718,
+  "message" : "Successfully selected Aretha Franklin's page."
+}, {
+  "command" : "subscribe",
+  "user" : "grace25",
+  "timestamp" : 718,
+  "message" : "grace25 subscribed to Aretha Franklin successfully."
+}, {
+  "command" : "search",
+  "user" : "carol19",
+  "timestamp" : 797,
+  "message" : "Search returned 1 results",
+  "results" : [ "Bob Dylan" ]
+}, {
+  "command" : "select",
+  "user" : "carol19",
+  "timestamp" : 797,
+  "message" : "Successfully selected Bob Dylan's page."
+}, {
+  "command" : "subscribe",
+  "user" : "carol19",
+  "timestamp" : 797,
+  "message" : "carol19 subscribed to Bob Dylan successfully."
+}, {
+  "command" : "search",
+  "user" : "henry26",
+  "timestamp" : 831,
+  "message" : "Search returned 1 results",
+  "results" : [ "Bob Dylan" ]
+}, {
+  "command" : "select",
+  "user" : "henry26",
+  "timestamp" : 831,
+  "message" : "Successfully selected Bob Dylan's page."
+}, {
+  "command" : "subscribe",
+  "user" : "henry26",
+  "timestamp" : 831,
+  "message" : "henry26 subscribed to Bob Dylan successfully."
+}, {
+  "command" : "search",
+  "user" : "alice22",
+  "timestamp" : 887,
+  "message" : "Search returned 1 results",
+  "results" : [ "Madonna" ]
+}, {
+  "command" : "select",
+  "user" : "alice22",
+  "timestamp" : 887,
+  "message" : "Successfully selected Madonna's page."
+}, {
+  "command" : "subscribe",
+  "user" : "alice22",
+  "timestamp" : 887,
+  "message" : "alice22 subscribed to Madonna successfully."
+}, {
+  "command" : "search",
+  "user" : "grace25",
+  "timestamp" : 970,
+  "message" : "Search returned 1 results",
+  "results" : [ "Frank Sinatra" ]
+}, {
+  "command" : "select",
+  "user" : "grace25",
+  "timestamp" : 970,
+  "message" : "Successfully selected Frank Sinatra's page."
+}, {
+  "command" : "subscribe",
+  "user" : "grace25",
+  "timestamp" : 970,
+  "message" : "grace25 subscribed to Frank Sinatra successfully."
+}, {
+  "command" : "search",
+  "user" : "grace25",
+  "timestamp" : 1002,
+  "message" : "Search returned 1 results",
+  "results" : [ "James Brown" ]
+}, {
+  "command" : "select",
+  "user" : "grace25",
+  "timestamp" : 1002,
+  "message" : "Successfully selected James Brown's page."
+}, {
+  "command" : "subscribe",
+  "user" : "grace25",
+  "timestamp" : 1002,
+  "message" : "grace25 subscribed to James Brown successfully."
+}, {
+  "command" : "search",
+  "user" : "alice22",
+  "timestamp" : 1080,
+  "message" : "Search returned 1 results",
+  "results" : [ "The Police" ]
+}, {
+  "command" : "select",
+  "user" : "alice22",
+  "timestamp" : 1080,
+  "message" : "Successfully selected The Police's page."
+}, {
+  "command" : "subscribe",
+  "user" : "alice22",
+  "timestamp" : 1080,
+  "message" : "alice22 subscribed to The Police successfully."
+}, {
+  "command" : "addEvent",
+  "user" : "Rihanna",
+  "timestamp" : 1248,
+  "message" : "Rihanna has added new event successfully."
+}, {
+  "command" : "addMerch",
+  "user" : "Nothing But Thieves",
+  "timestamp" : 1476,
+  "message" : "Nothing But Thieves has added new merchandise successfully."
+}, {
+  "command" : "removeAlbum",
+  "user" : "Bob Dylan",
+  "timestamp" : 1582,
+  "message" : "Bob Dylan doesn't have an album with the given name."
+}, {
+  "command" : "removeAlbum",
+  "user" : "Bob Dylan",
+  "timestamp" : 1726,
+  "message" : "Bob Dylan doesn't have an album with the given name."
+}, {
+  "command" : "addAlbum",
+  "user" : "Bob Dylan",
+  "timestamp" : 1732,
+  "message" : "Bob Dylan has added new album successfully."
+}, {
+  "command" : "removeAlbum",
+  "user" : "Madonna",
+  "timestamp" : 1737,
+  "message" : "Madonna doesn't have an album with the given name."
+}, {
+  "command" : "addAlbum",
+  "user" : "Bob Dylan",
+  "timestamp" : 1876,
+  "message" : "Bob Dylan has added new album successfully."
+}, {
+  "command" : "addAlbum",
+  "user" : "Madonna",
+  "timestamp" : 1887,
+  "message" : "Madonna has added new album successfully."
+}, {
+  "command" : "addMerch",
+  "user" : "Aretha Franklin",
+  "timestamp" : 2023,
+  "message" : "Aretha Franklin has added new merchandise successfully."
+}, {
+  "command" : "removeAlbum",
+  "user" : "Aretha Franklin",
+  "timestamp" : 2097,
+  "message" : "Aretha Franklin doesn't have an album with the given name."
+}, {
+  "command" : "removeAlbum",
+  "user" : "Aretha Franklin",
+  "timestamp" : 2233,
+  "message" : "Aretha Franklin doesn't have an album with the given name."
+}, {
+  "command" : "addAlbum",
+  "user" : "Aretha Franklin",
+  "timestamp" : 2247,
+  "message" : "Aretha Franklin has added new album successfully."
+}, {
+  "command" : "addAlbum",
+  "user" : "Aretha Franklin",
+  "timestamp" : 2383,
+  "message" : "Aretha Franklin has added new album successfully."
+}, {
+  "command" : "removeAlbum",
+  "user" : "The Who",
+  "timestamp" : 2422,
+  "message" : "The Who doesn't have an album with the given name."
+}, {
+  "command" : "addAlbum",
+  "user" : "The Who",
+  "timestamp" : 2572,
+  "message" : "The Who has added new album successfully."
+}, {
+  "command" : "removeAlbum",
+  "user" : "James Brown",
+  "timestamp" : 2577,
+  "message" : "James Brown doesn't have an album with the given name."
+}, {
+  "command" : "addAlbum",
+  "user" : "James Brown",
+  "timestamp" : 2727,
+  "message" : "James Brown has added new album successfully."
+}, {
+  "command" : "removeAlbum",
+  "user" : "The Doors",
+  "timestamp" : 2845,
+  "message" : "The Doors doesn't have an album with the given name."
+}, {
+  "command" : "addMerch",
+  "user" : "The Police",
+  "timestamp" : 2868,
+  "message" : "The Police has added new merchandise successfully."
+}, {
+  "command" : "addAlbum",
+  "user" : "The Doors",
+  "timestamp" : 2995,
+  "message" : "The Doors has added new album successfully."
+}, {
+  "command" : "removeAlbum",
+  "user" : "Frank Sinatra",
+  "timestamp" : 3107,
+  "message" : "Frank Sinatra doesn't have an album with the given name."
+}, {
+  "command" : "removeAlbum",
+  "user" : "The Police",
+  "timestamp" : 3199,
+  "message" : "The Police doesn't have an album with the given name."
+}, {
+  "command" : "addAlbum",
+  "user" : "Frank Sinatra",
+  "timestamp" : 3257,
+  "message" : "Frank Sinatra has added new album successfully."
+}, {
+  "command" : "addAlbum",
+  "user" : "The Police",
+  "timestamp" : 3349,
+  "message" : "The Police has added new album successfully."
+}, {
+  "command" : "addEvent",
+  "user" : "Michael Jackson",
+  "timestamp" : 3354,
+  "message" : "Michael Jackson has added new event successfully."
+}, {
+  "command" : "addMerch",
+  "user" : "Madonna",
+  "timestamp" : 3692,
+  "message" : "Madonna has added new merchandise successfully."
+}, {
+  "command" : "addMerch",
+  "user" : "Michael Jackson",
+  "timestamp" : 3718,
+  "message" : "Michael Jackson has added new merchandise successfully."
+}, {
+  "command" : "getNotifications",
+  "user" : "jack29",
+  "timestamp" : 3726,
+  "notifications" : [ {
+    "name" : "New Album",
+    "description" : "New Album from Madonna."
+  }, {
+    "name" : "New Merchandise",
+    "description" : "New Merchandise from Madonna."
+  } ]
+}, {
+  "command" : "removeAlbum",
+  "user" : "Eric Clapton",
+  "timestamp" : 3979,
+  "message" : "Eric Clapton doesn't have an album with the given name."
+}, {
+  "command" : "addMerch",
+  "user" : "Fleetwood Mac",
+  "timestamp" : 4030,
+  "message" : "Fleetwood Mac has added new merchandise successfully."
+}, {
+  "command" : "addAlbum",
+  "user" : "Eric Clapton",
+  "timestamp" : 4129,
+  "message" : "Eric Clapton has added new album successfully."
+}, {
+  "command" : "removeAlbum",
+  "user" : "Bob Dylan",
+  "timestamp" : 4191,
+  "message" : "Bob Dylan deleted the album successfully."
+}, {
+  "command" : "addAlbum",
+  "user" : "Bob Dylan",
+  "timestamp" : 4341,
+  "message" : "Bob Dylan has added new album successfully."
+}, {
+  "command" : "removeAlbum",
+  "user" : "The Who",
+  "timestamp" : 4407,
+  "message" : "The Who doesn't have an album with the given name."
+}, {
+  "command" : "addMerch",
+  "user" : "Madonna",
+  "timestamp" : 4501,
+  "message" : "Madonna has added new merchandise successfully."
+}, {
+  "command" : "addAlbum",
+  "user" : "The Who",
+  "timestamp" : 4557,
+  "message" : "The Who has added new album successfully."
+}, {
+  "command" : "removeAlbum",
+  "user" : "Joni Mitchell",
+  "timestamp" : 4614,
+  "message" : "Joni Mitchell doesn't have an album with the given name."
+}, {
+  "command" : "addAlbum",
+  "user" : "Joni Mitchell",
+  "timestamp" : 4764,
+  "message" : "Joni Mitchell has added new album successfully."
+}, {
+  "command" : "getNotifications",
+  "user" : "henry26",
+  "timestamp" : 4811,
+  "notifications" : [ {
+    "name" : "New Event",
+    "description" : "New Event from Rihanna."
+  }, {
+    "name" : "New Album",
+    "description" : "New Album from Bob Dylan."
+  }, {
+    "name" : "New Album",
+    "description" : "New Album from Bob Dylan."
+  }, {
+    "name" : "New Merchandise",
+    "description" : "New Merchandise from Fleetwood Mac."
+  }, {
+    "name" : "New Album",
+    "description" : "New Album from Bob Dylan."
+  }, {
+    "name" : "New Album",
+    "description" : "New Album from Joni Mitchell."
+  } ]
+}, {
+  "command" : "getNotifications",
+  "user" : "jack29",
+  "timestamp" : 5034,
+  "notifications" : [ {
+    "name" : "New Merchandise",
+    "description" : "New Merchandise from Madonna."
+  } ]
+}, {
+  "command" : "addMerch",
+  "user" : "The Doors",
+  "timestamp" : 5131,
+  "message" : "The Doors has added new merchandise successfully."
+}, {
+  "command" : "addMerch",
+  "user" : "James Brown",
+  "timestamp" : 5149,
+  "message" : "James Brown has added new merchandise successfully."
+}, {
+  "command" : "addEvent",
+  "user" : "Aretha Franklin",
+  "timestamp" : 5924,
+  "message" : "Aretha Franklin has added new event successfully."
+}, {
+  "command" : "addMerch",
+  "user" : "The Police",
+  "timestamp" : 6236,
+  "message" : "The Police has merchandise with the same name."
+}, {
+  "command" : "removeAlbum",
+  "user" : "The Who",
+  "timestamp" : 6297,
+  "message" : "The Who doesn't have an album with the given name."
+}, {
+  "command" : "removeAlbum",
+  "user" : "Bob Dylan",
+  "timestamp" : 6378,
+  "message" : "Bob Dylan deleted the album successfully."
+}, {
+  "command" : "addMerch",
+  "user" : "Fleetwood Mac",
+  "timestamp" : 6411,
+  "message" : "Fleetwood Mac has merchandise with the same name."
+}, {
+  "command" : "addAlbum",
+  "user" : "The Who",
+  "timestamp" : 6447,
+  "message" : "The Who has added new album successfully."
+}, {
+  "command" : "addAlbum",
+  "user" : "Bob Dylan",
+  "timestamp" : 6528,
+  "message" : "Bob Dylan has added new album successfully."
+}, {
+  "command" : "getNotifications",
+  "user" : "carol19",
+  "timestamp" : 6546,
+  "notifications" : [ {
+    "name" : "New Album",
+    "description" : "New Album from Bob Dylan."
+  }, {
+    "name" : "New Album",
+    "description" : "New Album from Bob Dylan."
+  }, {
+    "name" : "New Album",
+    "description" : "New Album from The Doors."
+  }, {
+    "name" : "New Album",
+    "description" : "New Album from Eric Clapton."
+  }, {
+    "name" : "New Album",
+    "description" : "New Album from Bob Dylan."
+  }, {
+    "name" : "New Merchandise",
+    "description" : "New Merchandise from The Doors."
+  }, {
+    "name" : "New Album",
+    "description" : "New Album from Bob Dylan."
+  } ]
+}, {
+  "command" : "getNotifications",
+  "user" : "grace25",
+  "timestamp" : 6631,
+  "notifications" : [ {
+    "name" : "New Merchandise",
+    "description" : "New Merchandise from Aretha Franklin."
+  }, {
+    "name" : "New Album",
+    "description" : "New Album from Aretha Franklin."
+  }, {
+    "name" : "New Album",
+    "description" : "New Album from Aretha Franklin."
+  }, {
+    "name" : "New Album",
+    "description" : "New Album from James Brown."
+  }, {
+    "name" : "New Album",
+    "description" : "New Album from Frank Sinatra."
+  }, {
+    "name" : "New Merchandise",
+    "description" : "New Merchandise from James Brown."
+  }, {
+    "name" : "New Event",
+    "description" : "New Event from Aretha Franklin."
+  } ]
+}, {
+  "command" : "getNotifications",
+  "user" : "grace25",
+  "timestamp" : 7090,
+  "notifications" : [ ]
+}, {
+  "command" : "addEvent",
+  "user" : "Bob Dylan",
+  "timestamp" : 7124,
+  "message" : "Bob Dylan has added new event successfully."
+}, {
+  "command" : "removeAlbum",
+  "user" : "Madonna",
+  "timestamp" : 7134,
+  "message" : "Madonna doesn't have an album with the given name."
+}, {
+  "command" : "addMerch",
+  "user" : "Eric Clapton",
+  "timestamp" : 7168,
+  "message" : "Eric Clapton has added new merchandise successfully."
+}, {
+  "command" : "addAlbum",
+  "user" : "Madonna",
+  "timestamp" : 7284,
+  "message" : "Madonna has added new album successfully."
+}, {
+  "command" : "removeAlbum",
+  "user" : "Jay-Z",
+  "timestamp" : 7289,
+  "message" : "Jay-Z doesn't have an album with the given name."
+}, {
+  "command" : "removeAlbum",
+  "user" : "Jay-Z",
+  "timestamp" : 7371,
+  "message" : "Jay-Z doesn't have an album with the given name."
+}, {
+  "command" : "getNotifications",
+  "user" : "grace25",
+  "timestamp" : 7397,
+  "notifications" : [ ]
+}, {
+  "command" : "addAlbum",
+  "user" : "Jay-Z",
+  "timestamp" : 7439,
+  "message" : "Jay-Z has added new album successfully."
+}, {
+  "command" : "addAlbum",
+  "user" : "Jay-Z",
+  "timestamp" : 7521,
+  "message" : "Jay-Z has added new album successfully."
+}, {
+  "command" : "addMerch",
+  "user" : "Pink Floyd",
+  "timestamp" : 7587,
+  "message" : "Pink Floyd has added new merchandise successfully."
+}, {
+  "command" : "getNotifications",
+  "user" : "alice22",
+  "timestamp" : 7756,
+  "notifications" : [ {
+    "name" : "New Merchandise",
+    "description" : "New Merchandise from Nothing But Thieves."
+  }, {
+    "name" : "New Album",
+    "description" : "New Album from Madonna."
+  }, {
+    "name" : "New Album",
+    "description" : "New Album from The Who."
+  }, {
+    "name" : "New Merchandise",
+    "description" : "New Merchandise from The Police."
+  }, {
+    "name" : "New Album",
+    "description" : "New Album from The Police."
+  }, {
+    "name" : "New Merchandise",
+    "description" : "New Merchandise from Madonna."
+  }, {
+    "name" : "New Merchandise",
+    "description" : "New Merchandise from Madonna."
+  }, {
+    "name" : "New Album",
+    "description" : "New Album from The Who."
+  }, {
+    "name" : "New Album",
+    "description" : "New Album from The Who."
+  }, {
+    "name" : "New Album",
+    "description" : "New Album from Madonna."
+  }, {
+    "name" : "New Album",
+    "description" : "New Album from Jay-Z."
+  }, {
+    "name" : "New Album",
+    "description" : "New Album from Jay-Z."
+  } ]
+}, {
+  "command" : "removeAlbum",
+  "user" : "Chuck Berry",
+  "timestamp" : 7873,
+  "message" : "Chuck Berry doesn't have an album with the given name."
+}, {
+  "command" : "removeAlbum",
+  "user" : "Pink Floyd",
+  "timestamp" : 7990,
+  "message" : "Pink Floyd doesn't have an album with the given name."
+}, {
+  "command" : "addAlbum",
+  "user" : "Chuck Berry",
+  "timestamp" : 8023,
+  "message" : "Chuck Berry has added new album successfully."
+}, {
+  "command" : "removeAlbum",
+  "user" : "The Police",
+  "timestamp" : 8045,
+  "message" : "The Police deleted the album successfully."
+}, {
+  "command" : "addAlbum",
+  "user" : "Pink Floyd",
+  "timestamp" : 8140,
+  "message" : "Pink Floyd has added new album successfully."
+}, {
+  "command" : "removeAlbum",
+  "user" : "Frank Sinatra",
+  "timestamp" : 8161,
+  "message" : "Frank Sinatra deleted the album successfully."
+}, {
+  "command" : "addAlbum",
+  "user" : "The Police",
+  "timestamp" : 8195,
+  "message" : "The Police has added new album successfully."
+}, {
+  "command" : "addAlbum",
+  "user" : "Frank Sinatra",
+  "timestamp" : 8311,
+  "message" : "Frank Sinatra has added new album successfully."
+}, {
+  "command" : "removeAlbum",
+  "user" : "Fleetwood Mac",
+  "timestamp" : 8400,
+  "message" : "Fleetwood Mac doesn't have an album with the given name."
+}, {
+  "command" : "addAlbum",
+  "user" : "Fleetwood Mac",
+  "timestamp" : 8550,
+  "message" : "Fleetwood Mac has added new album successfully."
+}, {
+  "command" : "removeAlbum",
+  "user" : "The Police",
+  "timestamp" : 8687,
+  "message" : "The Police deleted the album successfully."
+}, {
+  "command" : "getNotifications",
+  "user" : "jack29",
+  "timestamp" : 8769,
+  "notifications" : [ {
+    "name" : "New Album",
+    "description" : "New Album from Madonna."
+  } ]
+}, {
+  "command" : "addAlbum",
+  "user" : "The Police",
+  "timestamp" : 8837,
+  "message" : "The Police has added new album successfully."
+}, {
+  "command" : "removeAlbum",
+  "user" : "Fleetwood Mac",
+  "timestamp" : 8983,
+  "message" : "Fleetwood Mac deleted the album successfully."
+}, {
+  "command" : "addEvent",
+  "user" : "Madonna",
+  "timestamp" : 8999,
+  "message" : "Madonna has added new event successfully."
+}, {
+  "command" : "addAlbum",
+  "user" : "Fleetwood Mac",
+  "timestamp" : 9133,
+  "message" : "Fleetwood Mac has added new album successfully."
+}, {
+  "command" : "getNotifications",
+  "user" : "alice22",
+  "timestamp" : 9133,
+  "notifications" : [ {
+    "name" : "New Album",
+    "description" : "New Album from The Police."
+  }, {
+    "name" : "New Album",
+    "description" : "New Album from The Police."
+  }, {
+    "name" : "New Event",
+    "description" : "New Event from Madonna."
+  } ]
+}, {
+  "command" : "removeAlbum",
+  "user" : "Aretha Franklin",
+  "timestamp" : 9361,
+  "message" : "Aretha Franklin deleted the album successfully."
+}, {
+  "command" : "addMerch",
+  "user" : "Michael Jackson",
+  "timestamp" : 9457,
+  "message" : "Michael Jackson has merchandise with the same name."
+}, {
+  "command" : "addMerch",
+  "user" : "The Police",
+  "timestamp" : 9507,
+  "message" : "The Police has added new merchandise successfully."
+}, {
+  "command" : "addAlbum",
+  "user" : "Aretha Franklin",
+  "timestamp" : 9511,
+  "message" : "Aretha Franklin has added new album successfully."
+}, {
+  "command" : "addMerch",
+  "user" : "Fleetwood Mac",
+  "timestamp" : 9850,
+  "message" : "Fleetwood Mac has added new merchandise successfully."
+}, {
+  "command" : "removeAlbum",
+  "user" : "Bob Dylan",
+  "timestamp" : 9926,
+  "message" : "Bob Dylan deleted the album successfully."
+}, {
+  "command" : "addEvent",
+  "user" : "Eric Clapton",
+  "timestamp" : 9995,
+  "message" : "Eric Clapton has added new event successfully."
+}, {
+  "command" : "addAlbum",
+  "user" : "Bob Dylan",
+  "timestamp" : 10076,
+  "message" : "Bob Dylan has added new album successfully."
+}, {
+  "command" : "endProgram",
+  "result" : { }
+} ]

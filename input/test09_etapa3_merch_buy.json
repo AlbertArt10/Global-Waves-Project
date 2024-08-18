@@ -1,0 +1,533 @@
+[
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Beatles"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Michael Jackson"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Nothing But Thieves"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Bob Dylan"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Madonna"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Queen"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Rolling Stones"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "David Bowie"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Prince"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Whitney Houston"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Elton John"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Led Zeppelin"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Stevie Wonder"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Beyonc\u00c3\u00a9"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Pink Floyd"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "U2"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Beach Boys"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Frank Sinatra"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Johnny Cash"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Adele"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Bruce Springsteen"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Jimi Hendrix"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Nirvana"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Dire Straits"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Imagine Dragons"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Eminem"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "ABBA"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Ray Charles"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Eagles"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Bob Marley"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Taylor Swift"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Aretha Franklin"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Who"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Rihanna"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Marvin Gaye"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Fleetwood Mac"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "James Brown"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Radiohead"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Doors"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Jay-Z"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Eric Clapton"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Joni Mitchell"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Chuck Berry"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Police"
+  },
+  {
+    "command": "addMerch",
+    "username": "Elton John",
+    "name": "Elton John Vinyl Record",
+    "timestamp": 1699,
+    "price": 1400
+  },
+  {
+    "command": "search",
+    "username": "emily30",
+    "timestamp": 2137,
+    "type": "artist",
+    "filters": {
+      "name": "Nothing But Thieves"
+    }
+  },
+  {
+    "command": "select",
+    "username": "emily30",
+    "timestamp": 2137,
+    "itemNumber": 1
+  },
+  {
+    "command": "buyMerch",
+    "username": "emily30",
+    "timestamp": 2137,
+    "name": "Nothing But Thieves Vinyl Record"
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 2271,
+    "type": "artist",
+    "filters": {
+      "name": "Whitney Houston"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 2271,
+    "itemNumber": 1
+  },
+  {
+    "command": "buyMerch",
+    "username": "david27",
+    "timestamp": 2271,
+    "name": "Whitney Houston Album"
+  },
+  {
+    "command": "seeMerch",
+    "username": "emily30",
+    "timestamp": 2287
+  },
+  {
+    "command": "seeMerch",
+    "username": "david27",
+    "timestamp": 2421
+  },
+  {
+    "command": "addMerch",
+    "username": "Led Zeppelin",
+    "name": "Led Zeppelin's Cap",
+    "timestamp": 2888,
+    "price": 5000
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 3155,
+    "type": "artist",
+    "filters": {
+      "name": "Nothing But Thieves"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 3155,
+    "itemNumber": 1
+  },
+  {
+    "command": "buyMerch",
+    "username": "grace25",
+    "timestamp": 3155,
+    "name": "Nothing But Thieves Vinyl Record"
+  },
+  {
+    "command": "seeMerch",
+    "username": "grace25",
+    "timestamp": 3305
+  },
+  {
+    "command": "addMerch",
+    "username": "Nothing But Thieves",
+    "name": "Nothing But Thieves Vinyl Record",
+    "timestamp": 4175,
+    "price": 2500
+  },
+  {
+    "command": "addMerch",
+    "username": "Madonna",
+    "name": "Madonna T-Shirt",
+    "timestamp": 4553,
+    "price": 9900
+  },
+  {
+    "command": "addMerch",
+    "username": "Whitney Houston",
+    "name": "Whitney Houston Album",
+    "timestamp": 4563,
+    "price": 8300
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 4721,
+    "type": "artist",
+    "filters": {
+      "name": "Elton John"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 4721,
+    "itemNumber": 1
+  },
+  {
+    "command": "buyMerch",
+    "username": "jack29",
+    "timestamp": 4721,
+    "name": "Elton John Vinyl Record"
+  },
+  {
+    "command": "seeMerch",
+    "username": "jack29",
+    "timestamp": 4871
+  },
+  {
+    "command": "addMerch",
+    "username": "Bruce Springsteen",
+    "name": "Bruce Springsteen T-Shirt",
+    "timestamp": 6557,
+    "price": 4500
+  },
+  {
+    "command": "addMerch",
+    "username": "Nirvana",
+    "name": "Nirvana Album",
+    "timestamp": 8385,
+    "price": 5600
+  },
+  {
+    "command": "search",
+    "username": "alice22",
+    "timestamp": 9720,
+    "type": "artist",
+    "filters": {
+      "name": "Nothing But Thieves"
+    }
+  },
+  {
+    "command": "select",
+    "username": "alice22",
+    "timestamp": 9720,
+    "itemNumber": 1
+  },
+  {
+    "command": "buyMerch",
+    "username": "alice22",
+    "timestamp": 9720,
+    "name": "Nothing But Thieves Vinyl Record"
+  },
+  {
+    "command": "seeMerch",
+    "username": "alice22",
+    "timestamp": 9870
+  }
+]

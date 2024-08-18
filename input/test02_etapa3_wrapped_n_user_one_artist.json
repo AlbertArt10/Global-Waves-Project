@@ -1,0 +1,1405 @@
+[
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Beatles"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Michael Jackson"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Nothing But Thieves"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Bob Dylan"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Madonna"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Queen"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Rolling Stones"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "David Bowie"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Prince"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Whitney Houston"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Elton John"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Led Zeppelin"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Stevie Wonder"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Beyonc\u00c3\u00a9"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Pink Floyd"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "U2"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Beach Boys"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Frank Sinatra"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Johnny Cash"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Adele"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Bruce Springsteen"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Jimi Hendrix"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Nirvana"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Dire Straits"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Imagine Dragons"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Eminem"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "ABBA"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Ray Charles"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Eagles"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Bob Marley"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Taylor Swift"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Aretha Franklin"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Who"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Rihanna"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Marvin Gaye"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Fleetwood Mac"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "James Brown"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Radiohead"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Doors"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Jay-Z"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Eric Clapton"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Joni Mitchell"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Chuck Berry"
+  },
+  {
+    "timestamp": 1,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "The Police"
+  },
+  {
+    "command": "addAlbum",
+    "username": "Radiohead",
+    "timestamp": 1,
+    "name": "The Bends",
+    "songs": [
+      {
+        "name": "Planet Telex",
+        "duration": 257,
+        "album": "The Bends",
+        "tags": [
+          "alternative",
+          "alternative rock",
+          "rock",
+          "90s",
+          "radiohead"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "The Bends",
+        "duration": 304,
+        "album": "The Bends",
+        "tags": [
+          "alternative",
+          "alternative rock",
+          "rock",
+          "90s",
+          "radiohead"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "High and Dry",
+        "duration": 255,
+        "album": "The Bends",
+        "tags": [
+          "alternative",
+          "alternative rock",
+          "rock",
+          "90s",
+          "radiohead"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "Fake Plastic Trees",
+        "duration": 289,
+        "album": "The Bends",
+        "tags": [
+          "alternative",
+          "alternative rock",
+          "rock",
+          "90s",
+          "radiohead"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "Bones",
+        "duration": 186,
+        "album": "The Bends",
+        "tags": [
+          "alternative",
+          "alternative rock",
+          "rock",
+          "90s",
+          "radiohead"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "(Nice Dream)",
+        "duration": 233,
+        "album": "The Bends",
+        "tags": [
+          "alternative",
+          "alternative rock",
+          "rock",
+          "90s",
+          "radiohead"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "Just",
+        "duration": 234,
+        "album": "The Bends",
+        "tags": [
+          "alternative",
+          "alternative rock",
+          "rock",
+          "90s",
+          "radiohead"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "My Iron Lung",
+        "duration": 275,
+        "album": "The Bends",
+        "tags": [
+          "alternative",
+          "alternative rock",
+          "rock",
+          "90s",
+          "radiohead"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "Bullet Proof..I Wish I Was",
+        "duration": 209,
+        "album": "The Bends",
+        "tags": [
+          "alternative",
+          "alternative rock",
+          "rock",
+          "90s",
+          "radiohead"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "Black Star",
+        "duration": 245,
+        "album": "The Bends",
+        "tags": [
+          "alternative",
+          "alternative rock",
+          "rock",
+          "90s",
+          "radiohead"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "Sulk",
+        "duration": 223,
+        "album": "The Bends",
+        "tags": [
+          "alternative",
+          "alternative rock",
+          "rock",
+          "90s",
+          "radiohead"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "Street Spirit (Fade Out)",
+        "duration": 250,
+        "album": "The Bends",
+        "tags": [
+          "alternative",
+          "alternative rock",
+          "rock",
+          "90s",
+          "radiohead"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      }
+    ],
+    "description": "The Bends, released on 13 March 1995 in the United Kingdom and on 4 April 1995 in the United States, is the second studio album released by the English rock band Radiohead. The album was dedicated to the late comedian Bill Hicks. The album contains singles \"High and Dry\", \"Fake Plastic Trees\", \"Just\", \"My Iron Lung\", and \"Street Spirit (Fade Out)\". The Bends was ranked number 110 on Rolling Stone's 500 Greatest Albums of All Time, and number 2 on Q's 100 Greatest Albums Ever. The album was subject to much greater critical acclaim than their debut Pablo Honey (1993), <a href=\"https://www.last.fm/music/Radiohead/The+Bends\">Read more on Last.fm</a>.",
+    "releaseYear": 2022
+  },
+  {
+    "command": "addAlbum",
+    "username": "Radiohead",
+    "timestamp": 1,
+    "name": "OK Computer",
+    "songs": [
+      {
+        "name": "Airbag",
+        "duration": 275,
+        "album": "OK Computer",
+        "tags": [
+          "alternative",
+          "alternative rock",
+          "rock",
+          "radiohead",
+          "indie"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "Paranoid Android",
+        "duration": 399,
+        "album": "OK Computer",
+        "tags": [
+          "alternative",
+          "alternative rock",
+          "rock",
+          "radiohead",
+          "indie"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "Subterranean Homesick Alien",
+        "duration": 291,
+        "album": "OK Computer",
+        "tags": [
+          "alternative",
+          "alternative rock",
+          "rock",
+          "radiohead",
+          "indie"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "Exit Music (for a Film)",
+        "duration": 264,
+        "album": "OK Computer",
+        "tags": [
+          "alternative",
+          "alternative rock",
+          "rock",
+          "radiohead",
+          "indie"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "Let Down",
+        "duration": 294,
+        "album": "OK Computer",
+        "tags": [
+          "alternative",
+          "alternative rock",
+          "rock",
+          "radiohead",
+          "indie"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "Karma Police",
+        "duration": 289,
+        "album": "OK Computer",
+        "tags": [
+          "alternative",
+          "alternative rock",
+          "rock",
+          "radiohead",
+          "indie"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "Fitter Happier",
+        "duration": 117,
+        "album": "OK Computer",
+        "tags": [
+          "alternative",
+          "alternative rock",
+          "rock",
+          "radiohead",
+          "indie"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "Electioneering",
+        "duration": 231,
+        "album": "OK Computer",
+        "tags": [
+          "alternative",
+          "alternative rock",
+          "rock",
+          "radiohead",
+          "indie"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "Climbing Up the Walls",
+        "duration": 257,
+        "album": "OK Computer",
+        "tags": [
+          "alternative",
+          "alternative rock",
+          "rock",
+          "radiohead",
+          "indie"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "No Surprises",
+        "duration": 244,
+        "album": "OK Computer",
+        "tags": [
+          "alternative",
+          "alternative rock",
+          "rock",
+          "radiohead",
+          "indie"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "Lucky",
+        "duration": 245,
+        "album": "OK Computer",
+        "tags": [
+          "alternative",
+          "alternative rock",
+          "rock",
+          "radiohead",
+          "indie"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "The Tourist",
+        "duration": 323,
+        "album": "OK Computer",
+        "tags": [
+          "alternative",
+          "alternative rock",
+          "rock",
+          "radiohead",
+          "indie"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      }
+    ],
+    "description": "OK Computer is the third album by the English rock band Radiohead, released in 1997. It reached #1 on the UK Albums Chart and marked Radiohead's highest entry into the American market at the time, where it debuted at #21. OK Computer expanded the band's worldwide popularity, becoming the last Radiohead album to have a delayed release outside of the United Kingdom. As of 2007, it has been certified triple platinum in the UK and double platinum in the US. OK Computer included the singles \"Paranoid Android\", \"Karma Police\" and \"No Surprises\". The album was recorded in rural Oxfordshire and <a href=\"https://www.last.fm/music/Radiohead/OK+Computer\">Read more on Last.fm</a>.",
+    "releaseYear": 2022
+  },
+  {
+    "command": "addAlbum",
+    "username": "Radiohead",
+    "timestamp": 1,
+    "name": "Pablo Honey",
+    "songs": [
+      {
+        "name": "You",
+        "duration": 235,
+        "album": "Pablo Honey",
+        "tags": [
+          "alternative rock",
+          "alternative",
+          "rock",
+          "indie",
+          "radiohead"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative rock",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "Creep",
+        "duration": 235,
+        "album": "Pablo Honey",
+        "tags": [
+          "alternative rock",
+          "alternative",
+          "rock",
+          "indie",
+          "radiohead"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative rock",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "How Do You?",
+        "duration": 130,
+        "album": "Pablo Honey",
+        "tags": [
+          "alternative rock",
+          "alternative",
+          "rock",
+          "indie",
+          "radiohead"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative rock",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "Stop Whispering",
+        "duration": 382,
+        "album": "Pablo Honey",
+        "tags": [
+          "alternative rock",
+          "alternative",
+          "rock",
+          "indie",
+          "radiohead"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative rock",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "Thinking About You",
+        "duration": 175,
+        "album": "Pablo Honey",
+        "tags": [
+          "alternative rock",
+          "alternative",
+          "rock",
+          "indie",
+          "radiohead"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative rock",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "Anyone Can Play Guitar",
+        "duration": 214,
+        "album": "Pablo Honey",
+        "tags": [
+          "alternative rock",
+          "alternative",
+          "rock",
+          "indie",
+          "radiohead"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative rock",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "Ripcord",
+        "duration": 186,
+        "album": "Pablo Honey",
+        "tags": [
+          "alternative rock",
+          "alternative",
+          "rock",
+          "indie",
+          "radiohead"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative rock",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "Vegetable",
+        "duration": 231,
+        "album": "Pablo Honey",
+        "tags": [
+          "alternative rock",
+          "alternative",
+          "rock",
+          "indie",
+          "radiohead"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative rock",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "Prove Yourself",
+        "duration": 174,
+        "album": "Pablo Honey",
+        "tags": [
+          "alternative rock",
+          "alternative",
+          "rock",
+          "indie",
+          "radiohead"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative rock",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "I Can't",
+        "duration": 249,
+        "album": "Pablo Honey",
+        "tags": [
+          "alternative rock",
+          "alternative",
+          "rock",
+          "indie",
+          "radiohead"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative rock",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "Lurgee",
+        "duration": 213,
+        "album": "Pablo Honey",
+        "tags": [
+          "alternative rock",
+          "alternative",
+          "rock",
+          "indie",
+          "radiohead"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative rock",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "Blow Out",
+        "duration": 316,
+        "album": "Pablo Honey",
+        "tags": [
+          "alternative rock",
+          "alternative",
+          "rock",
+          "indie",
+          "radiohead"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative rock",
+        "releaseYear": 2022,
+        "artist": "Radiohead"
+      }
+    ],
+    "description": "Pablo Honey is the first studio album by English alternative rock band Radiohead, first released in early 1993. The album's title comes from a Jerky Boys prank call skit in which the prank caller says, \"Pablo, honey? Please come to Florida!\" to his victim. This snippet is sampled by the band in the song \"How Do You?\". The album includes the single \"Creep\", Radiohead's most well-known hit on mainstream radio. Pablo Honey peaked at #22 in the UK charts and went platinum there and in other countries. After a long dormancy while the members attended university, the band On a <a href=\"https://www.last.fm/music/Radiohead/Pablo+Honey\">Read more on Last.fm</a>.",
+    "releaseYear": 2022
+  },
+  {
+    "command": "addAlbum",
+    "username": "Radiohead",
+    "timestamp": 1,
+    "name": "In Rainbows",
+    "songs": [
+      {
+        "name": "15 Step",
+        "duration": 249,
+        "album": "In Rainbows",
+        "tags": [
+          "alternative",
+          "alternative rock",
+          "2007",
+          "rock",
+          "indie"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative",
+        "releaseYear": 2023,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "Bodysnatchers",
+        "duration": 262,
+        "album": "In Rainbows",
+        "tags": [
+          "alternative",
+          "alternative rock",
+          "2007",
+          "rock",
+          "indie"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative",
+        "releaseYear": 2023,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "Nude",
+        "duration": 253,
+        "album": "In Rainbows",
+        "tags": [
+          "alternative",
+          "alternative rock",
+          "2007",
+          "rock",
+          "indie"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative",
+        "releaseYear": 2023,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "Weird Fishes/Arpeggi",
+        "duration": 334,
+        "album": "In Rainbows",
+        "tags": [
+          "alternative",
+          "alternative rock",
+          "2007",
+          "rock",
+          "indie"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative",
+        "releaseYear": 2023,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "All I Need",
+        "duration": 284,
+        "album": "In Rainbows",
+        "tags": [
+          "alternative",
+          "alternative rock",
+          "2007",
+          "rock",
+          "indie"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative",
+        "releaseYear": 2023,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "Faust Arp",
+        "duration": 155,
+        "album": "In Rainbows",
+        "tags": [
+          "alternative",
+          "alternative rock",
+          "2007",
+          "rock",
+          "indie"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative",
+        "releaseYear": 2023,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "Reckoner",
+        "duration": 309,
+        "album": "In Rainbows",
+        "tags": [
+          "alternative",
+          "alternative rock",
+          "2007",
+          "rock",
+          "indie"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative",
+        "releaseYear": 2023,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "House of Cards",
+        "duration": 348,
+        "album": "In Rainbows",
+        "tags": [
+          "alternative",
+          "alternative rock",
+          "2007",
+          "rock",
+          "indie"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative",
+        "releaseYear": 2023,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "Jigsaw Falling Into Place",
+        "duration": 249,
+        "album": "In Rainbows",
+        "tags": [
+          "alternative",
+          "alternative rock",
+          "2007",
+          "rock",
+          "indie"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative",
+        "releaseYear": 2023,
+        "artist": "Radiohead"
+      },
+      {
+        "name": "Videotape",
+        "duration": 299,
+        "album": "In Rainbows",
+        "tags": [
+          "alternative",
+          "alternative rock",
+          "2007",
+          "rock",
+          "indie"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "alternative",
+        "releaseYear": 2023,
+        "artist": "Radiohead"
+      }
+    ],
+    "description": "In Rainbows is the seventh studio album by the English alternative rock band Radiohead. It was first released on October 10, 2007 as a digital download that customers could order for whatever price they saw fit, followed by a standard CD release in most countries during the last week of 2007. The album was released in North America on January 1, 2008. In Rainbows was Radiohead's first release after the end of their contract with EMI and the end of the longest gap between studio albums in their career. \"In Rainbows\" was recorded in London, Somerset, Wiltshire, and Oxfordshire with <a href=\"https://www.last.fm/music/Radiohead/In+Rainbows\">Read more on Last.fm</a>.",
+    "releaseYear": 2023
+  },
+  {
+    "command": "search",
+    "username": "alice22",
+    "timestamp": 10,
+    "type": "album",
+    "filters": {
+      "name": "The Bends"
+    }
+  },
+  {
+    "command": "select",
+    "username": "alice22",
+    "timestamp": 10,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "alice22",
+    "timestamp": 10
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 10,
+    "type": "album",
+    "filters": {
+      "name": "OK Computer"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 10,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 10
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 10,
+    "type": "album",
+    "filters": {
+      "name": "Pablo Honey"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 10,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 10
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 10,
+    "type": "song",
+    "filters": {
+      "name": "Reckoner"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 10,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 10
+  },
+  {
+    "command": "search",
+    "username": "irene33",
+    "timestamp": 10,
+    "type": "song",
+    "filters": {
+      "name": "Just"
+    }
+  },
+  {
+    "command": "select",
+    "username": "irene33",
+    "timestamp": 10,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "irene33",
+    "timestamp": 10
+  },
+  {
+    "command": "search",
+    "username": "emily30",
+    "timestamp": 10,
+    "type": "song",
+    "filters": {
+      "name": "Exit Music (for a Film)"
+    }
+  },
+  {
+    "command": "select",
+    "username": "emily30",
+    "timestamp": 10,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "emily30",
+    "timestamp": 10
+  },
+  {
+    "command": "search",
+    "username": "grace25",
+    "timestamp": 10,
+    "type": "song",
+    "filters": {
+      "name": "Exit Music (for a Film)"
+    }
+  },
+  {
+    "command": "select",
+    "username": "grace25",
+    "timestamp": 10,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "grace25",
+    "timestamp": 10
+  },
+  {
+    "command": "wrapped",
+    "username": "carol19",
+    "timestamp": 110
+  },
+  {
+    "command": "wrapped",
+    "username": "bob35",
+    "timestamp": 110
+  },
+  {
+    "command": "wrapped",
+    "username": "frank21",
+    "timestamp": 110
+  },
+  {
+    "command": "wrapped",
+    "username": "irene33",
+    "timestamp": 227
+  },
+  {
+    "command": "wrapped",
+    "username": "emily30",
+    "timestamp": 242
+  },
+  {
+    "command": "wrapped",
+    "username": "grace25",
+    "timestamp": 242
+  },
+  {
+    "command": "search",
+    "username": "henry26",
+    "timestamp": 319,
+    "type": "song",
+    "filters": {
+      "name": "Subterranean Homesick Alien"
+    }
+  },
+  {
+    "command": "select",
+    "username": "henry26",
+    "timestamp": 319,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "henry26",
+    "timestamp": 319
+  },
+  {
+    "command": "wrapped",
+    "username": "henry26",
+    "timestamp": 564
+  },
+  {
+    "command": "search",
+    "username": "david27",
+    "timestamp": 1380,
+    "type": "song",
+    "filters": {
+      "name": "Weird Fishes/Arpeggi"
+    }
+  },
+  {
+    "command": "select",
+    "username": "david27",
+    "timestamp": 1380,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "david27",
+    "timestamp": 1380
+  },
+  {
+    "command": "wrapped",
+    "username": "alice22",
+    "timestamp": 1590
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 1624,
+    "type": "album",
+    "filters": {
+      "name": "In Rainbows"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 1624,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 1624
+  },
+  {
+    "command": "wrapped",
+    "username": "david27",
+    "timestamp": 1647
+  },
+  {
+    "command": "search",
+    "username": "jack29",
+    "timestamp": 2995,
+    "type": "song",
+    "filters": {
+      "name": "(Nice Dream)"
+    }
+  },
+  {
+    "command": "select",
+    "username": "jack29",
+    "timestamp": 2995,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "jack29",
+    "timestamp": 2995
+  },
+  {
+    "command": "wrapped",
+    "username": "Radiohead",
+    "timestamp": 3111
+  },
+  {
+    "command": "wrapped",
+    "username": "jack29",
+    "timestamp": 3211
+  }
+]

@@ -1,0 +1,664 @@
+[
+  {
+    "command": "addAlbum",
+    "username": "Pink Floyd",
+    "timestamp": 1,
+    "name": "The Dark Side of the Moon",
+    "songs": [
+      {
+        "name": "Speak to Me",
+        "duration": 165,
+        "album": "The Dark Side of the Moon",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2023,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Breathe (In the Air)",
+        "duration": 170,
+        "album": "The Dark Side of the Moon",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2023,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "On the Run",
+        "duration": 308,
+        "album": "The Dark Side of the Moon",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2023,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Time",
+        "duration": 391,
+        "album": "The Dark Side of the Moon",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2023,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "The Great Gig in the Sky",
+        "duration": 410,
+        "album": "The Dark Side of the Moon",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2023,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Money",
+        "duration": 521,
+        "album": "The Dark Side of the Moon",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2023,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Us and Them",
+        "duration": 489,
+        "album": "The Dark Side of the Moon",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2023,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Any Colour You Like",
+        "duration": 490,
+        "album": "The Dark Side of the Moon",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2023,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Brain Damage",
+        "duration": 223,
+        "album": "The Dark Side of the Moon",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2023,
+        "artist": "Pink Floyd"
+      },
+      {
+        "name": "Eclipse",
+        "duration": 139,
+        "album": "The Dark Side of the Moon",
+        "tags": [
+          "progressive rock",
+          "psychedelic rock",
+          "classic rock",
+          "rock",
+          "pink floyd"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "progressive rock",
+        "releaseYear": 2023,
+        "artist": "Pink Floyd"
+      }
+    ],
+    "description": "The Dark Side of the Moon is the eighth studio album by English rock band Pink Floyd, released on 1 March 1973 by Harvest Records. The album built on ideas explored in earlier recordings and live shows, but lacks the extended instrumental excursions that characterized their earlier work. Its themes explore conflict, greed, the passage of time, and mental illness, the latter partly inspired by the deteriorating mental state of founding member and principal contributor, Syd Barrett. Developed during live performances, an early version was premiered several months before recording began; the new material was recorded in two sessions in <a href=\"https://www.last.fm/music/Pink+Floyd/The+Dark+Side+of+the+Moon\">Read more on Last.fm</a>.",
+    "releaseYear": 2023
+  },
+
+  {
+    "command": "addUser",
+    "timestamp": 10,
+    "type": "host",
+    "username": "TED-X",
+    "age": 70,
+    "city": "Los Angeles"
+  },
+  {
+    "command": "addPodcast",
+    "username": "TED-X",
+    "timestamp": 15,
+    "name": "Auditory Adventures",
+    "episodes": [
+      {
+        "name": "Exploring Sonic Landscapes",
+        "duration": 2700,
+        "description": "Journey through the world's most unique auditory experiences."
+      },
+      {
+        "name": "The Future of Music Technology",
+        "duration": 3200,
+        "description": "A look into the innovations shaping the future of music production and listening."
+      },
+      {
+        "name": "Cultural Beats",
+        "duration": 2900,
+        "description": "An exploration of how different cultures influence music genres."
+      }
+    ]
+  },
+  {
+    "timestamp": 20,
+    "command": "addUser",
+    "age": 69,
+    "city": "New York",
+    "type": "artist",
+    "username": "Queen"
+  },
+  {
+    "command": "addAlbum",
+    "username": "Queen",
+    "timestamp": 25,
+    "name": "Greatest Hits",
+    "songs": [
+      {
+        "name": "Bohemian Rhapsody",
+        "duration": 350,
+        "album": "Greatest Hits",
+        "tags": [
+          "classic rock",
+          "rock",
+          "queen",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2012,
+        "artist": "Queen"
+      },
+      {
+        "name": "Another One Bites the Dust",
+        "duration": 294,
+        "album": "Greatest Hits",
+        "tags": [
+          "classic rock",
+          "rock",
+          "queen",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2012,
+        "artist": "Queen"
+      },
+      {
+        "name": "Killer Queen",
+        "duration": 117,
+        "album": "Greatest Hits",
+        "tags": [
+          "classic rock",
+          "rock",
+          "queen",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2012,
+        "artist": "Queen"
+      },
+      {
+        "name": "Fat Bottomed Girls",
+        "duration": 252,
+        "album": "Greatest Hits",
+        "tags": [
+          "classic rock",
+          "rock",
+          "queen",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2012,
+        "artist": "Queen"
+      },
+      {
+        "name": "Bicycle Race",
+        "duration": 181,
+        "album": "Greatest Hits",
+        "tags": [
+          "classic rock",
+          "rock",
+          "queen",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2012,
+        "artist": "Queen"
+      },
+      {
+        "name": "You're My Best Friend",
+        "duration": 154,
+        "album": "Greatest Hits",
+        "tags": [
+          "classic rock",
+          "rock",
+          "queen",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2012,
+        "artist": "Queen"
+      },
+      {
+        "name": "Don't Stop Me Now",
+        "duration": 206,
+        "album": "Greatest Hits",
+        "tags": [
+          "classic rock",
+          "rock",
+          "queen",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2012,
+        "artist": "Queen"
+      },
+      {
+        "name": "Save Me",
+        "duration": 222,
+        "album": "Greatest Hits",
+        "tags": [
+          "classic rock",
+          "rock",
+          "queen",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2012,
+        "artist": "Queen"
+      },
+      {
+        "name": "Crazy Little Thing Called Love",
+        "duration": 387,
+        "album": "Greatest Hits",
+        "tags": [
+          "classic rock",
+          "rock",
+          "queen",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2012,
+        "artist": "Queen"
+      },
+      {
+        "name": "Somebody to Love",
+        "duration": 426,
+        "album": "Greatest Hits",
+        "tags": [
+          "classic rock",
+          "rock",
+          "queen",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2012,
+        "artist": "Queen"
+      },
+      {
+        "name": "Now I'm Here",
+        "duration": 379,
+        "album": "Greatest Hits",
+        "tags": [
+          "classic rock",
+          "rock",
+          "queen",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2012,
+        "artist": "Queen"
+      },
+      {
+        "name": "Good Old-Fashioned Lover Boy",
+        "duration": 173,
+        "album": "Greatest Hits",
+        "tags": [
+          "classic rock",
+          "rock",
+          "queen",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2012,
+        "artist": "Queen"
+      },
+      {
+        "name": "Play the Game",
+        "duration": 241,
+        "album": "Greatest Hits",
+        "tags": [
+          "classic rock",
+          "rock",
+          "queen",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2012,
+        "artist": "Queen"
+      },
+      {
+        "name": "Flash",
+        "duration": 168,
+        "album": "Greatest Hits",
+        "tags": [
+          "classic rock",
+          "rock",
+          "queen",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2012,
+        "artist": "Queen"
+      },
+      {
+        "name": "Seven Seas of Rhye",
+        "duration": 79,
+        "album": "Greatest Hits",
+        "tags": [
+          "classic rock",
+          "rock",
+          "queen",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2012,
+        "artist": "Queen"
+      },
+      {
+        "name": "We Will Rock You",
+        "duration": 120,
+        "album": "Greatest Hits",
+        "tags": [
+          "classic rock",
+          "rock",
+          "queen",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2012,
+        "artist": "Queen"
+      },
+      {
+        "name": "We Are the Champions",
+        "duration": 181,
+        "album": "Greatest Hits",
+        "tags": [
+          "classic rock",
+          "rock",
+          "queen",
+          "70s",
+          "80s"
+        ],
+        "lyrics": "Couldn't find lyrics for this track",
+        "genre": "classic rock",
+        "releaseYear": 2012,
+        "artist": "Queen"
+      }
+    ],
+    "description": "Greatest Hits is a compilation album by the British rock band Queen. The record, released on November 2, 1981, is the UK's all-time best-selling album. Combined with Greatest Hits II, it became the definitive Queen compilation. While a domestic release with different tracks but the same cover art was available in the U.S. in 1981, the British release was available to United States customers only by import until the 1995 release of Greatest Hits I & II, which combined the two discs. The seventeen-track UK Greatest Hits disc was released in the U.S. on its own for the first time, <a href=\"https://www.last.fm/music/Queen/Greatest+Hits\">Read more on Last.fm</a>.",
+    "releaseYear": 2012
+  },
+  {
+    "command": "addUser",
+    "timestamp": 40,
+    "type": "user",
+    "username": "ghiu",
+    "age": 45,
+    "city": "Bucuresti"
+  },
+  {
+    "command": "search",
+    "username": "ghiu",
+    "timestamp": 45,
+    "type": "podcast",
+    "filters": {
+      "name": "Auditory Adventures",
+      "owner": "TED-X"
+    }
+  },
+  {
+    "command": "select",
+    "username": "ghiu",
+    "timestamp": 50,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "ghiu",
+    "timestamp": 55
+  },
+  {
+    "command": "changePage",
+    "username": "ghiu",
+    "timestamp": 60,
+    "nextPage": "LikedContent"
+  },
+  {
+    "command": "printCurrentPage",
+    "username": "ghiu",
+    "timestamp": 65
+  },
+  {
+    "command": "status",
+    "username": "ghiu",
+    "timestamp": 70
+  },
+  {
+    "command": "changePage",
+    "username": "ghiu",
+    "timestamp": 75,
+    "nextPage": "Host"
+  },
+  {
+    "command": "printCurrentPage",
+    "username": "ghiu",
+    "timestamp": 85
+  },
+  {
+    "command": "search",
+    "username": "ghiu",
+    "timestamp": 90,
+    "type": "song",
+    "filters": {
+      "name": "Boh"
+    }
+  },
+  {
+    "command": "select",
+    "username": "ghiu",
+    "timestamp": 100,
+    "itemNumber": 1
+  },
+  {
+    "command": "load",
+    "username": "ghiu",
+    "timestamp": 105
+  },
+  {
+    "command": "status",
+    "username": "ghiu",
+    "timestamp": 115
+  },
+  {
+    "command": "like",
+    "username": "ghiu",
+    "timestamp": 130
+  },
+  {
+    "command": "updateRecommendations",
+    "username": "ghiu",
+    "timestamp": 152,
+    "recommendationType": "random_song"
+  },
+  {
+    "command": "loadRecommendations",
+    "username": "ghiu",
+    "timestamp": 155
+  },
+  {
+    "command": "status",
+    "username": "ghiu",
+    "timestamp": 165
+  },
+  {
+    "command": "changePage",
+    "username": "ghiu",
+    "timestamp": 175,
+    "nextPage": "Artist"
+  },
+  {
+    "command": "like",
+    "username": "ghiu",
+    "timestamp": 195
+  },
+  {
+    "command": "changePage",
+    "username": "ghiu",
+    "timestamp": 200,
+    "nextPage": "Home"
+  },
+  {
+    "command": "printCurrentPage",
+    "username": "ghiu",
+    "timestamp": 205
+  },
+  {
+    "command": "previousPage",
+    "username": "ghiu",
+    "timestamp": 210
+  },
+  {
+    "command": "previousPage",
+    "username": "ghiu",
+    "timestamp": 215
+  },
+  {
+    "command": "previousPage",
+    "username": "ghiu",
+    "timestamp": 220
+  },
+  {
+    "command": "nextPage",
+    "username": "ghiu",
+    "timestamp": 235
+  },
+  {
+    "command": "printCurrentPage",
+    "username": "ghiu",
+    "timestamp": 240
+  },
+  {
+    "command": "changePage",
+    "username": "ghiu",
+    "timestamp": 245,
+    "nextPage": "Home"
+  },
+  {
+    "command": "nextPage",
+    "username": "ghiu",
+    "timestamp": 255
+  },
+  {
+    "command": "printCurrentPage",
+    "username": "ghiu",
+    "timestamp": 265
+  },
+  {
+    "command": "nextPage",
+    "username": "ghiu",
+    "timestamp": 275
+  }
+]
